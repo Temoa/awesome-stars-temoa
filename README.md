@@ -12,8 +12,9 @@
 
 ## Table of Contents
 
-*   [Dart](#dart)
+*   [C](#c)
 *   [TypeScript](#typescript)
+*   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Java](#java)
@@ -22,17 +23,16 @@
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [HLSL](#hlsl)
 *   [Dockerfile](#dockerfile)
 *   [Lua](#lua)
-*   [C](#c-2)
 *   [CSS](#css)
 *   [Batchfile](#batchfile)
 *   [AutoIt](#autoit)
@@ -52,131 +52,63 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
-## Dart
+## C
 
 ​
 
-*   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
+*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一款同时适配Android TV和Android Phone的视频播放器，同时支持云播放(阿里云盘、夸克网盘和Webdav)和本地播放，支持刮削影视的元信息，界面简洁纯净，操作简单
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
-*   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
+*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
 
-*   [RafaelBarbosatec/bonfire](https://github.com/RafaelBarbosatec/bonfire) - (RPG maker) Create RPG-style or similar games more simply with Flame.
+*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
 
-*   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
+*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
 
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 
-*   [adar2378/pin\_code\_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓
+*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
 
-*   [diegoveloper/flutter\_keyboard\_actions](https://github.com/diegoveloper/flutter_keyboard_actions) -
+*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
 
-*   [gonuit/flutter-custom-refresh-indicator](https://github.com/gonuit/flutter-custom-refresh-indicator) - Widget that makes it easy to implement a custom pull to refresh gesture.
+*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
 
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 
-*   [rvamsikrishna/inview\_notifier\_list](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a list view and notifies when the widgets are on screen.
+*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
 
-*   [jankuss/genq](https://github.com/jankuss/genq) - Instant Data Class Generation for Dart
+*   [hexhacking/xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
 
-*   [gskinnerTeam/flutter\_custom\_carousel](https://github.com/gskinnerTeam/flutter_custom_carousel) - A Flutter widget for creating fully custom, animated scrollable lists. It manages all of the tricky logic surrounding scroll interactions and physics, and leaves the visual presentation of items up to you.
+*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 
-*   [gskinnerTeam/flutter\_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
-*   [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
+*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
 
-*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
+*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
 
-*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
+*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 
-*   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
+*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
 
-*   [leanflutter/flutter\_distributor](https://github.com/leanflutter/flutter_distributor) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
-*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
+*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
 
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
 
-*   [josiahsrc/dough](https://github.com/josiahsrc/dough) - This package provides some widgets you can use to create a smooshy UI.
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
-
-*   [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome) - 📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Android / iOS camera experience.
-
-*   [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - ONNX runtime for Flutter.
-
-*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [xclud/flutter\_crop](https://github.com/xclud/flutter_crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
-
-*   [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
-
-*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。
-
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
-
-*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS
-
-*   [leocavalcante/encrypt](https://github.com/leocavalcante/encrypt) - 🔒 A set of high-level APIs over PointyCastle for two-way cryptography.
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-*   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
-
-*   [hackware1993/Flutter\_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) - A super powerful Stack, build flexible layouts with constraints. Similar to ConstraintLayout for Android and AutoLayout for iOS. But the code implementation is much more efficient, it has O(n) layout time complexity and no linear equation solving is required.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [Roaa94/recipes\_ui\_app](https://github.com/Roaa94/recipes_ui_app) - Demo App for The FlutterVikings Conference Session
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
-
-*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
-
-*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
-
-*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-
-*   [Fliggy-Mobile/fbroadcast](https://github.com/Fliggy-Mobile/fbroadcast) - FBroadcast Help developers build an efficient broadcast system in the application.
-
-*   [lucinhu/bili\_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [mono0926/adaptive\_dialog](https://github.com/mono0926/adaptive_dialog) - Show alert dialog or modal action sheet adaptively according to platform.
-
-*   [nslogx/flutter\_easyloading](https://github.com/nslogx/flutter_easyloading) - ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web
-
-*   [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
-
-*   [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
-
-*   [shamblett/mqtt\_client](https://github.com/shamblett/mqtt_client) - A server and browser based MQTT client for dart
-
-*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
-
-*   [alibaba/flutter\_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
-
-*   [florent37/Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView) - Give a custom shape to any flutter widget, Material Design 2 ready
+*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 
 ## TypeScript
 
 ​
+
+*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的自己 ✨
 
 *   [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
 
@@ -323,6 +255,128 @@
 *   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
 
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+## Dart
+
+​
+
+*   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
+
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一款同时适配Android TV和Android Phone的视频播放器，同时支持云播放(阿里云盘、夸克网盘和Webdav)和本地播放，支持刮削影视的元信息，界面简洁纯净，操作简单
+
+*   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
+
+*   [RafaelBarbosatec/bonfire](https://github.com/RafaelBarbosatec/bonfire) - (RPG maker) Create RPG-style or similar games more simply with Flame.
+
+*   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [adar2378/pin\_code\_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓
+
+*   [diegoveloper/flutter\_keyboard\_actions](https://github.com/diegoveloper/flutter_keyboard_actions) -
+
+*   [gonuit/flutter-custom-refresh-indicator](https://github.com/gonuit/flutter-custom-refresh-indicator) - Widget that makes it easy to implement a custom pull to refresh gesture.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [rvamsikrishna/inview\_notifier\_list](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a list view and notifies when the widgets are on screen.
+
+*   [jankuss/genq](https://github.com/jankuss/genq) - Instant Data Class Generation for Dart
+
+*   [gskinnerTeam/flutter\_custom\_carousel](https://github.com/gskinnerTeam/flutter_custom_carousel) - A Flutter widget for creating fully custom, animated scrollable lists. It manages all of the tricky logic surrounding scroll interactions and physics, and leaves the visual presentation of items up to you.
+
+*   [gskinnerTeam/flutter\_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
+
+*   [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
+
+*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
+
+*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
+
+*   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
+
+*   [leanflutter/flutter\_distributor](https://github.com/leanflutter/flutter_distributor) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
+
+*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+
+*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [josiahsrc/dough](https://github.com/josiahsrc/dough) - This package provides some widgets you can use to create a smooshy UI.
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+
+*   [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome) - 📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Android / iOS camera experience.
+
+*   [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - ONNX runtime for Flutter.
+
+*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [xclud/flutter\_crop](https://github.com/xclud/flutter_crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
+
+*   [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+
+*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。
+
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
+
+*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS
+
+*   [leocavalcante/encrypt](https://github.com/leocavalcante/encrypt) - 🔒 A set of high-level APIs over PointyCastle for two-way cryptography.
+
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+*   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
+
+*   [hackware1993/Flutter\_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) - A super powerful Stack, build flexible layouts with constraints. Similar to ConstraintLayout for Android and AutoLayout for iOS. But the code implementation is much more efficient, it has O(n) layout time complexity and no linear equation solving is required.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [Roaa94/recipes\_ui\_app](https://github.com/Roaa94/recipes_ui_app) - Demo App for The FlutterVikings Conference Session
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
+
+*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
+
+*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
+
+*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
+
+*   [Fliggy-Mobile/fbroadcast](https://github.com/Fliggy-Mobile/fbroadcast) - FBroadcast Help developers build an efficient broadcast system in the application.
+
+*   [lucinhu/bili\_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [mono0926/adaptive\_dialog](https://github.com/mono0926/adaptive_dialog) - Show alert dialog or modal action sheet adaptively according to platform.
+
+*   [nslogx/flutter\_easyloading](https://github.com/nslogx/flutter_easyloading) - ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web
+
+*   [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
+
+*   [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
+
+*   [shamblett/mqtt\_client](https://github.com/shamblett/mqtt_client) - A server and browser based MQTT client for dart
+
+*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
+
+*   [alibaba/flutter\_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
+
+*   [florent37/Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView) - Give a custom shape to any flutter widget, Material Design 2 ready
 
 ## Kotlin
 
@@ -1896,10 +1950,6 @@
 
 *   [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
 
-*   [zaaach/CityPicker](https://github.com/zaaach/CityPicker) - :fire::fire::fire:城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
-
-*   [Panl/Gank.io](https://github.com/Panl/Gank.io) - gank.io client RxJava、Retrofit & MVP
-
 ## Jupyter Notebook
 
 ​
@@ -2583,56 +2633,6 @@
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-
-## C
-
-​
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
-
-*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
-
-*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-
-*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
-
-*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
-
-*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
-
-*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
-
-*   [hexhacking/xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
-
-*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
-
-*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
-
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
-
-*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
-
-*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-
-*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
-
-*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 
 ## CSS
 
