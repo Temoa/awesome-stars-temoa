@@ -626,7 +626,7 @@
 
 *   [leanflutter/flutter\_distributor](https://github.com/leanflutter/flutter_distributor) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
 
-*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
 
 *   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
 
