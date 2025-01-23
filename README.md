@@ -126,7 +126,7 @@
 
 *   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
 
-*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS
+*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows.
 
 *   [leocavalcante/encrypt](https://github.com/leocavalcante/encrypt) - 🔒 A set of high-level APIs over PointyCastle for two-way cryptography.
 
