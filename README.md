@@ -638,7 +638,7 @@
 
 *   [shensven/Crazy-Thursday](https://github.com/shensven/Crazy-Thursday) - 🎉 发给你的好友，让 TA 请你吃炸鸡！
 
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0.
 
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
@@ -2298,7 +2298,7 @@
 
 *   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 
-*   [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即用即走的翻译、OCR工具
+*   [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 *   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 
