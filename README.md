@@ -286,7 +286,7 @@
 
 *   [oooldtoy/SSTAP\_ip\_crawl\_tool](https://github.com/oooldtoy/SSTAP_ip_crawl_tool) - 一个自动获取游戏远程ip，并自动写成SSTAP/NETCH规则文件的脚本
 
-*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github和Gitee之间同步代码。Action for mirroring repos between Hubs (like Github and Gitee).
+*   [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee和GitLab之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee and GitLab).
 
 *   [SuperNG6/Docker-qBittorrent-Enhanced-Edition](https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition) - Docker-qBittorrent-Enhanced-Edition
 
