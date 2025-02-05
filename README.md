@@ -632,7 +632,7 @@
 
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
 
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [isxuelinme/openai\_cloudflare\_worker\_proxy](https://github.com/isxuelinme/openai_cloudflare_worker_proxy) - using worker of cloudflare resolve can't using api problem in china
 
@@ -784,7 +784,7 @@
 
 *   [sskEvan/NCMusicDesktop](https://github.com/sskEvan/NCMusicDesktop) - Compose Desktop仿写网易云桌面应用
 
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 索引，在线 + BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 同步，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
 
 *   [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
 
@@ -872,7 +872,7 @@
 
 *   [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
 
-*   [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A light and extensible chart library for Android.
+*   [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library.
 
 *   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 
@@ -2308,7 +2308,7 @@
 
 *   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 
-*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 
