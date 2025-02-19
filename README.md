@@ -618,7 +618,7 @@
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 
-*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 
 *   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 
@@ -766,7 +766,7 @@
 
 *   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Unstyled, fully accessible Compose Multiplatform UI components that you can customize to your heart's content.
 
-*   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload
+*   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on a special desktop JVM, and intelligently reloads your code whenever it is changed.
 
 *   [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ✨ An android Library to enhance UIs, supporting a wide range of common use-cases with Dialogs, Popups, and Bottom Sheets. ✨
 
