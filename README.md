@@ -1616,7 +1616,7 @@
 
 *   [leotyndale/EnFloatingView](https://github.com/leotyndale/EnFloatingView) - 🔥应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view.
 
-*   [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
 
