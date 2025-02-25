@@ -56,6 +56,8 @@
 
 ​
 
+*   [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - Build terminal UI in Kotlin using Jetpack Compose
+
 *   [mejdi14/Shader-Ripple-Effect](https://github.com/mejdi14/Shader-Ripple-Effect) - Android AGSL Shader effect library
 
 *   [kevincianfarini/alchemist](https://github.com/kevincianfarini/alchemist) - Type safe management and arithmetic of physical units. Inspired by kotlin.time.Duration.
@@ -665,6 +667,8 @@
 ## Python
 
 ​
+
+*   [TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 
 *   [Hoper-J/AI-Guide-and-Demos-zh\_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 
@@ -2182,8 +2186,6 @@
 
 *   [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
 
-*   [castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) - A small Android library allowing you to have a smooth and customizable horizontal or circular indeterminate ProgressBar
-
 ## Jupyter Notebook
 
 ​
@@ -2779,8 +2781,6 @@
 ​
 
 *   [jitingcn/TS3-Translation\_zh-CN](https://github.com/jitingcn/TS3-Translation_zh-CN) - TeamSpeak 3 客户端 简体中文 翻译源文件
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## FreeMarker
 
