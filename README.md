@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
@@ -51,6 +52,12 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Makefile
+
+​
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
 ## Dart
 
@@ -949,8 +956,6 @@
 *   [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
 
 *   [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
-
-*   [Yalantis/uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
 
 ## Kotlin
 
