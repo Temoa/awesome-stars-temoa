@@ -2397,7 +2397,7 @@
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
-*   [evcc-io/evcc](https://github.com/evcc-io/evcc) - Solar Charging ☀️🚘
+*   [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 
 *   [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
