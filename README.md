@@ -1047,7 +1047,7 @@
 
 *   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
 
-*   [leanflutter/flutter\_distributor](https://github.com/leanflutter/flutter_distributor) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
+*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
 
 *   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
 
