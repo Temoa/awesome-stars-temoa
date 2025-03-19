@@ -569,7 +569,7 @@
 
 *   [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - Build terminal UI in Kotlin using Jetpack Compose
 
-*   [mejdi14/Shader-Ripple-Effect](https://github.com/mejdi14/Shader-Ripple-Effect) - Android AGSL Shader effect library
+*   [mejdi14/Android-AGSL-Shader-Playground](https://github.com/mejdi14/Android-AGSL-Shader-Playground) - Android AGSL Shader effect library
 
 *   [kevincianfarini/alchemist](https://github.com/kevincianfarini/alchemist) - Type safe management and arithmetic of physical units. Inspired by kotlin.time.Duration.
 
