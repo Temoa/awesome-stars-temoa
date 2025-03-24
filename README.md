@@ -1986,7 +1986,7 @@
 
 *   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
 
-*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.
+*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
 
 *   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
 
@@ -2128,7 +2128,7 @@
 
 *   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
 
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
 
 *   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 
@@ -2536,7 +2536,7 @@
 
 ​
 
-*   [leanflutter/window\_manager](https://github.com/leanflutter/window_manager) - This plugin allows Flutter desktop apps to resizing and repositioning the window.
+*   [leanflutter/window\_manager](https://github.com/leanflutter/window_manager) - The window\_manager plugin provides comprehensive window management capabilities for Flutter desktop applications, enabling full control over window size, position, appearance, close behavior, and listening to events.
 
 *   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 
