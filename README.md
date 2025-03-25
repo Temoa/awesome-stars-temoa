@@ -12,16 +12,16 @@
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [C](#c)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [Swift](#swift)
-*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
@@ -51,6 +51,812 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Java
+
+​
+
+*   [DysaniazzZ/TopActivity](https://github.com/DysaniazzZ/TopActivity) - A useful tool to get top activity's package name and class name.
+
+*   [Mino260806/KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
+
+*   [steve-community/steve](https://github.com/steve-community/steve) - SteVe - OCPP server implementation in Java
+
+*   [MyMonsterCat/RapidOcr-Java](https://github.com/MyMonsterCat/RapidOcr-Java) - 🔥🔥🔥Java代码实现调用RapidOCR(基于PaddleOCR)，适配Mac、Win、Linux，支持最新PP-OCRv4
+
+*   [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
+
+*   [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+
+*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
+
+*   [FoedusProgramme/AccordLegacy](https://github.com/FoedusProgramme/AccordLegacy) - Gramophone but apple
+
+*   [Nekogram/WSProxy](https://github.com/Nekogram/WSProxy) -
+
+*   [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
+
+*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+
+*   [shaoshuai904/RecordWav](https://github.com/shaoshuai904/RecordWav) - Android wav/pcm 录音机，支持暂停、再录制。支持跳过静音区模式。
+
+*   [L-X-J/RichText-Androidx](https://github.com/L-X-J/RichText-Androidx) - Android平台下的富文本解析器，支持Html和Markdown,支持Androidx
+
+*   [jenly1314/ArcSeekBar](https://github.com/jenly1314/ArcSeekBar) - 🎡 ArcSeekBar 一个弧形可拖动进度条控件。弧形大小，弧度，颜色渐变等配置完全可定制化
+
+*   [mikaelzero/mojito](https://github.com/mikaelzero/mojito) - 微信、bilibili大图、长图、gif、视频、自定义view的转场效果，The transition effect of wechat, bilibili large image, long image, GIF, video and custom view
+
+*   [nex3z/FlowLayout](https://github.com/nex3z/FlowLayout) - A flow layout for Android with auto-spacing.
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [junixapp/XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)
+
+*   [youlookwhat/ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏  WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、\[腾讯x5使用示例]
+
+*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
+
+*   [googlesamples/mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+
+*   [mcxtzhang/SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) - The most simple SwipeMenu in the history, 0 coupling, support any ViewGroup. Step integration swipe (delete) menu, high imitation QQ, iOS. ~史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。~
+
+*   [taoweiji/MixPush](https://github.com/taoweiji/MixPush) - Android 混合推送SDK，快速集成6个厂商推送，共享系统推送通道，杀死也能收到推送，推送到达率90%以上
+
+*   [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+
+*   [CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin) - This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+*   [HokoFly/HokoBlur](https://github.com/HokoFly/HokoBlur) - an easy-to-use blur library for Android, support efficient dynamic blur tasks.
+
+*   [RikkaApps/AutoResConfig](https://github.com/RikkaApps/AutoResConfig) - A gradle plugin generates resConfig & languages array from project res folder.
+
+*   [peihua8858/AndroidStringsPlugin](https://github.com/peihua8858/AndroidStringsPlugin) - 一个用于将android多语言转换为excel，也可以将excel转换为android多语言的idea插件
+
+*   [vvb2060/PackageInstallerTest](https://github.com/vvb2060/PackageInstallerTest) - Android PackageInstaller API silent update test app
+
+*   [eleme/lancet](https://github.com/eleme/lancet) - A lightweight and fast AOP framework for Android App and SDK developers
+
+*   [guyijie1211/JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
+
+*   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+
+*   [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
+
+*   [dadaewq/Install-Lion](https://github.com/dadaewq/Install-Lion) - 安装狮 接入了 冰箱SDK、Delegated-Scopes-Manager与Shizuku实现静默安装
+
+*   [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) - A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.
+
+*   [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
+
+*   [leonbloy/pngj](https://github.com/leonbloy/pngj) - PNGJ : pure Java library for high performance PNG encoding
+
+*   [seven456/SafeWebView](https://github.com/seven456/SafeWebView) - Android Safe WebView、解决WebView的Js对象注入漏洞、支持网页将JS函数（function）传到Java层，方便回调；
+
+*   [Leaking/Hunter](https://github.com/Leaking/Hunter) - A fast, incremental, concurrent framework to develop compile plugin for android project to manipulate bytecode
+
+*   [airbnb/epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
+
+*   [DSAppTeam/PanelSwitchHelper](https://github.com/DSAppTeam/PanelSwitchHelper) - :heavy\_check\_mark:  A framework that helps the keyboard smoothly transition to the function panel    一个帮助键盘平稳过渡到功能面板的框架，支持动画无缝衔接，支持 activity/fragment/dialog/dialogFragment/popupWindow 容器，支持IM/直播/视频播放/信息流评论等场景，支持全屏模式。
+
+*   [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
+
+*   [Dansoftowner/jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) - Java library for detecting that the (desktop) operating system uses dark UI theme or not
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+
+*   [Mocha-L/QuJing](https://github.com/Mocha-L/QuJing) - 曲境是一个xposed模块，可支持在PC浏览器上动态监控（hook）安卓APP的函数调用和查看堆栈信息，及反射调用（invoke）等功能。
+
+*   [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
+
+*   [JMagician/Magician](https://github.com/JMagician/Magician) - Magician is a small HTTP service package based on Netty that makes it very easy to start an http service, and also supports WebSocket, using annotated configuration Handler, If you want to develop an http service with netty but find it cumbersome, then Magician may help you.
+
+*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+
+*   [Jacksgong/JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - For resolve the layout conflict when keybord & panel are switching (Android键盘面板冲突 布局闪动处理方案)
+
+*   [Meituan-Dianping/Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
+
+*   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
+
+*   [simplepeng/SpiderMan](https://github.com/simplepeng/SpiderMan) - 🔥🔥🔥 - 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
+
+*   [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - :point\_right: Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+
+*   [dariuszseweryn/RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface
+
+*   [JakeWharton/RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer.
+
+*   [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding PoC (scrcpy, but for audio)
+
+*   [xiaolf1/AppDress](https://github.com/xiaolf1/AppDress) - AppDress is a android library that change app ui color with sample code.
+
+*   [skydoves/ColorPickerView](https://github.com/skydoves/ColorPickerView) - 🎨 Android colorpicker for getting colors from any images by tapping on the desired color.
+
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
+*   [Takhion/renderthread](https://github.com/Takhion/renderthread) - Android's RenderThread wrapper
+
+*   [tobiasrohloff/NestedScrollWebView](https://github.com/tobiasrohloff/NestedScrollWebView) - An Android WebView that implements NestedScrollingChild, in order to use it with CoordinatorLayout and AppBarLayout.
+
+*   [houbb/opencc4j](https://github.com/houbb/opencc4j) - 🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换)
+
+*   [AlynxZhou/alynx-live-wallpaper](https://github.com/AlynxZhou/alynx-live-wallpaper) - An android app that allows you choose a video as wallpaper.
+
+*   [jkozh/DragDropTwoRecyclerViews](https://github.com/jkozh/DragDropTwoRecyclerViews) - A code example demonstrating a dragging and dropping from one RecyclerView into another RecyclerView.
+
+*   [afkT/DevUtils](https://github.com/afkT/DevUtils) - :fire:  ( 持续更新，目前含 300+ 工具类 ) DevUtils 是一个 Android 工具库，主要根据不同功能模块，封装快捷使用的工具类及 API 方法调用。该项目尽可能的便于开发人员，快捷、高效开发安全可靠的项目。
+
+*   [huxq17/Pump](https://github.com/huxq17/Pump) - A smart tool for android download,support BreakPoint、MultiTask and MultiThread.
+
+*   [virtualvivek/BlurShadowImageView](https://github.com/virtualvivek/BlurShadowImageView) - A library for Android provides blurred drop shadows to ImageView similar to iOS image backdrop shadows.Provides fast canvas draw as no renderscript needed .The similar shadow blurred effects can also be seen in iOS Music App.
+
+*   [KunMinX/UnPeek-LiveData](https://github.com/KunMinX/UnPeek-LiveData) - LiveData 数据倒灌：别问，问就是不可预期 - Perfect alternative to SingleLiveEvent, supporting multiple observers.
+
+*   [aiceking/AppStartFaster](https://github.com/aiceking/AppStartFaster) - Android冷启动优化，有向无环图启动器
+
+*   [sarnavakonar/TextWriter](https://github.com/sarnavakonar/TextWriter) - Animate your texts like never before
+
+*   [devilist/AdvancedTextView](https://github.com/devilist/AdvancedTextView) - 一个增强的TextView库。可以实现文字两端对齐，文字竖排，以及自定义选择文字后的弹出菜单。
+
+*   [google/ExoPlayer](https://github.com/google/ExoPlayer) - This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
+
+*   [JeremyLiao/FastSharedPreferences](https://github.com/JeremyLiao/FastSharedPreferences) - :rocket:一个Android平台的高性能key-value组件，读写性能远超SharedPreferences
+
+*   [lamster2018/EasyProtector](https://github.com/lamster2018/EasyProtector) - 一行代码检测XP/调试/多开/模拟器/root
+
+*   [ThanosFisherman/WifiUtils](https://github.com/ThanosFisherman/WifiUtils) - Easily Connect to WiFi Networks
+
+*   [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+
+*   [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) - BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
+
+*   [WrBug/FrenziedProguard](https://github.com/WrBug/FrenziedProguard) -
+
+*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+
+*   [souramoo/unapkm](https://github.com/souramoo/unapkm) - APKM file decryptor
+
+*   [JessYanCoding/InsGallery](https://github.com/JessYanCoding/InsGallery) - 📸 Instagram-like image picker for Android (一款 UI 炫酷高仿 Instagram 的图片、视频选择器)
+
+*   [RikkaApps/SaveCopy](https://github.com/RikkaApps/SaveCopy) - Simple Android app, handle ACTION\_VIEW, ACTION\_SEND, ACTION\_SEND\_MULTIPLE, save a copy of the file. For bad apps which only allow users to open files.
+
+*   [zhangjianli/StallBuster](https://github.com/zhangjianli/StallBuster) - A simple tool to detect the reason why your Android app is slow.
+
+*   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
+
+*   [Jasonchenlijian/FastBle](https://github.com/Jasonchenlijian/FastBle) - Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.
+
+*   [fython/MaterialStepperView](https://github.com/fython/MaterialStepperView) - Steppers - Material Design Components for Android
+
+*   [MartinRGB/Animer](https://github.com/MartinRGB/Animer) - for a better Android Experience
+
+*   [aldrek/Flip\_Digit](https://github.com/aldrek/Flip_Digit) -   Flip digit Library that makes a cool and flexible animation flip when changing from one numbers to another
+
+*   [zhanghai/AppIconLoader](https://github.com/zhanghai/AppIconLoader) - Android app icon loader from AOSP iconloaderlib
+
+*   [JeremyLiao/SmartEventBus](https://github.com/JeremyLiao/SmartEventBus) - :postbox:SmartEventBus是一个Android平台的消息总线框架，这是一款非常smart的消息总线框架，能让你定制自己的消息总线。
+
+*   [JakeWharton/agp-java-support](https://github.com/JakeWharton/agp-java-support) - Tracking your ability to use new Java language features and APIs in an Android app
+
+*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
+
+*   [microsoft/project-rome](https://github.com/microsoft/project-rome) - Code samples and documentation of Microsoft's Project Rome SDK
+
+*   [heruoxin/CacheFunctionUtil](https://github.com/heruoxin/CacheFunctionUtil) - Tiny helper class to provide cache for the result of repeated functions.
+
+*   [markusfisch/WaveLinesWallpaper](https://github.com/markusfisch/WaveLinesWallpaper) - A simple, unobstrusive live wallpaper for Android showing slowly moving wave lines
+
+*   [RmondJone/LockTableView](https://github.com/RmondJone/LockTableView) - Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。Android custom table, support two-way lock header, adaptive column width, adaptive line width, rapid integration.
+
+*   [natario1/CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
+
+*   [zhihu/SugarAdapter](https://github.com/zhihu/SugarAdapter) - Make RecyclerView.Adapter Great Again!
+
+*   [bytedance/ByteX](https://github.com/bytedance/ByteX) - ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
+
+*   [mouyase/pivisionM](https://github.com/mouyase/pivisionM) - A pixiv client for Android
+
+*   [XieZhiFa/IdCardOCR](https://github.com/XieZhiFa/IdCardOCR) - 身份证正反面识别，身份证扫描识别，二代身份证OCR识别，OCR极速识别身份证所有信息正反面均可。离线无需联网,极速秒扫。
+
+*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
+
+*   [android/animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
+
+*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android localization plugin. supports multiple languages and multiple translators.
+
+*   [saket/Better-Link-Movement-Method](https://github.com/saket/Better-Link-Movement-Method) - Attempts to improve how clickable links are detected, highlighted and handled in TextView
+
+*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
+
+*   [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+
+*   [SValence/SafeKeyboard](https://github.com/SValence/SafeKeyboard) - Android自定义安全软键盘，完全自定义，方便、安全、可靠
+
+*   [zhanghai/AndroidFastScroll](https://github.com/zhanghai/AndroidFastScroll) - Fast scroll for Android RecyclerView and more
+
+*   [leotyndale/EnFloatingView](https://github.com/leotyndale/EnFloatingView) - 🔥应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view.
+
+*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
+
+*   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
+
+*   [AnyChart/AnyChart-Android](https://github.com/AnyChart/AnyChart-Android) - AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.
+
+*   [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
+
+*   [apsun/NekoSMS](https://github.com/apsun/NekoSMS) - A pattern-based text message blocker for Android.
+
+*   [aohanyao/ViewPagerCardTransformer](https://github.com/aohanyao/ViewPagerCardTransformer) - 🖥各种方向的ViewPager层叠卡片
+
+*   [kongzue/StackLabel](https://github.com/kongzue/StackLabel) - 🔥空祖家的堆叠标签（以下碎念：一开始起名字“StackLabel”没想太多结果被人吐槽Stack是整齐堆叠的意思...........好吧这是我的锅不过现在要改也来不及了，好用就行了...吧？
+
+*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+
+*   [deepmedia/Transcoder](https://github.com/deepmedia/Transcoder) - 🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more.
+
+*   [gayanvoice/android-animations](https://github.com/gayanvoice/android-animations) - Perform tweened animations such as Attention, Bounce, Fade, Flip, Rotate, Slide and Zoom on Views
+
+*   [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) -
+
+*   [uber/RxCentralBle](https://github.com/uber/RxCentralBle) - A reactive, interface-driven central role Bluetooth LE library for Android
+
+*   [pakoito/RxPaper2](https://github.com/pakoito/RxPaper2) - NoSQL storage with RxJava2 bindings \[STABLE]
+
+*   [lanshifu/MultiDexTest](https://github.com/lanshifu/MultiDexTest) - MultiDex
+
+*   [XingdongYu/QQNaviView](https://github.com/XingdongYu/QQNaviView) - 模仿手机QQ底部导航栏Icon拖拽效果
+
+*   [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A declarative API to handle Android runtime permissions.
+
+*   [yellowcath/VideoProcessor](https://github.com/yellowcath/VideoProcessor) - process video(cut & scale & increase & decrease & reverse) with mediacodec
+
+*   [mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView) - 用于做Path动画的自定义View。 I have a path.I have a view. (Oh~),Path(Anim)View.
+
+*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
+
+*   [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
+
+*   [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
+
+*   [MegatronKing/StringFog](https://github.com/MegatronKing/StringFog) - 一款自动对字节码中的字符串进行加密Android插件工具
+
+*   [zhpanvip/BannerViewPager](https://github.com/zhpanvip/BannerViewPager) - 🚀  An awesome banner view  for Android，Based on ViewPager2. 这可能是全网最好用的ViewPager轮播图。简单、高效，一行代码实现循环轮播，一屏三页任意变，指示器样式任你挑。
+
+*   [meituan/WMRouter](https://github.com/meituan/WMRouter) - WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
+
+*   [liujingxing/rxlife](https://github.com/liujingxing/rxlife) - 一行代码解决RxJava 内存泄漏，一款轻量级别的RxJava生命周期管理库
+
+*   [yrom/shrinker](https://github.com/yrom/shrinker) - Inline constant fields of android R class by asm and transform-api
+
+*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+
+*   [jaredrummler/ColorPicker](https://github.com/jaredrummler/ColorPicker) - A highly customizable color picker for Android
+
+*   [iqiyi/Andromeda](https://github.com/iqiyi/Andromeda) -  Andromeda simplifies local/remote communication for Android modularization
+
+*   [heruoxin/Delegated-Scopes-Manager](https://github.com/heruoxin/Delegated-Scopes-Manager) - 在单设备上共享设备管理员权限
+
+*   [luckybilly/SmartSwipe](https://github.com/luckybilly/SmartSwipe) - An android library to make swipe more easier and more powerful. Android各种侧滑，有这一个就够了
+
+*   [HuanTanSheng/EasyPhotos](https://github.com/HuanTanSheng/EasyPhotos) - 兼容android11、android 10，相机拍照，相册选择(单选/多选)，文件夹图片选择(单选/多选)，视频选择，视频图片多类型复杂选择，各界面根据状态栏颜色智能适配状态栏字体颜色变色为深色或浅色，根据使用场景智能适配沉浸式状态栏，内部处理运行时权限，支持Glide/Picasso/Imageloader等所有图片加载框架库的带默认勾选选中图片的能填充自定义广告的自定义Ui相机相册图片浏览选择器；更有拼图/文字贴纸/贴图/图片缩放/Bitmap图片添加水印/媒体文件更新到媒体库等众多Bitmap图片编辑功能的android Bitmap图片处理工具框架库。
+
+*   [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
+
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+
+*   [guxiaonian/MobileInfo](https://github.com/guxiaonian/MobileInfo) - 【Android】Hardware Information. For detailed network diagnosis, please refer to【HttpInfo】
+
+*   [suceser/android-open-framework-analysis](https://github.com/suceser/android-open-framework-analysis) - Android open framework analysis
+
+*   [Chainfire/HoleyLight](https://github.com/Chainfire/HoleyLight) - Notification LED for Samsung/Pixel phones with in-screen camera cut-out (punch-hole)
+
+*   [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
+
+*   [LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - A great material designed colorpicker by Marie Schweiz
+
+*   [florent37/ViewTooltip](https://github.com/florent37/ViewTooltip) - A fluent tooltip for Android
+
+*   [googlearchive/android-ConstraintLayoutExamples](https://github.com/googlearchive/android-ConstraintLayoutExamples) - Migrated:
+
+*   [ww6015132/SilkySignature](https://github.com/ww6015132/SilkySignature) - An Smooth and silky signature pad for android
+
+*   [Trumeet/OhMySAF](https://github.com/Trumeet/OhMySAF) - Oh my SAF - Android simple SAF helper
+
+*   [Baseflow/PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
+
+*   [nex3z/ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup) - A group of flowable toggle buttons, with multiple / single selection support and button customization.
+
+*   [hearsilent/DiscreteSlider](https://github.com/hearsilent/DiscreteSlider) - A slider (SeekBar) with amazing value label.
+
+*   [harjot-oberai/Croller](https://github.com/harjot-oberai/Croller) - A circular seekbar for Android, with a control knob! (for the lack of a better word).
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+*   [fython-tools/DocUIProxy-Android](https://github.com/fython-tools/DocUIProxy-Android) - Fake Camera App to proxy Documents UI Selector for WeChat and other apps
+
+*   [luckybilly/Gloading](https://github.com/luckybilly/Gloading) - Show global loading status view in a low coupling way for Android App(超轻量级，深度解耦Android App中全局加载中、加载失败及空数据视图)
+
+*   [gavinliu/ShapedImageView](https://github.com/gavinliu/ShapedImageView) - Android  Rounded, Circle, Path ImageView
+
+*   [panyiho/EasyPermission](https://github.com/panyiho/EasyPermission) - 一个非常轻便而且可用的Android动态权限申请库
+
+*   [dinuscxj/MultiTouchGestureDetector](https://github.com/dinuscxj/MultiTouchGestureDetector) - The MultiTouchGestureDetector Detects scaling, rotating and moving transformation gestures,  Whether you want ScaleGestureDetector, RotateGestureDetector, or MoveGestureDetector, this is always the best choice.
+
+*   [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
+
+*   [poldz123/ShapeRipple](https://github.com/poldz123/ShapeRipple) -
+
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+*   [dipanshukr/Viewpager-Transformation](https://github.com/dipanshukr/Viewpager-Transformation) - Why use dependencies when you create your own transformations for Viewpager ?
+
+*   [BaselHorany/ProgressStatusBar](https://github.com/BaselHorany/ProgressStatusBar) - Another way to show progress. A progress View over the system StatusBar.
+
+*   [ywwynm/EverythingDone](https://github.com/ywwynm/EverythingDone) - EverythingDone, an Android app to help you remember things, and finish them!
+
+*   [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
+
+*   [Qualeams/Android-Face-Recognition-with-Deep-Learning-Library](https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library) - Face Recognition library for Android devices is an Android library (module) which includes several face recognition methods.
+
+*   [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+
+*   [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus) - :mailbox\_with\_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
+
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
+
+*   [Nevolution/sdk](https://github.com/Nevolution/sdk) - Evolve the Android notification experience of existing apps, with community-driven plug-ins.
+
+*   [sromku/android-storage](https://github.com/sromku/android-storage) - Create, read, delete, append, encrypt files and more, on internal or external disk spaces with a really simple API
+
+*   [linisme/Cipher.so](https://github.com/linisme/Cipher.so) - A simple way to encrypt your secure data like passwords into a native .so library.
+
+*   [lopspower/LazyDatePicker](https://github.com/lopspower/LazyDatePicker) - LazyDatePicker an alternative to the native Android Date Picker 📅
+
+*   [balsikandar/Best-Coding-practices-in-android](https://github.com/balsikandar/Best-Coding-practices-in-android) - This repo is to add best practices that developers can apply to write clean, short and testable code in android.
+
+*   [duanhong169/GradientDrawableTuner](https://github.com/duanhong169/GradientDrawableTuner) - 🕹️ See how the properties of Android's "shape" affect the Drawable's appearance, intuitively.
+
+*   [raul-lsj/ScreenDensityUtils](https://github.com/raul-lsj/ScreenDensityUtils) - Android屏幕适配很麻烦吗？不！太简单了。。。
+
+*   [wildma/IDCardCamera](https://github.com/wildma/IDCardCamera) - :fire:Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪。 https://www.jianshu.com/p/5e3cb0c63cd5
+
+*   [vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker) - A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
+
+*   [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava2
+
+*   [steelkiwi/IncrementProductView](https://github.com/steelkiwi/IncrementProductView) - Interesting concept of products incrementation
+
+*   [xuexiangjys/RxBus](https://github.com/xuexiangjys/RxBus) - 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定。
+
+*   [PortgasAce/ZoomRecyclerView](https://github.com/PortgasAce/ZoomRecyclerView) - A Zoomable RecyclerView for comic
+
+*   [MichaelJokAr/MultiLanguages](https://github.com/MichaelJokAr/MultiLanguages) - android multi language support (support android O+)
+
+*   [NanBox/RippleLayout](https://github.com/NanBox/RippleLayout) - Simulating real water ripple effect.
+
+*   [Cicinnus0407/Zoom](https://github.com/Cicinnus0407/Zoom) - Google Room Persistence Library Extend.谷歌官方Room数据库扩展库
+
+*   [rengwuxian/HencoderKeyboard3](https://github.com/rengwuxian/HencoderKeyboard3) - 即刻点赞、薄荷健康尺、小米运动、Fliboard 翻页效果
+
+*   [warkiz/IndicatorSeekBar](https://github.com/warkiz/IndicatorSeekBar) - A custom SeekBar on Android, which can be changed the size ,color , thumb drawable , tick drawable , tick text and indicator , also , will show an indicator view with progress above SeekBar when seeking. https://github.com/warkiz/IndicatorSeekBar
+
+*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
+
+*   [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
+
+*   [fython/BiometricPromptCompat](https://github.com/fython/BiometricPromptCompat) - A Thrid-party BiometricPrompt compat library.
+
+*   [jiajunhui/PlayerBase](https://github.com/jiajunhui/PlayerBase) - The basic library of Android player will process complex business components. The access is simple。Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
+
+*   [HuanHaiLiuXin/CoolViewPager](https://github.com/HuanHaiLiuXin/CoolViewPager) - A Cool ViewPager
+
+*   [ximsfei/Stark](https://github.com/ximsfei/Stark) - Stark is a hot-fix framework for Android. It supports swapping new implementations of classes without restarting a running Android application, and updated Android resources (icons, layout, etc) while only restarting the Android Activity. Most importantly, there is no private API invoked in Stark.
+
+*   [yatoooon/AndroidScreenAdaptation](https://github.com/yatoooon/AndroidScreenAdaptation) - A light and easy-to-use Android development screen adaptation tool library(一个轻量好用的安卓开发屏幕适配工具库)
+
+*   [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) - Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+
+*   [Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors) - Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector
+
+*   [a-voyager/StringExtractor](https://github.com/a-voyager/StringExtractor) - 🚀One Key to Extract String Resource
+
+*   [saulmm/CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample) -
+
+*   [lybeat/PlumbTextView](https://github.com/lybeat/PlumbTextView) - PlumbTextView is a vertical textview.
+
+*   [lingochamp/okdownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine.
+
+*   [shuhart/StepView](https://github.com/shuhart/StepView) - A simple animated step view for Android
+
+*   [jokermonn/permissions4m](https://github.com/jokermonn/permissions4m) - :wrench:国产手机5.0、6.0权限适配框架/编译时注解框架/an Android Runtime Permissions Tool by using APT
+
+*   [naman14/Timber](https://github.com/naman14/Timber) - Material Design Music Player
+
+*   [CaMnter/BasicExercises](https://github.com/CaMnter/BasicExercises) - 📘 Personal basic practice test playground.
+
+*   [laishujie/Comic-MTC](https://github.com/laishujie/Comic-MTC) - :fire:漫画App,适合新手进阶项目。MVP + RxJava + Retrofit + Dagger2+rxlifecycle ，一起学习交流 0v0!
+
+*   [leinardi/FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) - A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification (https://material.io/components/buttons-floating-action-button#types-of-transitions)
+
+*   [codezjx/AndLinker](https://github.com/codezjx/AndLinker) - AndLinker is a IPC library for Android, which combines the features of AIDL and Retrofit. Allows IPC call seamlessly compose with RxJava and RxJava2 call adapters.
+
+*   [eclipse-paho/paho.mqtt.android](https://github.com/eclipse-paho/paho.mqtt.android) - MQTT Android
+
+*   [florent37/InlineActivityResult](https://github.com/florent37/InlineActivityResult) - Receive the activity result directly after the startActivityForResult with InlineActivityResult
+
+*   [florent37/Android-3D-Layout](https://github.com/florent37/Android-3D-Layout) - Wow effect, transform your layout into 3D views
+
+*   [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
+
+*   [florent37/RuntimePermission](https://github.com/florent37/RuntimePermission) - Simpliest way to ask runtime permissions on Android, no need to extend class or override permissionResult method, choose your way : Kotlin / Coroutines / RxJava / Java7 / Java8
+
+*   [Tencent/VasDolly](https://github.com/Tencent/VasDolly) - Android V1 and V2 Signature Channel Package Plugin
+
+*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+*   [igreenwood/SimpleCropView](https://github.com/igreenwood/SimpleCropView) - A simple image cropping library for Android.
+
+*   [ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout) - 左滑粒子效果
+
+*   [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
+
+*   [totond/TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
+
+*   [akaita/easylauncher-gradle-plugin](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin. Of course, configure it as you will
+
+*   [shaohui10086/AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban) - An Advanced Compress Image Library for Android / 高效、简洁的图片压缩工具库
+
+*   [Gru110110110/Biscuit](https://github.com/Gru110110110/Biscuit) - 一款Android 便捷高效图片压缩库，更多自定义，灵活配置，缩放部分逆向微信朋友圈压缩效果推算得来，效果非常接近！
+
+*   [vipulasri/TicketView](https://github.com/vipulasri/TicketView) - An Android library to implement TicketView in android with normal, rounded and scallop corners
+
+*   [GcsSloop/pager-layoutmanager](https://github.com/GcsSloop/pager-layoutmanager) - \[暂停维护]Android 网格分页布局。
+
+*   [milaptank/SpannableTextView](https://github.com/milaptank/SpannableTextView) - SpannableTextView is a custom TextView which lets you customize the styling of slice of your text or statment via Spannables, but without the hassle of having to deal directly with Spannable themselves.
+
+*   [XingdongYu/SimpleLineView](https://github.com/XingdongYu/SimpleLineView) - 可以定制一些简单的路径，按想要的绘制顺序添加，SimpleLineView会依次展现路径动画。
+
+*   [Jude95/RollViewPager](https://github.com/Jude95/RollViewPager) - A ViewPager can auto play and loop
+
+*   [kleisauke/CompactCalendarViewToolbar](https://github.com/kleisauke/CompactCalendarViewToolbar) - Using the library CompactCalendarView in Android Toolbar
+
+*   [savvisingh/DateRangePicker](https://github.com/savvisingh/DateRangePicker) - Date Range Picker is a Calendar Picker View to show a Customized Date Range Picker with improved UI and functionality to add subtitles to the dates
+
+*   [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java) - The missing emoji library for Java :heart:
+
+*   [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
+
+*   [amirzaidi/Launcher3](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher"
+
+*   [thoughtbot/expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view) - Custom Android RecyclerViewAdapters that collapse and expand
+
+*   [davcpas1234/MaterialSettings](https://github.com/davcpas1234/MaterialSettings) - The open repository with a global support for Android 5 Toolbar within any Settings Activity
+
+*   [thegrizzlylabs/sardine-android](https://github.com/thegrizzlylabs/sardine-android) - A WebDAV library for Android
+
+*   [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
+
+*   [florent37/ExpansionPanel](https://github.com/florent37/ExpansionPanel) - Android - Expansion panels contain creation flows and allow lightweight editing of an element.
+
+*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+
+*   [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
+
+*   [Kyson/AndroidGodEye](https://github.com/Kyson/AndroidGodEye) - An app performance monitor(APM) , like "Android Studio profiler", you can easily monitor the performance of your app real time in browser
+
+*   [ImangazalievM/ReActiveAndroid](https://github.com/ImangazalievM/ReActiveAndroid) - 🚀 Simple and powerful ORM for Android
+
+*   [PureWriter/ToastCompat](https://github.com/PureWriter/ToastCompat) - An Android library to fix Toast BadTokenException
+
+*   [maoruibin/AppPlus](https://github.com/maoruibin/AppPlus) - A open source android application, and used to manage app,export apk, watch recent processes.
+
+*   [pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".
+
+*   [GcsSloop/rclayout](https://github.com/GcsSloop/rclayout) - \[暂停维护]Android通用圆角布局。
+
+*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+
+*   [xmuSistone/VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) - √A customized LayoutManager - fade and shrink the head itemView when scrolling.
+
+*   [xmuSistone/AutoWrapLayout](https://github.com/xmuSistone/AutoWrapLayout) - a customized viewgroup wraps textviews and aligns on both left and right sides.
+
+*   [zhihu/RxLifecycle](https://github.com/zhihu/RxLifecycle) - Bind observables to the lifecycle of Activity or Fragment in a non-invasive way.
+
+*   [florent37/GlidePalette](https://github.com/florent37/GlidePalette) - Android Lollipop Palette is now easy to use with Glide
+
+*   [amitshekhariitbhu/Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
+
+*   [LuckyJayce/LargeImage](https://github.com/LuckyJayce/LargeImage) - Android 加载大图  可以高清显示10000\*10000像素的图片，轻松实现微博长图功能
+
+*   [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
+
+*   [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
+
+*   [google/volley](https://github.com/google/volley) -
+
+*   [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) - RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
+
+*   [wasabeef/Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer.
+
+*   [Even201314/MRichEditor](https://github.com/Even201314/MRichEditor) - A rich text editor sample (based on summernote)
+
+*   [HK-SHAO/DarkCalculator](https://github.com/HK-SHAO/DarkCalculator) - A calculator that supports functions such as complex number operations and solving equations.
+
+*   [Avocarrot/json2view](https://github.com/Avocarrot/json2view) - Update native Android UI on the fly
+
+*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+
+*   [niorgai/Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count) - Show usage count for each resource
+
+*   [Jichensheng/Fish\_2](https://github.com/Jichensheng/Fish_2) - 灵动的红鲤鱼完整版
+
+*   [Jichensheng/Fish](https://github.com/Jichensheng/Fish) - 灵动的红鲤鱼（绘制部分）
+
+*   [guolindev/LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
+
+*   [barryhappy/TContributionsView](https://github.com/barryhappy/TContributionsView) - TContributionsView can be use for a Contributions View, like in one personal homepage of Github, and more than that.
+
+*   [GCX-HCI/tray](https://github.com/GCX-HCI/tray) - a SharedPreferences replacement for Android with multiprocess support
+
+*   [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
+
+*   [Kelin-Hong/TranslucentBar](https://github.com/Kelin-Hong/TranslucentBar) - This library offers a simple way to translucent system UI styling and tint color for status bar.It can work above API 19(KitKat 4.4).
+
+*   [Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) - Infinite cycle ViewPager with two-way orientation and interactive effect.
+
+*   [goyourfly/EZLedView](https://github.com/goyourfly/EZLedView) -  LEDView Display image and text like LEDBanner
+
+*   [xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) - An abnormal horizontal ListView-like pile layout with stretch and contraction effects.
+
+*   [Hitomis/transferee](https://github.com/Hitomis/transferee) - \[暂停维护]一个帮助您完成从缩略视图到原视图无缝过渡转变的神奇框架
+
+*   [fcannizzaro/jsoup-annotations](https://github.com/fcannizzaro/jsoup-annotations) - Jsoup Annotations POJO
+
+*   [GrenderG/Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids 💪
+
+*   [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
+
+*   [Ramotion/expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) - :octocat: ExpandingCollection is a material design card peek/pop controller. Android UI Library made by @Ramotion
+
+*   [li-yu/SQLiteToExcel](https://github.com/li-yu/SQLiteToExcel) - A simple lib for Android to export SQLite to Excel, also Excel to SQLite.
+
+*   [aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView) - An easy-to-use, customizable and Material Design ready Pattern Lock view for Android
+
+*   [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现
+
+*   [TonnyL/Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
+
+*   [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 🔥可以根据图片内容变阴影颜色，更加细腻的阴影效果  It can change color according to the picture, more delicate shadow effect
+
+*   [andyb129/FlipsideCamera](https://github.com/andyb129/FlipsideCamera) - The camera app that takes pictures from both sides of your world ! :camera:
+
+*   [oasisfeng/condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
+
+*   [zjw-swun/AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) - 一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）
+
+*   [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot\_box\_with\_check: \[Cheatsheet] Tips and tricks for Android Development
+
+*   [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
+
+*   [Eajy/MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
+
+*   [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) - 可展开，可拖动，可排序，可删除，固定更多的GridView
+
+*   [wyouflf/xUtils3](https://github.com/wyouflf/xUtils3) - Android orm, bitmap, http, view inject...
+
+*   [litesuits/android-common](https://github.com/litesuits/android-common) - Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util, NotificationUtil, NumberUtil, PackageUtil, RandomUtil, ShellUtil, TelephoneUtil, VibrateUtil, IOUtils, FileUtils, AsyncExecutor, etc.  通用性强，纯洁简单，体积不到50K！其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
+
+*   [sujithkanna/SmileyRating](https://github.com/sujithkanna/SmileyRating) - SmileyRating is a simple rating bar for android. It displays animated smileys as rating icon.
+
+*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+
+*   [zhanghai/MaterialRatingBar](https://github.com/zhanghai/MaterialRatingBar) - Material Design RatingBar with better appearance
+
+*   [hellokaton/wechat-api](https://github.com/hellokaton/wechat-api) - 🗯 wechat-api by java7.
+
+*   [TedaLIEz/ParsingPlayer](https://github.com/TedaLIEz/ParsingPlayer) - A video player playing videos from youku.com and other video sites.
+
+*   [Hitomis/FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - \[暂停维护]好玩的下拉刷新控件，让我们一起来回味童年
+
+*   [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+
+*   [limedroid/XRichText](https://github.com/limedroid/XRichText) - 显示富文本的TextView
+
+*   [geftimov/android-pathview](https://github.com/geftimov/android-pathview) - Android view with both path from constructed path or from svg.
+
+*   [Bakumon/UGank](https://github.com/Bakumon/UGank) - :meat\_on\_bone:「有干货」Gank.io 第三方客户端(MVP)
+
+*   [XuDeveloper/XImageLoader](https://github.com/XuDeveloper/XImageLoader) - :fireworks:It's a custom image-loading repository for Android.
+
+*   [daniel-stoneuk/material-about-library](https://github.com/daniel-stoneuk/material-about-library) - Makes it easy to create beautiful about screens for your apps
+
+*   [lypeer/GoogleClock](https://github.com/lypeer/GoogleClock) - The core of it is SVG .
+
+*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+
+*   [xuyisheng/AccessibilityUtil](https://github.com/xuyisheng/AccessibilityUtil) - AccessibilityService Utils
+
+*   [Yalantis/ToDoList](https://github.com/Yalantis/ToDoList) - Micro-Transitions for Smooth Android To-Do List Animations
+
+*   [ryanhoo/StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) - A stylish music player for android device 16+
+
+*   [ByoxCode/DrawView](https://github.com/ByoxCode/DrawView) - Android view that allows the user to create drawings. Customize settings like color, width or tools. Undo or redo actions. Zoom into DrawView and add a background.
+
+*   [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
+
+*   [fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) - This is a light Android file picker library.
+
+*   [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
+
+*   [Hitomis/CircleMenu](https://github.com/Hitomis/CircleMenu) - Delicate, chic and supports customizable circle menu
+
+*   [alibaba/freeline](https://github.com/alibaba/freeline) - A super fast build tool for Android, an alternative to Instant Run
+
+*   [ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) - This is a simple util to create Activity transition animation
+
+*   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
+
+*   [JulienGenoud/android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample) - \[Deprecated] Just a sample of the android percent support lib
+
+*   [hongyangAndroid/android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend) - a extends lib for android-percent-support(Google百分比布局库的扩展)
+
+*   [KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
+
+*   [FreedomZZQ/Puzzle-Android](https://github.com/FreedomZZQ/Puzzle-Android) - An awesome puzzle game on Android platform.
+
+*   [zhanghai/Douya](https://github.com/zhanghai/Douya) - 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+
+*   [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
+
+*   [MasayukiSuda/EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - Thirty-one different easing animation interpolators for Android.
+
+*   [008chen/InterpolatorShow](https://github.com/008chen/InterpolatorShow) - android Interpolator
+
+*   [daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) - Android Animation Easing Functions. Let's make animation more real!
+
+*   [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples.
+
+*   [florent37/DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
+
+*   [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
+
+*   [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) - A Material design back port of Android's CalendarView
+
+*   [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - Ultra Pull to Refresh for Android. Support all the views.
+
+*   [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation) - \[DEPRECATED] A powerful library that manage Fragment for Android
+
+*   [forJrking/FontZip](https://github.com/forJrking/FontZip) - 字体提取工具（APP瘦身神器、APK压缩工具）
+
+*   [HotBitmapGG/bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！
+
+*   [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+
+*   [zhonghanwen/AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) - Android Studio generate proguard codes
+
+*   [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
+
+*   [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+
+*   [lipangit/JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) - MediaPlayer exoplayer ijkplayer ffmpeg
+
+*   [WangDaYeeeeee/Mysplash](https://github.com/WangDaYeeeeee/Mysplash) - An Unsplash Client
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+
+*   [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
+
+*   [orhanobut/hawk](https://github.com/orhanobut/hawk) - ✔️ Secure, simple key-value storage for Android
+
+*   [bilibili/MagicaSakura](https://github.com/bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
+
+*   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
+
+*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
+
+*   [xybCoder/gank](https://github.com/xybCoder/gank) -  gank.io unofficial client - RxJava2、Retrofit2 & MVP技术干货
+
+*   [aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - A memory efficient Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso.
+
+*   [oxoooo/pull-back-layout](https://github.com/oxoooo/pull-back-layout) - Pull down to finish an Activity.
+
+*   [zzhoujay/RichText](https://github.com/zzhoujay/RichText) - Android平台下的富文本解析器，支持Html和Markdown
+
+*   [PleaseCallMeCoder/PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls) - A personal App based on gank.io.
+
+*   [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
+
+*   [Jude95/FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) - 适应Statusbar与NavigationBar的各种Layout
+
+*   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+
+*   [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) - Android library providing simple way to control divider items (ItemDecoration) of RecyclerView
+
+*   [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
+
+*   [tomergoldst/tooltips](https://github.com/tomergoldst/tooltips) - Simple to use library for android, enabling to add a tooltip near any view with ease
+
+*   [Devlight/NavigationTabBar](https://github.com/Devlight/NavigationTabBar) - Navigation tab bar with colorful interactions.
+
+*   [dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) - A circular android ProgressBar library which extends View,  and the usage same as ProgressBar,  It has solid,line and solid\_line three styles. Besides, progress value can be freely customized.
+
+*   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
+
+*   [Even201314/NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android) -
+
+*   [gaolonglong/GankGirl](https://github.com/gaolonglong/GankGirl) - RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
+
+*   [Meetic/Dragueur](https://github.com/Meetic/Dragueur) - Dragueur can move any view with one finger ;)
+
+*   [Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - Some loading GIF .
+
+*   [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - A library that gives depth to Views.
+
+*   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
+
+*   [dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too.
+
+## C
+
+​
+
+*   [Cateners/tiny\_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
+
+*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
+
+*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
+
+*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+
+*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
+
+*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+
+*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
+
+*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
+
+*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
+
+*   [hexhacking/xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
+
+*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
+
+*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
+
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
+
+*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+
+*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
+
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
+
+*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
+
+*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 
 ## Kotlin
 
@@ -844,760 +1650,6 @@
 
 *   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
 
-## Java
-
-​
-
-*   [Mino260806/KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
-
-*   [steve-community/steve](https://github.com/steve-community/steve) - SteVe - OCPP server implementation in Java
-
-*   [MyMonsterCat/RapidOcr-Java](https://github.com/MyMonsterCat/RapidOcr-Java) - 🔥🔥🔥Java代码实现调用RapidOCR(基于PaddleOCR)，适配Mac、Win、Linux，支持最新PP-OCRv4
-
-*   [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
-
-*   [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-
-*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
-
-*   [FoedusProgramme/AccordLegacy](https://github.com/FoedusProgramme/AccordLegacy) - Gramophone but apple
-
-*   [Nekogram/WSProxy](https://github.com/Nekogram/WSProxy) -
-
-*   [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
-
-*   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
-
-*   [shaoshuai904/RecordWav](https://github.com/shaoshuai904/RecordWav) - Android wav/pcm 录音机，支持暂停、再录制。支持跳过静音区模式。
-
-*   [L-X-J/RichText-Androidx](https://github.com/L-X-J/RichText-Androidx) - Android平台下的富文本解析器，支持Html和Markdown,支持Androidx
-
-*   [jenly1314/ArcSeekBar](https://github.com/jenly1314/ArcSeekBar) - 🎡 ArcSeekBar 一个弧形可拖动进度条控件。弧形大小，弧度，颜色渐变等配置完全可定制化
-
-*   [mikaelzero/mojito](https://github.com/mikaelzero/mojito) - 微信、bilibili大图、长图、gif、视频、自定义view的转场效果，The transition effect of wechat, bilibili large image, long image, GIF, video and custom view
-
-*   [nex3z/FlowLayout](https://github.com/nex3z/FlowLayout) - A flow layout for Android with auto-spacing.
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [junixapp/XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)
-
-*   [youlookwhat/ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏  WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、\[腾讯x5使用示例]
-
-*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
-
-*   [googlesamples/mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
-
-*   [mcxtzhang/SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) - The most simple SwipeMenu in the history, 0 coupling, support any ViewGroup. Step integration swipe (delete) menu, high imitation QQ, iOS. ~史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。~
-
-*   [taoweiji/MixPush](https://github.com/taoweiji/MixPush) - Android 混合推送SDK，快速集成6个厂商推送，共享系统推送通道，杀死也能收到推送，推送到达率90%以上
-
-*   [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
-
-*   [CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin) - This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
-*   [HokoFly/HokoBlur](https://github.com/HokoFly/HokoBlur) - an easy-to-use blur library for Android, support efficient dynamic blur tasks.
-
-*   [RikkaApps/AutoResConfig](https://github.com/RikkaApps/AutoResConfig) - A gradle plugin generates resConfig & languages array from project res folder.
-
-*   [peihua8858/AndroidStringsPlugin](https://github.com/peihua8858/AndroidStringsPlugin) - 一个用于将android多语言转换为excel，也可以将excel转换为android多语言的idea插件
-
-*   [vvb2060/PackageInstallerTest](https://github.com/vvb2060/PackageInstallerTest) - Android PackageInstaller API silent update test app
-
-*   [eleme/lancet](https://github.com/eleme/lancet) - A lightweight and fast AOP framework for Android App and SDK developers
-
-*   [guyijie1211/JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
-
-*   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-
-*   [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
-
-*   [dadaewq/Install-Lion](https://github.com/dadaewq/Install-Lion) - 安装狮 接入了 冰箱SDK、Delegated-Scopes-Manager与Shizuku实现静默安装
-
-*   [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) - A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations.
-
-*   [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
-
-*   [leonbloy/pngj](https://github.com/leonbloy/pngj) - PNGJ : pure Java library for high performance PNG encoding
-
-*   [seven456/SafeWebView](https://github.com/seven456/SafeWebView) - Android Safe WebView、解决WebView的Js对象注入漏洞、支持网页将JS函数（function）传到Java层，方便回调；
-
-*   [Leaking/Hunter](https://github.com/Leaking/Hunter) - A fast, incremental, concurrent framework to develop compile plugin for android project to manipulate bytecode
-
-*   [airbnb/epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView
-
-*   [DSAppTeam/PanelSwitchHelper](https://github.com/DSAppTeam/PanelSwitchHelper) - :heavy\_check\_mark:  A framework that helps the keyboard smoothly transition to the function panel    一个帮助键盘平稳过渡到功能面板的框架，支持动画无缝衔接，支持 activity/fragment/dialog/dialogFragment/popupWindow 容器，支持IM/直播/视频播放/信息流评论等场景，支持全屏模式。
-
-*   [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
-
-*   [Dansoftowner/jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector) - Java library for detecting that the (desktop) operating system uses dark UI theme or not
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-
-*   [Mocha-L/QuJing](https://github.com/Mocha-L/QuJing) - 曲境是一个xposed模块，可支持在PC浏览器上动态监控（hook）安卓APP的函数调用和查看堆栈信息，及反射调用（invoke）等功能。
-
-*   [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
-
-*   [JMagician/Magician](https://github.com/JMagician/Magician) - Magician is a small HTTP service package based on Netty that makes it very easy to start an http service, and also supports WebSocket, using annotated configuration Handler, If you want to develop an http service with netty but find it cumbersome, then Magician may help you.
-
-*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-
-*   [Jacksgong/JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - For resolve the layout conflict when keybord & panel are switching (Android键盘面板冲突 布局闪动处理方案)
-
-*   [Meituan-Dianping/Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
-
-*   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
-
-*   [simplepeng/SpiderMan](https://github.com/simplepeng/SpiderMan) - 🔥🔥🔥 - 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
-
-*   [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - :point\_right: Customize the LayoutManager of RecyclerView(自定义LayoutManager)
-
-*   [dariuszseweryn/RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface
-
-*   [JakeWharton/RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and a Consumer.
-
-*   [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding PoC (scrcpy, but for audio)
-
-*   [xiaolf1/AppDress](https://github.com/xiaolf1/AppDress) - AppDress is a android library that change app ui color with sample code.
-
-*   [skydoves/ColorPickerView](https://github.com/skydoves/ColorPickerView) - 🎨 Android colorpicker for getting colors from any images by tapping on the desired color.
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
-
-*   [Takhion/renderthread](https://github.com/Takhion/renderthread) - Android's RenderThread wrapper
-
-*   [tobiasrohloff/NestedScrollWebView](https://github.com/tobiasrohloff/NestedScrollWebView) - An Android WebView that implements NestedScrollingChild, in order to use it with CoordinatorLayout and AppBarLayout.
-
-*   [houbb/opencc4j](https://github.com/houbb/opencc4j) - 🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换)
-
-*   [AlynxZhou/alynx-live-wallpaper](https://github.com/AlynxZhou/alynx-live-wallpaper) - An android app that allows you choose a video as wallpaper.
-
-*   [jkozh/DragDropTwoRecyclerViews](https://github.com/jkozh/DragDropTwoRecyclerViews) - A code example demonstrating a dragging and dropping from one RecyclerView into another RecyclerView.
-
-*   [afkT/DevUtils](https://github.com/afkT/DevUtils) - :fire:  ( 持续更新，目前含 300+ 工具类 ) DevUtils 是一个 Android 工具库，主要根据不同功能模块，封装快捷使用的工具类及 API 方法调用。该项目尽可能的便于开发人员，快捷、高效开发安全可靠的项目。
-
-*   [huxq17/Pump](https://github.com/huxq17/Pump) - A smart tool for android download,support BreakPoint、MultiTask and MultiThread.
-
-*   [virtualvivek/BlurShadowImageView](https://github.com/virtualvivek/BlurShadowImageView) - A library for Android provides blurred drop shadows to ImageView similar to iOS image backdrop shadows.Provides fast canvas draw as no renderscript needed .The similar shadow blurred effects can also be seen in iOS Music App.
-
-*   [KunMinX/UnPeek-LiveData](https://github.com/KunMinX/UnPeek-LiveData) - LiveData 数据倒灌：别问，问就是不可预期 - Perfect alternative to SingleLiveEvent, supporting multiple observers.
-
-*   [aiceking/AppStartFaster](https://github.com/aiceking/AppStartFaster) - Android冷启动优化，有向无环图启动器
-
-*   [sarnavakonar/TextWriter](https://github.com/sarnavakonar/TextWriter) - Animate your texts like never before
-
-*   [devilist/AdvancedTextView](https://github.com/devilist/AdvancedTextView) - 一个增强的TextView库。可以实现文字两端对齐，文字竖排，以及自定义选择文字后的弹出菜单。
-
-*   [google/ExoPlayer](https://github.com/google/ExoPlayer) - This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
-
-*   [JeremyLiao/FastSharedPreferences](https://github.com/JeremyLiao/FastSharedPreferences) - :rocket:一个Android平台的高性能key-value组件，读写性能远超SharedPreferences
-
-*   [lamster2018/EasyProtector](https://github.com/lamster2018/EasyProtector) - 一行代码检测XP/调试/多开/模拟器/root
-
-*   [ThanosFisherman/WifiUtils](https://github.com/ThanosFisherman/WifiUtils) - Easily Connect to WiFi Networks
-
-*   [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-
-*   [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) - BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
-
-*   [WrBug/FrenziedProguard](https://github.com/WrBug/FrenziedProguard) -
-
-*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
-
-*   [souramoo/unapkm](https://github.com/souramoo/unapkm) - APKM file decryptor
-
-*   [JessYanCoding/InsGallery](https://github.com/JessYanCoding/InsGallery) - 📸 Instagram-like image picker for Android (一款 UI 炫酷高仿 Instagram 的图片、视频选择器)
-
-*   [RikkaApps/SaveCopy](https://github.com/RikkaApps/SaveCopy) - Simple Android app, handle ACTION\_VIEW, ACTION\_SEND, ACTION\_SEND\_MULTIPLE, save a copy of the file. For bad apps which only allow users to open files.
-
-*   [zhangjianli/StallBuster](https://github.com/zhangjianli/StallBuster) - A simple tool to detect the reason why your Android app is slow.
-
-*   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
-
-*   [Jasonchenlijian/FastBle](https://github.com/Jasonchenlijian/FastBle) - Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.
-
-*   [fython/MaterialStepperView](https://github.com/fython/MaterialStepperView) - Steppers - Material Design Components for Android
-
-*   [MartinRGB/Animer](https://github.com/MartinRGB/Animer) - for a better Android Experience
-
-*   [aldrek/Flip\_Digit](https://github.com/aldrek/Flip_Digit) -   Flip digit Library that makes a cool and flexible animation flip when changing from one numbers to another
-
-*   [zhanghai/AppIconLoader](https://github.com/zhanghai/AppIconLoader) - Android app icon loader from AOSP iconloaderlib
-
-*   [JeremyLiao/SmartEventBus](https://github.com/JeremyLiao/SmartEventBus) - :postbox:SmartEventBus是一个Android平台的消息总线框架，这是一款非常smart的消息总线框架，能让你定制自己的消息总线。
-
-*   [JakeWharton/agp-java-support](https://github.com/JakeWharton/agp-java-support) - Tracking your ability to use new Java language features and APIs in an Android app
-
-*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
-
-*   [microsoft/project-rome](https://github.com/microsoft/project-rome) - Code samples and documentation of Microsoft's Project Rome SDK
-
-*   [heruoxin/CacheFunctionUtil](https://github.com/heruoxin/CacheFunctionUtil) - Tiny helper class to provide cache for the result of repeated functions.
-
-*   [markusfisch/WaveLinesWallpaper](https://github.com/markusfisch/WaveLinesWallpaper) - A simple, unobstrusive live wallpaper for Android showing slowly moving wave lines
-
-*   [RmondJone/LockTableView](https://github.com/RmondJone/LockTableView) - Android自定义表格，支持锁双向表头，自适应列宽，自适应行高,快速集成。Android custom table, support two-way lock header, adaptive column width, adaptive line width, rapid integration.
-
-*   [natario1/CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size.
-
-*   [zhihu/SugarAdapter](https://github.com/zhihu/SugarAdapter) - Make RecyclerView.Adapter Great Again!
-
-*   [bytedance/ByteX](https://github.com/bytedance/ByteX) - ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
-
-*   [mouyase/pivisionM](https://github.com/mouyase/pivisionM) - A pixiv client for Android
-
-*   [XieZhiFa/IdCardOCR](https://github.com/XieZhiFa/IdCardOCR) - 身份证正反面识别，身份证扫描识别，二代身份证OCR识别，OCR极速识别身份证所有信息正反面均可。离线无需联网,极速秒扫。
-
-*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
-
-*   [android/animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
-
-*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android localization plugin. supports multiple languages and multiple translators.
-
-*   [saket/Better-Link-Movement-Method](https://github.com/saket/Better-Link-Movement-Method) - Attempts to improve how clickable links are detected, highlighted and handled in TextView
-
-*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
-
-*   [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
-
-*   [SValence/SafeKeyboard](https://github.com/SValence/SafeKeyboard) - Android自定义安全软键盘，完全自定义，方便、安全、可靠
-
-*   [zhanghai/AndroidFastScroll](https://github.com/zhanghai/AndroidFastScroll) - Fast scroll for Android RecyclerView and more
-
-*   [leotyndale/EnFloatingView](https://github.com/leotyndale/EnFloatingView) - 🔥应用内悬浮窗，无需一切权限，适配所有ROM和厂商，no permission floating view.
-
-*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
-
-*   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
-
-*   [AnyChart/AnyChart-Android](https://github.com/AnyChart/AnyChart-Android) - AnyChart Android Chart is an amazing data visualization library for easily creating interactive charts in Android apps. It runs on API 19+ (Android 4.4) and features dozens of built-in chart types.
-
-*   [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
-
-*   [apsun/NekoSMS](https://github.com/apsun/NekoSMS) - A pattern-based text message blocker for Android.
-
-*   [aohanyao/ViewPagerCardTransformer](https://github.com/aohanyao/ViewPagerCardTransformer) - 🖥各种方向的ViewPager层叠卡片
-
-*   [kongzue/StackLabel](https://github.com/kongzue/StackLabel) - 🔥空祖家的堆叠标签（以下碎念：一开始起名字“StackLabel”没想太多结果被人吐槽Stack是整齐堆叠的意思...........好吧这是我的锅不过现在要改也来不及了，好用就行了...吧？
-
-*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-
-*   [deepmedia/Transcoder](https://github.com/deepmedia/Transcoder) - 🎞 Hardware-accelerated video transcoding using Android MediaCodec APIs. Supports cropping, concatenation, clipping, audio processing, video speed and much more.
-
-*   [gayanvoice/android-animations](https://github.com/gayanvoice/android-animations) - Perform tweened animations such as Attention, Bounce, Fade, Flip, Rotate, Slide and Zoom on Views
-
-*   [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) -
-
-*   [uber/RxCentralBle](https://github.com/uber/RxCentralBle) - A reactive, interface-driven central role Bluetooth LE library for Android
-
-*   [pakoito/RxPaper2](https://github.com/pakoito/RxPaper2) - NoSQL storage with RxJava2 bindings \[STABLE]
-
-*   [lanshifu/MultiDexTest](https://github.com/lanshifu/MultiDexTest) - MultiDex
-
-*   [XingdongYu/QQNaviView](https://github.com/XingdongYu/QQNaviView) - 模仿手机QQ底部导航栏Icon拖拽效果
-
-*   [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - A declarative API to handle Android runtime permissions.
-
-*   [yellowcath/VideoProcessor](https://github.com/yellowcath/VideoProcessor) - process video(cut & scale & increase & decrease & reverse) with mediacodec
-
-*   [mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView) - 用于做Path动画的自定义View。 I have a path.I have a view. (Oh~),Path(Anim)View.
-
-*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
-
-*   [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
-
-*   [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
-
-*   [MegatronKing/StringFog](https://github.com/MegatronKing/StringFog) - 一款自动对字节码中的字符串进行加密Android插件工具
-
-*   [zhpanvip/BannerViewPager](https://github.com/zhpanvip/BannerViewPager) - 🚀  An awesome banner view  for Android，Based on ViewPager2. 这可能是全网最好用的ViewPager轮播图。简单、高效，一行代码实现循环轮播，一屏三页任意变，指示器样式任你挑。
-
-*   [meituan/WMRouter](https://github.com/meituan/WMRouter) - WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
-
-*   [liujingxing/rxlife](https://github.com/liujingxing/rxlife) - 一行代码解决RxJava 内存泄漏，一款轻量级别的RxJava生命周期管理库
-
-*   [yrom/shrinker](https://github.com/yrom/shrinker) - Inline constant fields of android R class by asm and transform-api
-
-*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-
-*   [jaredrummler/ColorPicker](https://github.com/jaredrummler/ColorPicker) - A highly customizable color picker for Android
-
-*   [iqiyi/Andromeda](https://github.com/iqiyi/Andromeda) -  Andromeda simplifies local/remote communication for Android modularization
-
-*   [heruoxin/Delegated-Scopes-Manager](https://github.com/heruoxin/Delegated-Scopes-Manager) - 在单设备上共享设备管理员权限
-
-*   [luckybilly/SmartSwipe](https://github.com/luckybilly/SmartSwipe) - An android library to make swipe more easier and more powerful. Android各种侧滑，有这一个就够了
-
-*   [HuanTanSheng/EasyPhotos](https://github.com/HuanTanSheng/EasyPhotos) - 兼容android11、android 10，相机拍照，相册选择(单选/多选)，文件夹图片选择(单选/多选)，视频选择，视频图片多类型复杂选择，各界面根据状态栏颜色智能适配状态栏字体颜色变色为深色或浅色，根据使用场景智能适配沉浸式状态栏，内部处理运行时权限，支持Glide/Picasso/Imageloader等所有图片加载框架库的带默认勾选选中图片的能填充自定义广告的自定义Ui相机相册图片浏览选择器；更有拼图/文字贴纸/贴图/图片缩放/Bitmap图片添加水印/媒体文件更新到媒体库等众多Bitmap图片编辑功能的android Bitmap图片处理工具框架库。
-
-*   [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
-
-*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
-
-*   [guxiaonian/MobileInfo](https://github.com/guxiaonian/MobileInfo) - 【Android】Hardware Information. For detailed network diagnosis, please refer to【HttpInfo】
-
-*   [suceser/android-open-framework-analysis](https://github.com/suceser/android-open-framework-analysis) - Android open framework analysis
-
-*   [Chainfire/HoleyLight](https://github.com/Chainfire/HoleyLight) - Notification LED for Samsung/Pixel phones with in-screen camera cut-out (punch-hole)
-
-*   [noties/Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
-
-*   [LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - A great material designed colorpicker by Marie Schweiz
-
-*   [florent37/ViewTooltip](https://github.com/florent37/ViewTooltip) - A fluent tooltip for Android
-
-*   [googlearchive/android-ConstraintLayoutExamples](https://github.com/googlearchive/android-ConstraintLayoutExamples) - Migrated:
-
-*   [ww6015132/SilkySignature](https://github.com/ww6015132/SilkySignature) - An Smooth and silky signature pad for android
-
-*   [Trumeet/OhMySAF](https://github.com/Trumeet/OhMySAF) - Oh my SAF - Android simple SAF helper
-
-*   [Baseflow/PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
-
-*   [nex3z/ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup) - A group of flowable toggle buttons, with multiple / single selection support and button customization.
-
-*   [hearsilent/DiscreteSlider](https://github.com/hearsilent/DiscreteSlider) - A slider (SeekBar) with amazing value label.
-
-*   [harjot-oberai/Croller](https://github.com/harjot-oberai/Croller) - A circular seekbar for Android, with a control knob! (for the lack of a better word).
-
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-
-*   [fython-tools/DocUIProxy-Android](https://github.com/fython-tools/DocUIProxy-Android) - Fake Camera App to proxy Documents UI Selector for WeChat and other apps
-
-*   [luckybilly/Gloading](https://github.com/luckybilly/Gloading) - Show global loading status view in a low coupling way for Android App(超轻量级，深度解耦Android App中全局加载中、加载失败及空数据视图)
-
-*   [gavinliu/ShapedImageView](https://github.com/gavinliu/ShapedImageView) - Android  Rounded, Circle, Path ImageView
-
-*   [panyiho/EasyPermission](https://github.com/panyiho/EasyPermission) - 一个非常轻便而且可用的Android动态权限申请库
-
-*   [dinuscxj/MultiTouchGestureDetector](https://github.com/dinuscxj/MultiTouchGestureDetector) - The MultiTouchGestureDetector Detects scaling, rotating and moving transformation gestures,  Whether you want ScaleGestureDetector, RotateGestureDetector, or MoveGestureDetector, this is always the best choice.
-
-*   [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
-
-*   [poldz123/ShapeRipple](https://github.com/poldz123/ShapeRipple) -
-
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
-*   [dipanshukr/Viewpager-Transformation](https://github.com/dipanshukr/Viewpager-Transformation) - Why use dependencies when you create your own transformations for Viewpager ?
-
-*   [BaselHorany/ProgressStatusBar](https://github.com/BaselHorany/ProgressStatusBar) - Another way to show progress. A progress View over the system StatusBar.
-
-*   [ywwynm/EverythingDone](https://github.com/ywwynm/EverythingDone) - EverythingDone, an Android app to help you remember things, and finish them!
-
-*   [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
-
-*   [Qualeams/Android-Face-Recognition-with-Deep-Learning-Library](https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library) - Face Recognition library for Android devices is an Android library (module) which includes several face recognition methods.
-
-*   [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-
-*   [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus) - :mailbox\_with\_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
-
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-
-*   [Nevolution/sdk](https://github.com/Nevolution/sdk) - Evolve the Android notification experience of existing apps, with community-driven plug-ins.
-
-*   [sromku/android-storage](https://github.com/sromku/android-storage) - Create, read, delete, append, encrypt files and more, on internal or external disk spaces with a really simple API
-
-*   [linisme/Cipher.so](https://github.com/linisme/Cipher.so) - A simple way to encrypt your secure data like passwords into a native .so library.
-
-*   [lopspower/LazyDatePicker](https://github.com/lopspower/LazyDatePicker) - LazyDatePicker an alternative to the native Android Date Picker 📅
-
-*   [balsikandar/Best-Coding-practices-in-android](https://github.com/balsikandar/Best-Coding-practices-in-android) - This repo is to add best practices that developers can apply to write clean, short and testable code in android.
-
-*   [duanhong169/GradientDrawableTuner](https://github.com/duanhong169/GradientDrawableTuner) - 🕹️ See how the properties of Android's "shape" affect the Drawable's appearance, intuitively.
-
-*   [raul-lsj/ScreenDensityUtils](https://github.com/raul-lsj/ScreenDensityUtils) - Android屏幕适配很麻烦吗？不！太简单了。。。
-
-*   [wildma/IDCardCamera](https://github.com/wildma/IDCardCamera) - :fire:Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪。 https://www.jianshu.com/p/5e3cb0c63cd5
-
-*   [vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker) - A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
-
-*   [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava2
-
-*   [steelkiwi/IncrementProductView](https://github.com/steelkiwi/IncrementProductView) - Interesting concept of products incrementation
-
-*   [xuexiangjys/RxBus](https://github.com/xuexiangjys/RxBus) - 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定。
-
-*   [PortgasAce/ZoomRecyclerView](https://github.com/PortgasAce/ZoomRecyclerView) - A Zoomable RecyclerView for comic
-
-*   [MichaelJokAr/MultiLanguages](https://github.com/MichaelJokAr/MultiLanguages) - android multi language support (support android O+)
-
-*   [NanBox/RippleLayout](https://github.com/NanBox/RippleLayout) - Simulating real water ripple effect.
-
-*   [Cicinnus0407/Zoom](https://github.com/Cicinnus0407/Zoom) - Google Room Persistence Library Extend.谷歌官方Room数据库扩展库
-
-*   [rengwuxian/HencoderKeyboard3](https://github.com/rengwuxian/HencoderKeyboard3) - 即刻点赞、薄荷健康尺、小米运动、Fliboard 翻页效果
-
-*   [warkiz/IndicatorSeekBar](https://github.com/warkiz/IndicatorSeekBar) - A custom SeekBar on Android, which can be changed the size ,color , thumb drawable , tick drawable , tick text and indicator , also , will show an indicator view with progress above SeekBar when seeking. https://github.com/warkiz/IndicatorSeekBar
-
-*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-
-*   [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
-
-*   [fython/BiometricPromptCompat](https://github.com/fython/BiometricPromptCompat) - A Thrid-party BiometricPrompt compat library.
-
-*   [jiajunhui/PlayerBase](https://github.com/jiajunhui/PlayerBase) - The basic library of Android player will process complex business components. The access is simple。Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
-
-*   [HuanHaiLiuXin/CoolViewPager](https://github.com/HuanHaiLiuXin/CoolViewPager) - A Cool ViewPager
-
-*   [ximsfei/Stark](https://github.com/ximsfei/Stark) - Stark is a hot-fix framework for Android. It supports swapping new implementations of classes without restarting a running Android application, and updated Android resources (icons, layout, etc) while only restarting the Android Activity. Most importantly, there is no private API invoked in Stark.
-
-*   [yatoooon/AndroidScreenAdaptation](https://github.com/yatoooon/AndroidScreenAdaptation) - A light and easy-to-use Android development screen adaptation tool library(一个轻量好用的安卓开发屏幕适配工具库)
-
-*   [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) - Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
-
-*   [Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors) - Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector
-
-*   [a-voyager/StringExtractor](https://github.com/a-voyager/StringExtractor) - 🚀One Key to Extract String Resource
-
-*   [saulmm/CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample) -
-
-*   [lybeat/PlumbTextView](https://github.com/lybeat/PlumbTextView) - PlumbTextView is a vertical textview.
-
-*   [lingochamp/okdownload](https://github.com/lingochamp/okdownload) - A Reliable, Flexible, Fast and Powerful download engine.
-
-*   [shuhart/StepView](https://github.com/shuhart/StepView) - A simple animated step view for Android
-
-*   [jokermonn/permissions4m](https://github.com/jokermonn/permissions4m) - :wrench:国产手机5.0、6.0权限适配框架/编译时注解框架/an Android Runtime Permissions Tool by using APT
-
-*   [naman14/Timber](https://github.com/naman14/Timber) - Material Design Music Player
-
-*   [CaMnter/BasicExercises](https://github.com/CaMnter/BasicExercises) - 📘 Personal basic practice test playground.
-
-*   [laishujie/Comic-MTC](https://github.com/laishujie/Comic-MTC) - :fire:漫画App,适合新手进阶项目。MVP + RxJava + Retrofit + Dagger2+rxlifecycle ，一起学习交流 0v0!
-
-*   [leinardi/FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial) - A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification (https://material.io/components/buttons-floating-action-button#types-of-transitions)
-
-*   [codezjx/AndLinker](https://github.com/codezjx/AndLinker) - AndLinker is a IPC library for Android, which combines the features of AIDL and Retrofit. Allows IPC call seamlessly compose with RxJava and RxJava2 call adapters.
-
-*   [eclipse-paho/paho.mqtt.android](https://github.com/eclipse-paho/paho.mqtt.android) - MQTT Android
-
-*   [florent37/InlineActivityResult](https://github.com/florent37/InlineActivityResult) - Receive the activity result directly after the startActivityForResult with InlineActivityResult
-
-*   [florent37/Android-3D-Layout](https://github.com/florent37/Android-3D-Layout) - Wow effect, transform your layout into 3D views
-
-*   [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
-
-*   [florent37/RuntimePermission](https://github.com/florent37/RuntimePermission) - Simpliest way to ask runtime permissions on Android, no need to extend class or override permissionResult method, choose your way : Kotlin / Coroutines / RxJava / Java7 / Java8
-
-*   [Tencent/VasDolly](https://github.com/Tencent/VasDolly) - Android V1 and V2 Signature Channel Package Plugin
-
-*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-
-*   [igreenwood/SimpleCropView](https://github.com/igreenwood/SimpleCropView) - A simple image cropping library for Android.
-
-*   [ZhaoKaiQiang/ParticleLayout](https://github.com/ZhaoKaiQiang/ParticleLayout) - 左滑粒子效果
-
-*   [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
-
-*   [totond/TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
-
-*   [akaita/easylauncher-gradle-plugin](https://github.com/akaita/easylauncher-gradle-plugin) - Add a different ribbon to each of your Android app variants using this gradle plugin. Of course, configure it as you will
-
-*   [shaohui10086/AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban) - An Advanced Compress Image Library for Android / 高效、简洁的图片压缩工具库
-
-*   [Gru110110110/Biscuit](https://github.com/Gru110110110/Biscuit) - 一款Android 便捷高效图片压缩库，更多自定义，灵活配置，缩放部分逆向微信朋友圈压缩效果推算得来，效果非常接近！
-
-*   [vipulasri/TicketView](https://github.com/vipulasri/TicketView) - An Android library to implement TicketView in android with normal, rounded and scallop corners
-
-*   [GcsSloop/pager-layoutmanager](https://github.com/GcsSloop/pager-layoutmanager) - \[暂停维护]Android 网格分页布局。
-
-*   [milaptank/SpannableTextView](https://github.com/milaptank/SpannableTextView) - SpannableTextView is a custom TextView which lets you customize the styling of slice of your text or statment via Spannables, but without the hassle of having to deal directly with Spannable themselves.
-
-*   [XingdongYu/SimpleLineView](https://github.com/XingdongYu/SimpleLineView) - 可以定制一些简单的路径，按想要的绘制顺序添加，SimpleLineView会依次展现路径动画。
-
-*   [Jude95/RollViewPager](https://github.com/Jude95/RollViewPager) - A ViewPager can auto play and loop
-
-*   [kleisauke/CompactCalendarViewToolbar](https://github.com/kleisauke/CompactCalendarViewToolbar) - Using the library CompactCalendarView in Android Toolbar
-
-*   [savvisingh/DateRangePicker](https://github.com/savvisingh/DateRangePicker) - Date Range Picker is a Calendar Picker View to show a Customized Date Range Picker with improved UI and functionality to add subtitles to the dates
-
-*   [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java) - The missing emoji library for Java :heart:
-
-*   [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
-
-*   [amirzaidi/Launcher3](https://github.com/amirzaidi/Launcher3) - The Launcher3 fork known as "Rootless Pixel Launcher"
-
-*   [thoughtbot/expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view) - Custom Android RecyclerViewAdapters that collapse and expand
-
-*   [davcpas1234/MaterialSettings](https://github.com/davcpas1234/MaterialSettings) - The open repository with a global support for Android 5 Toolbar within any Settings Activity
-
-*   [thegrizzlylabs/sardine-android](https://github.com/thegrizzlylabs/sardine-android) - A WebDAV library for Android
-
-*   [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
-
-*   [florent37/ExpansionPanel](https://github.com/florent37/ExpansionPanel) - Android - Expansion panels contain creation flows and allow lightweight editing of an element.
-
-*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-
-*   [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～
-
-*   [Kyson/AndroidGodEye](https://github.com/Kyson/AndroidGodEye) - An app performance monitor(APM) , like "Android Studio profiler", you can easily monitor the performance of your app real time in browser
-
-*   [ImangazalievM/ReActiveAndroid](https://github.com/ImangazalievM/ReActiveAndroid) - 🚀 Simple and powerful ORM for Android
-
-*   [PureWriter/ToastCompat](https://github.com/PureWriter/ToastCompat) - An Android library to fix Toast BadTokenException
-
-*   [maoruibin/AppPlus](https://github.com/maoruibin/AppPlus) - A open source android application, and used to manage app,export apk, watch recent processes.
-
-*   [pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".
-
-*   [GcsSloop/rclayout](https://github.com/GcsSloop/rclayout) - \[暂停维护]Android通用圆角布局。
-
-*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
-
-*   [xmuSistone/VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) - √A customized LayoutManager - fade and shrink the head itemView when scrolling.
-
-*   [xmuSistone/AutoWrapLayout](https://github.com/xmuSistone/AutoWrapLayout) - a customized viewgroup wraps textviews and aligns on both left and right sides.
-
-*   [zhihu/RxLifecycle](https://github.com/zhihu/RxLifecycle) - Bind observables to the lifecycle of Activity or Fragment in a non-invasive way.
-
-*   [florent37/GlidePalette](https://github.com/florent37/GlidePalette) - Android Lollipop Palette is now easy to use with Glide
-
-*   [amitshekhariitbhu/Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
-
-*   [LuckyJayce/LargeImage](https://github.com/LuckyJayce/LargeImage) - Android 加载大图  可以高清显示10000\*10000像素的图片，轻松实现微博长图功能
-
-*   [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
-
-*   [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
-
-*   [google/volley](https://github.com/google/volley) -
-
-*   [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) - RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
-
-*   [wasabeef/Takt](https://github.com/wasabeef/Takt) - Takt is Android library for measuring the FPS using Choreographer.
-
-*   [Even201314/MRichEditor](https://github.com/Even201314/MRichEditor) - A rich text editor sample (based on summernote)
-
-*   [HK-SHAO/DarkCalculator](https://github.com/HK-SHAO/DarkCalculator) - A calculator that supports functions such as complex number operations and solving equations.
-
-*   [Avocarrot/json2view](https://github.com/Avocarrot/json2view) - Update native Android UI on the fly
-
-*   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
-
-*   [niorgai/Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count) - Show usage count for each resource
-
-*   [Jichensheng/Fish\_2](https://github.com/Jichensheng/Fish_2) - 灵动的红鲤鱼完整版
-
-*   [Jichensheng/Fish](https://github.com/Jichensheng/Fish) - 灵动的红鲤鱼（绘制部分）
-
-*   [guolindev/LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
-
-*   [barryhappy/TContributionsView](https://github.com/barryhappy/TContributionsView) - TContributionsView can be use for a Contributions View, like in one personal homepage of Github, and more than that.
-
-*   [GCX-HCI/tray](https://github.com/GCX-HCI/tray) - a SharedPreferences replacement for Android with multiprocess support
-
-*   [googlesamples/easypermissions](https://github.com/googlesamples/easypermissions) - Simplify Android M system permissions
-
-*   [Kelin-Hong/TranslucentBar](https://github.com/Kelin-Hong/TranslucentBar) - This library offers a simple way to translucent system UI styling and tint color for status bar.It can work above API 19(KitKat 4.4).
-
-*   [Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) - Infinite cycle ViewPager with two-way orientation and interactive effect.
-
-*   [goyourfly/EZLedView](https://github.com/goyourfly/EZLedView) -  LEDView Display image and text like LEDBanner
-
-*   [xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) - An abnormal horizontal ListView-like pile layout with stretch and contraction effects.
-
-*   [Hitomis/transferee](https://github.com/Hitomis/transferee) - \[暂停维护]一个帮助您完成从缩略视图到原视图无缝过渡转变的神奇框架
-
-*   [fcannizzaro/jsoup-annotations](https://github.com/fcannizzaro/jsoup-annotations) - Jsoup Annotations POJO
-
-*   [GrenderG/Toasty](https://github.com/GrenderG/Toasty) - The usual Toast, but with steroids 💪
-
-*   [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
-
-*   [Ramotion/expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) - :octocat: ExpandingCollection is a material design card peek/pop controller. Android UI Library made by @Ramotion
-
-*   [li-yu/SQLiteToExcel](https://github.com/li-yu/SQLiteToExcel) - A simple lib for Android to export SQLite to Excel, also Excel to SQLite.
-
-*   [aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView) - An easy-to-use, customizable and Material Design ready Pattern Lock view for Android
-
-*   [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现
-
-*   [TonnyL/Espresso](https://github.com/TonnyL/Espresso) - 🚚 Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing
-
-*   [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 🔥可以根据图片内容变阴影颜色，更加细腻的阴影效果  It can change color according to the picture, more delicate shadow effect
-
-*   [andyb129/FlipsideCamera](https://github.com/andyb129/FlipsideCamera) - The camera app that takes pictures from both sides of your world ! :camera:
-
-*   [oasisfeng/condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
-
-*   [zjw-swun/AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) - 一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）
-
-*   [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot\_box\_with\_check: \[Cheatsheet] Tips and tricks for Android Development
-
-*   [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
-
-*   [Eajy/MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
-
-*   [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) - 可展开，可拖动，可排序，可删除，固定更多的GridView
-
-*   [wyouflf/xUtils3](https://github.com/wyouflf/xUtils3) - Android orm, bitmap, http, view inject...
-
-*   [litesuits/android-common](https://github.com/litesuits/android-common) - Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util, NotificationUtil, NumberUtil, PackageUtil, RandomUtil, ShellUtil, TelephoneUtil, VibrateUtil, IOUtils, FileUtils, AsyncExecutor, etc.  通用性强，纯洁简单，体积不到50K！其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
-
-*   [sujithkanna/SmileyRating](https://github.com/sujithkanna/SmileyRating) - SmileyRating is a simple rating bar for android. It displays animated smileys as rating icon.
-
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-
-*   [zhanghai/MaterialRatingBar](https://github.com/zhanghai/MaterialRatingBar) - Material Design RatingBar with better appearance
-
-*   [hellokaton/wechat-api](https://github.com/hellokaton/wechat-api) - 🗯 wechat-api by java7.
-
-*   [TedaLIEz/ParsingPlayer](https://github.com/TedaLIEz/ParsingPlayer) - A video player playing videos from youku.com and other video sites.
-
-*   [Hitomis/FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - \[暂停维护]好玩的下拉刷新控件，让我们一起来回味童年
-
-*   [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
-
-*   [limedroid/XRichText](https://github.com/limedroid/XRichText) - 显示富文本的TextView
-
-*   [geftimov/android-pathview](https://github.com/geftimov/android-pathview) - Android view with both path from constructed path or from svg.
-
-*   [Bakumon/UGank](https://github.com/Bakumon/UGank) - :meat\_on\_bone:「有干货」Gank.io 第三方客户端(MVP)
-
-*   [XuDeveloper/XImageLoader](https://github.com/XuDeveloper/XImageLoader) - :fireworks:It's a custom image-loading repository for Android.
-
-*   [daniel-stoneuk/material-about-library](https://github.com/daniel-stoneuk/material-about-library) - Makes it easy to create beautiful about screens for your apps
-
-*   [lypeer/GoogleClock](https://github.com/lypeer/GoogleClock) - The core of it is SVG .
-
-*   [Tencent/tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-
-*   [xuyisheng/AccessibilityUtil](https://github.com/xuyisheng/AccessibilityUtil) - AccessibilityService Utils
-
-*   [Yalantis/ToDoList](https://github.com/Yalantis/ToDoList) - Micro-Transitions for Smooth Android To-Do List Animations
-
-*   [ryanhoo/StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) - A stylish music player for android device 16+
-
-*   [ByoxCode/DrawView](https://github.com/ByoxCode/DrawView) - Android view that allows the user to create drawings. Customize settings like color, width or tools. Undo or redo actions. Zoom into DrawView and add a background.
-
-*   [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
-
-*   [fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) - This is a light Android file picker library.
-
-*   [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
-
-*   [Hitomis/CircleMenu](https://github.com/Hitomis/CircleMenu) - Delicate, chic and supports customizable circle menu
-
-*   [alibaba/freeline](https://github.com/alibaba/freeline) - A super fast build tool for Android, an alternative to Instant Run
-
-*   [ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) - This is a simple util to create Activity transition animation
-
-*   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
-
-*   [JulienGenoud/android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample) - \[Deprecated] Just a sample of the android percent support lib
-
-*   [hongyangAndroid/android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend) - a extends lib for android-percent-support(Google百分比布局库的扩展)
-
-*   [KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
-
-*   [FreedomZZQ/Puzzle-Android](https://github.com/FreedomZZQ/Puzzle-Android) - An awesome puzzle game on Android platform.
-
-*   [zhanghai/Douya](https://github.com/zhanghai/Douya) - 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
-
-*   [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
-
-*   [MasayukiSuda/EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - Thirty-one different easing animation interpolators for Android.
-
-*   [008chen/InterpolatorShow](https://github.com/008chen/InterpolatorShow) - android Interpolator
-
-*   [daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) - Android Animation Easing Functions. Let's make animation more real!
-
-*   [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) - Android Transition animations explanation with examples.
-
-*   [florent37/DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
-
-*   [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
-
-*   [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) - A Material design back port of Android's CalendarView
-
-*   [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) - Ultra Pull to Refresh for Android. Support all the views.
-
-*   [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation) - \[DEPRECATED] A powerful library that manage Fragment for Android
-
-*   [forJrking/FontZip](https://github.com/forJrking/FontZip) - 字体提取工具（APP瘦身神器、APK压缩工具）
-
-*   [HotBitmapGG/bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！
-
-*   [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-
-*   [zhonghanwen/AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) - Android Studio generate proguard codes
-
-*   [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
-
-*   [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
-
-*   [lipangit/JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) - MediaPlayer exoplayer ijkplayer ffmpeg
-
-*   [WangDaYeeeeee/Mysplash](https://github.com/WangDaYeeeeee/Mysplash) - An Unsplash Client
-
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
-
-*   [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
-
-*   [orhanobut/hawk](https://github.com/orhanobut/hawk) - ✔️ Secure, simple key-value storage for Android
-
-*   [bilibili/MagicaSakura](https://github.com/bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
-
-*   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
-
-*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
-
-*   [xybCoder/gank](https://github.com/xybCoder/gank) -  gank.io unofficial client - RxJava2、Retrofit2 & MVP技术干货
-
-*   [aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - A memory efficient Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso.
-
-*   [oxoooo/pull-back-layout](https://github.com/oxoooo/pull-back-layout) - Pull down to finish an Activity.
-
-*   [zzhoujay/RichText](https://github.com/zzhoujay/RichText) - Android平台下的富文本解析器，支持Html和Markdown
-
-*   [PleaseCallMeCoder/PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls) - A personal App based on gank.io.
-
-*   [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
-
-*   [Jude95/FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) - 适应Statusbar与NavigationBar的各种Layout
-
-*   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
-
-*   [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) - Android library providing simple way to control divider items (ItemDecoration) of RecyclerView
-
-*   [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
-
-*   [tomergoldst/tooltips](https://github.com/tomergoldst/tooltips) - Simple to use library for android, enabling to add a tooltip near any view with ease
-
-*   [Devlight/NavigationTabBar](https://github.com/Devlight/NavigationTabBar) - Navigation tab bar with colorful interactions.
-
-*   [dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) - A circular android ProgressBar library which extends View,  and the usage same as ProgressBar,  It has solid,line and solid\_line three styles. Besides, progress value can be freely customized.
-
-*   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
-
-*   [Even201314/NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android) -
-
-*   [gaolonglong/GankGirl](https://github.com/gaolonglong/GankGirl) - RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
-
-*   [Meetic/Dragueur](https://github.com/Meetic/Dragueur) - Dragueur can move any view with one finger ;)
-
-*   [Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - Some loading GIF .
-
-*   [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - A library that gives depth to Views.
-
-*   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
-
-*   [dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too.
-
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
-
-*   [Devlight/ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) - Present your progress bars in arc mode with information and total control.
-
 ## JavaScript
 
 ​
@@ -2091,58 +2143,6 @@
 *   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 
 *   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
-
-## C
-
-​
-
-*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
-
-*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
-
-*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-
-*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
-
-*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
-
-*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
-
-*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
-
-*   [hexhacking/xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
-
-*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
-
-*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
-
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
-
-*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
-
-*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-
-*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
-
-*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 
 ## TypeScript
 
