@@ -12,23 +12,23 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
+*   [Dart](#dart)
+*   [C++](#c)
+*   [Vue](#vue)
+*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [C](#c)
-*   [Rust](#rust)
+*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [Dart](#dart)
-*   [Vue](#vue)
 *   [Swift](#swift)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Go](#go)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [PowerShell](#powershell)
-*   [C++](#c-2)
 *   [CoffeeScript](#coffeescript)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [HLSL](#hlsl)
@@ -52,163 +52,41 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
-## TypeScript
+## Rust
 
 ​
 
-*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
-*   [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow efficiency.
+*   [smparsons/retroboy](https://github.com/smparsons/retroboy) - A Game Boy emulator written in Rust.
 
-*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
+*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 
-*   [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
+*   [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 
-*   [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
+*   [zhongweili/imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
 
-*   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+*   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 
-*   [frostming/fxzhihu](https://github.com/frostming/fxzhihu) - 为知乎生成可分享的卡片及 Instant View
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
-*   [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [byodian/oneimg](https://github.com/byodian/oneimg) - 文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 
-*   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
-
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
-
-*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-
-*   [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
-
-*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
-
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
-
-*   [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
-
-*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-
-*   [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
-
-*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-*   [QC2168/mib](https://github.com/QC2168/mib) - A backup tool based on Node.js and ADB development, according to your configuration will automatically migrate data files on mobile devices to the computer backup, support incremental backup
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [isxuelinme/openai\_cloudflare\_worker\_proxy](https://github.com/isxuelinme/openai_cloudflare_worker_proxy) - using worker of cloudflare resolve can't using api problem in china
-
-*   [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
-
-*   [shensven/Crazy-Thursday](https://github.com/shensven/Crazy-Thursday) - 🎉 发给你的好友，让 TA 请你吃炸鸡！
-
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
-
-*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
-
-*   [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-
-*   [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
-
-*   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
-
-*   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-
-*   [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-
-*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
-
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-
-*   [oyuyue/nplayer](https://github.com/oyuyue/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
-
-*   [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter.
-
-*   [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
-
-*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-
-*   [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI) - ffmpeg GUI
-
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
-*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-
-*   [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-
-*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
-
-*   [alexjlockwood/ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web
-
-*   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
-
-*   [axetroy/anti-redirect](https://github.com/axetroy/anti-redirect) - :rocket:去除各搜索引擎/常用网站的重定向
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
-
-*   [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
-
-*   [3Shain/Comen](https://github.com/3Shain/Comen) - 📺直播用弹幕栏【原bilichat】
-
-*   [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-*   [LookRain/pip-player-chrome-ext](https://github.com/LookRain/pip-player-chrome-ext) - Chrome extension that allows you to play video in picture-in-picture mode
-
-*   [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
-
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-
-*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-
-*   [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
-
-*   [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## Kotlin
 
 ​
+
+*   [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
+
+*   [hiennguyen92/flutter\_callkit\_incoming](https://github.com/hiennguyen92/flutter_callkit_incoming) - Flutter Callkit Incoming
 
 *   [qczone/switch2cursor](https://github.com/qczone/switch2cursor) - A JetBrains IDE plugin that enables smooth switching between JetBrains IDE and Cursor, with automatic cursor position sync. Features keyboard shortcuts, context menu integration, and tools menu access. Supports all JetBrains IDEs.
 
@@ -828,6 +706,8 @@
 
 ​
 
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
 *   [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) - Flutter Reverse Engineering Framework
 
 *   [mimo-x/Code-Review-GPT-Gitlab](https://github.com/mimo-x/Code-Review-GPT-Gitlab) - 🤖 GPT（ Deepseek and more ） Code Review for Gitlab （针对于 Gitlab 的 LLM 辅助 Code Review 工具）项目详细文档 👇🏻
@@ -1005,6 +885,394 @@
 *   [m13253/BiliDan](https://github.com/m13253/BiliDan) - Play videos on Bilibili.com with MPV and Danmaku2ASS
 
 *   [protream/iquery](https://github.com/protream/iquery) - Various information query via command line.
+
+## Dart
+
+​
+
+*   [shamblett/cbor](https://github.com/shamblett/cbor) - A CBOR implementation for Dart
+
+*   [Demizo/Daily\_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
+
+*   [yako-dev/flutter-settings-ui](https://github.com/yako-dev/flutter-settings-ui) - Create native settings for Flutter app in a minutes.
+
+*   [ducafecat/flutter\_package\_ducafe\_ui\_core](https://github.com/ducafecat/flutter_package_ducafe_ui_core) -
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [Predidit/KazumiRules](https://github.com/Predidit/KazumiRules) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
+
+*   [majlindavdylaj/lindi\_sticker\_widget](https://github.com/majlindavdylaj/lindi_sticker_widget) - Lindi Sticker Widget
+
+*   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
+
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - Ghosten Player 是一款同时适配📱 Android Phone 和 📺 Android TV 的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
+
+*   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
+
+*   [RafaelBarbosatec/bonfire](https://github.com/RafaelBarbosatec/bonfire) - (RPG maker) Create RPG-style or similar games more simply with Flame.
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [adar2378/pin\_code\_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓
+
+*   [diegoveloper/flutter\_keyboard\_actions](https://github.com/diegoveloper/flutter_keyboard_actions) -
+
+*   [gonuit/flutter-custom-refresh-indicator](https://github.com/gonuit/flutter-custom-refresh-indicator) - Widget that makes it easy to implement a custom pull to refresh gesture.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [rvamsikrishna/inview\_notifier\_list](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a list view and notifies when the widgets are on screen.
+
+*   [jankuss/genq](https://github.com/jankuss/genq) - Instant Data Class Generation for Dart
+
+*   [gskinnerTeam/flutter\_custom\_carousel](https://github.com/gskinnerTeam/flutter_custom_carousel) - A Flutter widget for creating fully custom, animated scrollable lists. It manages all of the tricky logic surrounding scroll interactions and physics, and leaves the visual presentation of items up to you.
+
+*   [gskinnerTeam/flutter\_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
+
+*   [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
+
+*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
+
+*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
+
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+
+*   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
+
+*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
+
+*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
+
+*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [josiahsrc/dough](https://github.com/josiahsrc/dough) - This package provides some widgets you can use to create a smooshy UI.
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+
+*   [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome) - 📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Android / iOS camera experience.
+
+*   [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - ONNX runtime for Flutter.
+
+*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [xclud/flutter\_crop](https://github.com/xclud/flutter_crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
+
+*   [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+
+*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。
+
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
+
+*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows.
+
+*   [leocavalcante/encrypt](https://github.com/leocavalcante/encrypt) - 🔒 A set of high-level APIs over PointyCastle for two-way cryptography.
+
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+*   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
+
+*   [hackware1993/Flutter\_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) - A super powerful Stack, build flexible layouts with constraints. Similar to ConstraintLayout for Android and AutoLayout for iOS. But the code implementation is much more efficient, it has O(n) layout time complexity and no linear equation solving is required.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [Roaa94/recipes\_ui\_app](https://github.com/Roaa94/recipes_ui_app) - Demo App for The FlutterVikings Conference Session
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
+
+*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
+
+*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
+
+*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
+
+*   [Fliggy-Mobile/fbroadcast](https://github.com/Fliggy-Mobile/fbroadcast) - FBroadcast Help developers build an efficient broadcast system in the application.
+
+*   [lucinhu/bili\_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [mono0926/adaptive\_dialog](https://github.com/mono0926/adaptive_dialog) - Show alert dialog or modal action sheet adaptively according to platform.
+
+*   [nslogx/flutter\_easyloading](https://github.com/nslogx/flutter_easyloading) - ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web
+
+*   [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
+
+*   [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
+
+*   [shamblett/mqtt\_client](https://github.com/shamblett/mqtt_client) - A server and browser based MQTT client for dart
+
+*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
+
+*   [alibaba/flutter\_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
+
+*   [florent37/Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView) - Give a custom shape to any flutter widget, Material Design 2 ready
+
+## C++
+
+​
+
+*   [jaskang/wukong-minimap](https://github.com/jaskang/wukong-minimap) - 黑神话内置实时地图 / Black Myth: Wukong Built-in real-time map
+
+*   [leanflutter/window\_manager](https://github.com/leanflutter/window_manager) - The window\_manager plugin provides comprehensive window management capabilities for Flutter desktop applications, enabling full control over window size, position, appearance, close behavior, and listening to events.
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86\_64 servers, websocket server/client, support 11 programming languages
+
+*   [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
+
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+
+*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+
+*   [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+
+*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
+
+*   [KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM) - KOOM is an OOM killer on mobile platform by Kwai.
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [leobert-lan/Blog](https://github.com/leobert-lan/Blog) - 我是Leobert，一个喜爱开源、热衷于社区分享的程序员。这个项目，可以让我的文章以及计划要编写的文章管理更加方便。
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+
+*   [githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2) - 🔥 Android OpenGL Camera 2.0  实现 30 多种滤镜和抖音特效
+
+*   [YukihoAA/waifu2x\_snowshell](https://github.com/YukihoAA/waifu2x_snowshell) - Multilingual waifu2x GUI shell for windows x64
+
+*   [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+
+*   [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+
+*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
+
+*   [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) - An osu! Bongo Cat overlay
+
+*   [TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler
+
+*   [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute lets you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
+
+*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
+
+*   [peng-zhihui/FingerBoard](https://github.com/peng-zhihui/FingerBoard) - 给机械键盘添加指纹识别功能，这是Arduino固件的代码
+
+*   [anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+
+*   [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) - Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
+
+*   [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+
+*   [alcros33/MHW-Costume-Armor](https://github.com/alcros33/MHW-Costume-Armor) - GUI Program to customize layered Armor in the game Monster Hunter World.
+
+*   [tiann/FreeReflection](https://github.com/tiann/FreeReflection) - A library that lets you use reflection without any restriction above Android P
+
+*   [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
+
+*   [rovo89/Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app\_process binary).
+
+*   [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
+
+*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+
+*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
+
+## Vue
+
+​
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、主题切换
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
+
+*   [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
+
+## TypeScript
+
+​
+
+*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
+
+*   [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow efficiency.
+
+*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
+
+*   [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
+
+*   [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
+
+*   [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+
+*   [frostming/fxzhihu](https://github.com/frostming/fxzhihu) - 为知乎生成可分享的卡片及 Instant View
+
+*   [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
+
+*   [byodian/oneimg](https://github.com/byodian/oneimg) - 文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作
+
+*   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+
+*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+
+*   [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
+
+*   [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+*   [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
+
+*   [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
+
+*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+
+*   [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
+
+*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+*   [QC2168/mib](https://github.com/QC2168/mib) - A backup tool based on Node.js and ADB development, according to your configuration will automatically migrate data files on mobile devices to the computer backup, support incremental backup
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [isxuelinme/openai\_cloudflare\_worker\_proxy](https://github.com/isxuelinme/openai_cloudflare_worker_proxy) - using worker of cloudflare resolve can't using api problem in china
+
+*   [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
+
+*   [shensven/Crazy-Thursday](https://github.com/shensven/Crazy-Thursday) - 🎉 发给你的好友，让 TA 请你吃炸鸡！
+
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
+
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+
+*   [sportstimes/f1](https://github.com/sportstimes/f1) - Second edition of F1 Calendar  🏎📅
+
+*   [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
+
+*   [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live geostationary weather satellite imagery for your desktop background
+
+*   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+
+*   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
+
+*   [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
+
+*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
+
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+
+*   [oyuyue/nplayer](https://github.com/oyuyue/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
+
+*   [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter.
+
+*   [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
+
+*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+
+*   [zhen-ke/ffmpegGUI](https://github.com/zhen-ke/ffmpegGUI) - ffmpeg GUI
+
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+*   [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+
+*   [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+
+*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
+
+*   [alexjlockwood/ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web
+
+*   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
+
+*   [axetroy/anti-redirect](https://github.com/axetroy/anti-redirect) - :rocket:去除各搜索引擎/常用网站的重定向
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
+
+*   [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+
+*   [3Shain/Comen](https://github.com/3Shain/Comen) - 📺直播用弹幕栏【原bilichat】
+
+*   [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+*   [LookRain/pip-player-chrome-ext](https://github.com/LookRain/pip-player-chrome-ext) - Chrome extension that allows you to play video in picture-in-picture mode
+
+*   [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
+
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+
+*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+
+*   [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
+
+*   [xmcp/pakku.js](https://github.com/xmcp/pakku.js) - 拯救B站的弹幕体验！
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
 
 ## Java
 
@@ -1746,16 +2014,6 @@
 
 *   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
 
-*   [Even201314/NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android) -
-
-*   [gaolonglong/GankGirl](https://github.com/gaolonglong/GankGirl) - RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
-
-*   [Meetic/Dragueur](https://github.com/Meetic/Dragueur) - Dragueur can move any view with one finger ;)
-
-*   [Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - Some loading GIF .
-
-*   [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - A library that gives depth to Views.
-
 ## Shell
 
 ​
@@ -1891,32 +2149,6 @@
 *   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
 
 *   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
-
-## Rust
-
-​
-
-*   [smparsons/retroboy](https://github.com/smparsons/retroboy) - A Game Boy emulator written in Rust.
-
-*   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
-
-*   [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
-
-*   [zhongweili/imagenie](https://github.com/zhongweili/imagenie) - AI-powered desktop app for stunning image transformations
-
-*   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
-
-*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## miscellaneous
 
@@ -2057,12 +2289,6 @@
 *   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 
 *   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-
-*   [AllenVork/Technology](https://github.com/AllenVork/Technology) - This repository is to record the technologies that I learned
-
-*   [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
-
-*   [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 
 ## JavaScript
 
@@ -2219,150 +2445,6 @@
 *   [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
 
 *   [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-
-## Dart
-
-​
-
-*   [yako-dev/flutter-settings-ui](https://github.com/yako-dev/flutter-settings-ui) - Create native settings for Flutter app in a minutes.
-
-*   [ducafecat/flutter\_package\_ducafe\_ui\_core](https://github.com/ducafecat/flutter_package_ducafe_ui_core) -
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [Predidit/KazumiRules](https://github.com/Predidit/KazumiRules) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
-
-*   [majlindavdylaj/lindi\_sticker\_widget](https://github.com/majlindavdylaj/lindi_sticker_widget) - Lindi Sticker Widget
-
-*   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
-
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - Ghosten Player 是一款同时适配📱 Android Phone 和 📺 Android TV 的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。 界面简洁，功能丰富，开箱即用。
-
-*   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
-
-*   [RafaelBarbosatec/bonfire](https://github.com/RafaelBarbosatec/bonfire) - (RPG maker) Create RPG-style or similar games more simply with Flame.
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [adar2378/pin\_code\_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓
-
-*   [diegoveloper/flutter\_keyboard\_actions](https://github.com/diegoveloper/flutter_keyboard_actions) -
-
-*   [gonuit/flutter-custom-refresh-indicator](https://github.com/gonuit/flutter-custom-refresh-indicator) - Widget that makes it easy to implement a custom pull to refresh gesture.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [rvamsikrishna/inview\_notifier\_list](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a list view and notifies when the widgets are on screen.
-
-*   [jankuss/genq](https://github.com/jankuss/genq) - Instant Data Class Generation for Dart
-
-*   [gskinnerTeam/flutter\_custom\_carousel](https://github.com/gskinnerTeam/flutter_custom_carousel) - A Flutter widget for creating fully custom, animated scrollable lists. It manages all of the tricky logic surrounding scroll interactions and physics, and leaves the visual presentation of items up to you.
-
-*   [gskinnerTeam/flutter\_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
-
-*   [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
-
-*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
-
-*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
-
-*   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
-
-*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
-
-*   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
-
-*   [VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn) - Learning app for kids
-
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
-
-*   [josiahsrc/dough](https://github.com/josiahsrc/dough) - This package provides some widgets you can use to create a smooshy UI.
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
-
-*   [Apparence-io/CamerAwesome](https://github.com/Apparence-io/CamerAwesome) - 📸 Embedding a camera experience within your own app shouldn't be that hard. A flutter plugin to integrate awesome Android / iOS camera experience.
-
-*   [Telosnex/fonnx](https://github.com/Telosnex/fonnx) - ONNX runtime for Flutter.
-
-*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [xclud/flutter\_crop](https://github.com/xclud/flutter_crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
-
-*   [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
-
-*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。
-
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
-
-*   [chipweinberger/flutter\_blue\_plus](https://github.com/chipweinberger/flutter_blue_plus) - Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows.
-
-*   [leocavalcante/encrypt](https://github.com/leocavalcante/encrypt) - 🔒 A set of high-level APIs over PointyCastle for two-way cryptography.
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-*   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
-
-*   [hackware1993/Flutter\_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout) - A super powerful Stack, build flexible layouts with constraints. Similar to ConstraintLayout for Android and AutoLayout for iOS. But the code implementation is much more efficient, it has O(n) layout time complexity and no linear equation solving is required.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [Roaa94/recipes\_ui\_app](https://github.com/Roaa94/recipes_ui_app) - Demo App for The FlutterVikings Conference Session
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
-
-*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
-
-*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
-
-*   [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-
-*   [Fliggy-Mobile/fbroadcast](https://github.com/Fliggy-Mobile/fbroadcast) - FBroadcast Help developers build an efficient broadcast system in the application.
-
-*   [lucinhu/bili\_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [mono0926/adaptive\_dialog](https://github.com/mono0926/adaptive_dialog) - Show alert dialog or modal action sheet adaptively according to platform.
-
-*   [nslogx/flutter\_easyloading](https://github.com/nslogx/flutter_easyloading) - ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web
-
-*   [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
-
-*   [austinried/subtracks](https://github.com/austinried/subtracks) - A music streaming app for Subsonic-compatible servers
-
-*   [shamblett/mqtt\_client](https://github.com/shamblett/mqtt_client) - A server and browser based MQTT client for dart
-
-*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
-
-*   [alibaba/flutter\_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
-
-*   [florent37/Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView) - Give a custom shape to any flutter widget, Material Design 2 ready
-
-## Vue
-
-​
-
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
-
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
-
-*   [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2) - Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.
-
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
-
-*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 
 ## Swift
 
@@ -2535,88 +2617,6 @@
 *   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
 
 *   [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
-
-## C++
-
-​
-
-*   [leanflutter/window\_manager](https://github.com/leanflutter/window_manager) - The window\_manager plugin provides comprehensive window management capabilities for Flutter desktop applications, enabling full control over window size, position, appearance, close behavior, and listening to events.
-
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
-
-*   [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86\_64 servers, websocket server/client, support 11 programming languages
-
-*   [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
-
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-
-*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-
-*   [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-
-*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
-
-*   [KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM) - KOOM is an OOM killer on mobile platform by Kwai.
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [leobert-lan/Blog](https://github.com/leobert-lan/Blog) - 我是Leobert，一个喜爱开源、热衷于社区分享的程序员。这个项目，可以让我的文章以及计划要编写的文章管理更加方便。
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-
-*   [githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2) - 🔥 Android OpenGL Camera 2.0  实现 30 多种滤镜和抖音特效
-
-*   [YukihoAA/waifu2x\_snowshell](https://github.com/YukihoAA/waifu2x_snowshell) - Multilingual waifu2x GUI shell for windows x64
-
-*   [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
-
-*   [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
-
-*   [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-
-*   [kuroni/bongocat-osu](https://github.com/kuroni/bongocat-osu) - An osu! Bongo Cat overlay
-
-*   [TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler
-
-*   [lx-s/WinMute](https://github.com/lx-s/WinMute) - WinMute lets you automatically mute your PC volume on certain events (e. g. Screensaver, Workstation Lock, Shutdown, etc.).
-
-*   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
-
-*   [peng-zhihui/FingerBoard](https://github.com/peng-zhihui/FingerBoard) - 给机械键盘添加指纹识别功能，这是Arduino固件的代码
-
-*   [anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
-
-*   [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) - Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
-
-*   [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
-
-*   [alcros33/MHW-Costume-Armor](https://github.com/alcros33/MHW-Costume-Armor) - GUI Program to customize layered Armor in the game Monster Hunter World.
-
-*   [tiann/FreeReflection](https://github.com/tiann/FreeReflection) - A library that lets you use reflection without any restriction above Android P
-
-*   [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
-
-*   [rovo89/Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app\_process binary).
-
-*   [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
-
-*   [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
-
-*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 
 ## CoffeeScript
 
