@@ -970,7 +970,7 @@
 
 *   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
 
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 
 *   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 
@@ -1472,7 +1472,7 @@
 
 *   [tobiasrohloff/NestedScrollWebView](https://github.com/tobiasrohloff/NestedScrollWebView) - An Android WebView that implements NestedScrollingChild, in order to use it with CoordinatorLayout and AppBarLayout.
 
-*   [houbb/opencc4j](https://github.com/houbb/opencc4j) - 🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换)
+*   [houbb/opencc4j](https://github.com/houbb/opencc4j) - 🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换，支持台湾、香港、中文日文转换。)
 
 *   [AlynxZhou/alynx-live-wallpaper](https://github.com/AlynxZhou/alynx-live-wallpaper) - An android app that allows you choose a video as wallpaper.
 
