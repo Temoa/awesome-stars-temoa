@@ -1214,7 +1214,7 @@
 
 *   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
 
-*   [Ghosten-Player/Ghosten-Player](https://github.com/Ghosten-Player/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 
 *   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 
@@ -1488,7 +1488,7 @@
 
 *   [huxq17/Pump](https://github.com/huxq17/Pump) - A smart tool for android download,support BreakPoint、MultiTask and MultiThread.
 
-*   [virtualvivek/BlurShadowImageView](https://github.com/virtualvivek/BlurShadowImageView) - A library for Android provides blurred drop shadows to ImageView similar to iOS image backdrop shadows.Provides fast canvas draw as no renderscript needed .The similar shadow blurred effects can also be seen in iOS Music App.
+*   [virtualvivek/BlurShadowImageView](https://github.com/virtualvivek/BlurShadowImageView) - An Android library provides blurred drop shadows to ImageView similar to iOS image backdrop shadows.Provides fast canvas draw as no renderscript needed .The similar shadow blurred effects can also be seen in iOS Music App.
 
 *   [KunMinX/UnPeek-LiveData](https://github.com/KunMinX/UnPeek-LiveData) - LiveData 数据倒灌：别问，问就是不可预期 - Perfect alternative to SingleLiveEvent, supporting multiple observers.
 
