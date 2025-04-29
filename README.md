@@ -56,6 +56,14 @@
 
 ​
 
+*   [pratikksahu/JetPDFVue](https://github.com/pratikksahu/JetPDFVue) - PDF reader Android library based on Jetpack Compose
+
+*   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) -
+
+*   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Kotlin Multiplatform library for monitoring network connectivity
+
+*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
+
 *   [chrisbanes/haze](https://github.com/chrisbanes/haze) - Background blurring for Compose Multiplatform / Jetpack Compose
 
 *   [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum) - Delve into the rich collection of masterpieces.
@@ -2074,12 +2082,6 @@
 
 *   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 
-*   [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) - Android library providing simple way to control divider items (ItemDecoration) of RecyclerView
-
-*   [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
-
-*   [tomergoldst/tooltips](https://github.com/tomergoldst/tooltips) - Simple to use library for android, enabling to add a tooltip near any view with ease
-
 ## Shell
 
 ​
@@ -2771,8 +2773,6 @@
 ​
 
 *   [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) - A gradle plugin that merge dependencies into the final aar file works with AGP 3.+
-
-*   [chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin) - 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。
 
 ## Markdown
 
