@@ -279,7 +279,7 @@
 
 *   [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 
-*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
+*   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘/阿里云盘/中国移动云盘/天翼云盘/迅雷云盘/夸克网盘/UC网盘/123云盘 八大网盘
 
 *   [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 
