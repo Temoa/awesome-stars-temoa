@@ -55,6 +55,8 @@
 
 ​
 
+*   [ismai117/KScan](https://github.com/ismai117/KScan) - Compose Multiplatform Barcode Scanning
+
 *   [Omico/OhMyJVM](https://github.com/Omico/OhMyJVM) - A JDK version manager for Windows written in Kotlin Native
 
 *   [Omico/CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor. Currently, become an implementation of Google's recommended Android app architecture.
@@ -2234,8 +2236,6 @@
 *   [oxoooo/pull-back-layout](https://github.com/oxoooo/pull-back-layout) - Pull down to finish an Activity.
 
 *   [zzhoujay/RichText](https://github.com/zzhoujay/RichText) - Android平台下的富文本解析器，支持Html和Markdown
-
-*   [PleaseCallMeCoder/PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls) - A personal App based on gank.io.
 
 ## Shell
 
