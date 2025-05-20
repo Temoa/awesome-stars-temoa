@@ -57,6 +57,8 @@
 
 ​
 
+*   [kamranbekirovyz/logarte](https://github.com/kamranbekirovyz/logarte) - 🪵 In-app debug console and logger for Flutter
+
 *   [superlistapp/super\_sliver\_list](https://github.com/superlistapp/super_sliver_list) - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents and reliably jump / animate to any item.
 
 *   [shamblett/cbor](https://github.com/shamblett/cbor) - A CBOR implementation for Dart
@@ -1066,8 +1068,6 @@
 *   [bilibili/MagicaSakura](https://github.com/bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
 
 *   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
-
-*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
 
 ## Python
 
