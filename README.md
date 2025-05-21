@@ -2263,7 +2263,7 @@
 
 *   [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 *   [LouisYLWang/Sync-Sofa](https://github.com/LouisYLWang/Sync-Sofa) - co-play streaming video with remote friends!
 
