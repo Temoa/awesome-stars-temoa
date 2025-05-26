@@ -133,7 +133,7 @@
 
 *   [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) - 🎨 Generate a dynamic Material3 color sheme from a seed color
 
-*   [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
+*   [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
 *   [MoyuruAizawa/Cropify](https://github.com/MoyuruAizawa/Cropify) - Image Cropper for Android Jetpack Compose.
 
