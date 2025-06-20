@@ -263,7 +263,7 @@
 
 *   [pratikksahu/JetPDFVue](https://github.com/pratikksahu/JetPDFVue) - PDF reader Android library based on Jetpack Compose
 
-*   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) -
+*   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
 
 *   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Kotlin Multiplatform library for monitoring network connectivity
 
