@@ -83,7 +83,7 @@
 
 *   [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) - A Flutter UI components lib for TDesign.
 
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 📺一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
 
 *   [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 
