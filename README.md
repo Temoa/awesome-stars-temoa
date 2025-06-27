@@ -57,6 +57,8 @@
 
 ​
 
+*   [ipcjs/coordtransform\_dart](https://github.com/ipcjs/coordtransform_dart) - Transform coordinate systems between Wgs84/Gcj02/Bd09
+
 *   [wasabeef/flutter\_use](https://github.com/wasabeef/flutter_use) - Play Flutter Hooks.
 
 *   [theideasaler/calendar\_date\_picker2](https://github.com/theideasaler/calendar_date_picker2) - Lightweight and highly customizable calendar picker built on Flutter's original CalendarDatePicker, with support for multi and range modes.
@@ -267,7 +269,7 @@
 
 *   [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).
 
-*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Compose Unstyled is a set of foundational components for building high-quality, accessible design systems in Compose Multiplatform.
+*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Compose Unstyled is a set of foundational components for building high-quality, accessible design systems in Compose UI.
 
 *   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.
 
@@ -965,7 +967,7 @@
 
 *   [shensven/Crazy-Thursday](https://github.com/shensven/Crazy-Thursday) - 🎉 发给你的好友，让 TA 请你吃炸鸡！
 
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
@@ -1129,7 +1131,7 @@
 
 *   [crazydan-studio/kuaizi-ime](https://github.com/crazydan-studio/kuaizi-ime) - 筷字输入法，一款按键布局精心设计的、输入高效且快捷的、适用于触屏设备的汉语拼音输入法
 
-*   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，下一代文本加密工具
+*   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 
 *   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
@@ -2706,8 +2708,6 @@
 *   [snowdream/115-Java-Interview-Questions-and-Answers](https://github.com/snowdream/115-Java-Interview-Questions-and-Answers) - 115 Java Interview Questions and Answers – The ULTIMATE List
 
 *   [owenlongbo/android-developer-blog-cn](https://github.com/owenlongbo/android-developer-blog-cn) - 定期翻译Android官方博客
-
-*   [freedombird9/code-easy-to-delete](https://github.com/freedombird9/code-easy-to-delete) -
 
 ## Swift
 
