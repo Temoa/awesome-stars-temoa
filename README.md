@@ -255,7 +255,7 @@
 
 ​
 
-*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your smooth dynamic lyrics display tool built with WinUI 3 | 基于 WinUI 3 打造的流畅动态歌词显示工具
+*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your smooth dynamic lyrics display tool built with WinUI 3 and Win2D | 基于 WinUI 3 和 Win2D 打造的流畅动态歌词显示工具
 
 *   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
 
