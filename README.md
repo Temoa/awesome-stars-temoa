@@ -31,6 +31,7 @@
 *   [Swift](#swift)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
+*   [CoffeeScript](#coffeescript)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [HLSL](#hlsl)
 *   [Dockerfile](#dockerfile)
@@ -106,7 +107,7 @@
 
 *   [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
 
-*   [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
+*   [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 
 *   [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 
@@ -132,7 +133,7 @@
 
 *   [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 
-*   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+*   [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 
@@ -560,7 +561,7 @@
 
 ​
 
-*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your smooth dynamic lyrics display tool built with WinUI 3 and Win2D | 基于 WinUI 3 和 Win2D 打造的流畅动态歌词显示工具
+*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your dynamic lyrics display tool built with WinUI 3 and Win2D - works with local playback and other music players | 基于 WinUI 3 和 Win2D 打造的动态歌词显示工具 - 支持本地播放及其他音乐播放器
 
 *   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
 
@@ -659,8 +660,6 @@
 *   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 *   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports end-to-end encryption and allows for setting the synchronization interval. This repository contains both the plugin and the server-side source code
 
@@ -874,7 +873,7 @@
 
 *   [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).
 
-*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - Compose Unstyled is a library built on top of Compose Foundation that provides fully-renderless, fully accessible components like Bottom Sheets, Dropdown Menus, and Animated Dialogs, plus a flexible theming system – so you can build any design system on every platform, not just Android.
+*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
 
 *   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.
 
@@ -1510,7 +1509,7 @@
 
 *   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
 *   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
@@ -2817,6 +2816,12 @@
 *   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 *   [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
+
+## CoffeeScript
+
+​
+
+*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## Visual Basic .NET
 
