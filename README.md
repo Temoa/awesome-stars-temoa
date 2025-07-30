@@ -603,6 +603,8 @@
 
 *   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
 *   [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 
 *   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
@@ -1856,8 +1858,6 @@
 *   [xiaolf1/AppDress](https://github.com/xiaolf1/AppDress) - AppDress is a android library that change app ui color with sample code.
 
 *   [skydoves/ColorPickerView](https://github.com/skydoves/ColorPickerView) - 🎨 Android colorpicker for getting colors from any images by tapping on the desired color.
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 
 *   [Takhion/renderthread](https://github.com/Takhion/renderthread) - Android's RenderThread wrapper
 
