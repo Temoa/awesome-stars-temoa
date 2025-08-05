@@ -59,6 +59,8 @@
 
 ​
 
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+
 *   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
 
 *   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
@@ -110,8 +112,6 @@
 *   [alibaba/web-editor](https://github.com/alibaba/web-editor) - please use https://uiauto.dev instead
 
 *   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
-
-*   [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 
 *   [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
 
@@ -2523,8 +2523,6 @@
 
 *   [dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - Android Circular Progress Button
 
-*   [D-clock/AndroidSystemUiTraining](https://github.com/D-clock/AndroidSystemUiTraining) - Android System UI Training Code
-
 ## QML
 
 ​
@@ -2640,6 +2638,8 @@
 *   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
 
 *   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+
+*   [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 
 *   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 
