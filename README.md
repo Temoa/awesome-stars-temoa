@@ -669,7 +669,7 @@
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
-*   [xclud/flutter\_crop](https://github.com/xclud/flutter_crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
+*   [olutter/crop](https://github.com/olutter/crop) - Crop any widget/image in Android, iOS, Web and Desktop with fancy and customizable UI, in pure Dart code.
 
 *   [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.
 
@@ -839,7 +839,7 @@
 
 *   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
 
-*   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Kotlin Multiplatform library for monitoring network connectivity
+*   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Monitornetwork connectivity in Kotlin Multiplatform apps
 
 *   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 
@@ -913,7 +913,7 @@
 
 *   [darkokoa/compose-datetime-wheel-picker](https://github.com/darkokoa/compose-datetime-wheel-picker) - Wheel Date & Time Picker in Compose Multiplatform
 
-*   [jordond/drag-select-compose](https://github.com/jordond/drag-select-compose) - ⚡ A Compose multiplatform library for adding Google Photos style drag-to-select multi-selection to a LazyGrid
+*   [jordond/drag-select-compose](https://github.com/jordond/drag-select-compose) - ⚡ Google Photos style drag-to-select multi-selection to a LazyGrid for Compose multiplatform
 
 *   [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino) - Compose Multiplatform UI components for iOS (Cupertino Widgets)
 
