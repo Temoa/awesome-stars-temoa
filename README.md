@@ -625,7 +625,7 @@
 
 *   [freeletics/FlowRedux](https://github.com/freeletics/FlowRedux) - Kotlin Multiplatform Statemachine library with nice DSL based on Flow from Kotlin Coroutine's.
 
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 *   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 
