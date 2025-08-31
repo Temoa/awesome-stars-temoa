@@ -1505,7 +1505,7 @@
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - 安卓版本适配全套指南
+*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
 
 *   [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
 
