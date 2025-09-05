@@ -59,6 +59,8 @@
 
 ​
 
+*   [davidepianca98/KMQTT](https://github.com/davidepianca98/KMQTT) - Kotlin Multiplatform MQTT client & embeddable and standalone broker
+
 *   [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit) - An easy-to-use, high-performance dex deobfuscation library.
 
 *   [godaddy/compose-color-picker](https://github.com/godaddy/compose-color-picker) - Jetpack Compose Android Color Picker 🎨
@@ -191,7 +193,7 @@
 
 *   [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
 
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 
 *   [adrielcafe/bonsai](https://github.com/adrielcafe/bonsai) - :deciduous\_tree: A multiplatform tree view for Jetpack Compose
 
@@ -1682,8 +1684,6 @@
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## miscellaneous
 
