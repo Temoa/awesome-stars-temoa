@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -32,7 +33,6 @@
 *   [Swift](#swift)
 *   [C](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [PowerShell](#powershell)
 *   [CoffeeScript](#coffeescript)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [HLSL](#hlsl)
@@ -54,6 +54,18 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## PowerShell
+
+​
+
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+*   [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 
 ## miscellaneous
 
@@ -2065,8 +2077,6 @@
 
 *   [kaleai/LogDelegate](https://github.com/kaleai/LogDelegate) - Simple, pretty and powerful logger for android
 
-*   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
-
 ## TypeScript
 
 ​
@@ -2836,16 +2846,6 @@
 *   [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 
 *   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
-## PowerShell
-
-​
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-
-*   [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 
 ## CoffeeScript
 
