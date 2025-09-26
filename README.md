@@ -59,6 +59,8 @@
 
 ​
 
+*   [mrjoechen/ShowcaseApp](https://github.com/mrjoechen/ShowcaseApp) - Showcase is an Android application for displaying pictures.
+
 *   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods libreated from Apple's ecosystem.
 
 *   [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
@@ -2075,8 +2077,6 @@
 
 *   [DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) - AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。接下来会在简书上为每个Module写对应的文章，并持续更新。
 
-*   [Yalantis/Horizon](https://github.com/Yalantis/Horizon) - Horizon - Simple visual equaliser for Android
-
 ## TypeScript
 
 ​
@@ -2087,7 +2087,7 @@
 
 *   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 
-*   [experdot/pointer](https://github.com/experdot/pointer) - An exploratory AI desktop app featuring object trees, crosstabs, and chat trees for deep conversation analysis. Seamlessly import your chat history from OpenAI & DeepSeek. 一款探索性 AI 桌面应用，集成对象树、交叉表和聊天树，用于深度分析和快捷管理你的 AI 对话。支持从 OpenAI 和 DeepSeek 无缝导入聊天记录。
+*   [experdot/pointer](https://github.com/experdot/pointer) - An exploratory AI desktop app featuring object trees, crosstabs, and chat trees for deep conversation analysis. Seamlessly import your chat history from OpenAI & DeepSeek. 一款探索性 AI 桌面应用，集成对象树、交叉表和聊天树，追求极致的AI对话体验。支持从 OpenAI 和 DeepSeek 无缝导入聊天记录。
 
 *   [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 
