@@ -565,6 +565,8 @@
 
 *   [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
 
+*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android/KMP localization plugin. supports multiple languages and multiple translators.
+
 *   [nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter) - Android app to showcase complex UI/Animations with and without MotionLayout
 
 *   [MalekKamel/FormValidator](https://github.com/MalekKamel/FormValidator) - A declarative Form Validation for Android, simple, clean, and customizable.
@@ -1534,8 +1536,6 @@
 *   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
 
 *   [android/animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
-
-*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android localization plugin. supports multiple languages and multiple translators.
 
 *   [saket/Better-Link-Movement-Method](https://github.com/saket/Better-Link-Movement-Method) - Attempts to improve how clickable links are detected, highlighted and handled in TextView
 
