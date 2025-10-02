@@ -603,6 +603,8 @@
 
 *   [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) - A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
 
+*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
+
 *   [majorkik/SparkLineLayout](https://github.com/majorkik/SparkLineLayout) - Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
 
 *   [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
@@ -1584,8 +1586,6 @@
 *   [yellowcath/VideoProcessor](https://github.com/yellowcath/VideoProcessor) - process video(cut & scale & increase & decrease & reverse) with mediacodec
 
 *   [mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView) - 用于做Path动画的自定义View。 I have a path.I have a view. (Oh~),Path(Anim)View.
-
-*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 
 *   [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 
