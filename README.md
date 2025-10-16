@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [PHP](#php)
 *   [C++](#c)
 *   [Python](#python)
@@ -21,7 +22,6 @@
 *   [PowerShell](#powershell)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [CSS](#css)
@@ -54,6 +54,98 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Shell
+
+​
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+
+*   [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
+
+*   [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) - A collection of settings to make Claude Code more useful.
+
+*   [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
+
+*   [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
+
+*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
+
+*   [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
+
+*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+*   [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
+
+*   [Bruceforce/vaultwarden-backup](https://github.com/Bruceforce/vaultwarden-backup) - This is a mirror of https://gitlab.com/1O/vaultwarden-backup
+
+*   [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 应用商店 固件(Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)
+
+*   [410154425/Message\_Forwarding](https://github.com/410154425/Message_Forwarding) - 消转模块magisk模块，通过微信或钉钉官方API接口将指定应用(短信、来电、其它APP)的消息通知转发到个人微信或钉钉。top大佬(酷安)
+
+*   [410154425/QuantitativeStopCharging\_switch\_magisk](https://github.com/410154425/QuantitativeStopCharging_switch_magisk) - QSC定量停充\_独立开关版magisk模块，到达指定电量、指定温度自动停止充电、自动恢复充电。top大佬(酷安)
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [Magisk-Modules-Alt-Repo/FluentEmojiMagisk](https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft.
+
+*   [yongxin-tech/Bash-Simple-Code-Obfuscator](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator) - This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
+
+*   [VR-25/djs](https://github.com/VR-25/djs) - Daily Job Scheduler
+
+*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+
+*   [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
+
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+
+*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+
+*   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
+
+*   [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
+
+*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+
+*   [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
+
+*   [yihanwu1024/badcert](https://github.com/yihanwu1024/badcert) - A collection of certificates that sign unwanted software.
+
+*   [yc9559/qti-mem-opt](https://github.com/yc9559/qti-mem-opt) - Memory management optimaization for Qualcomm platform
+
+*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
+
+*   [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+
+*   [user1121114685/koolproxyR](https://github.com/user1121114685/koolproxyR) -
+
+*   [CNMan/dnscrypt-proxy-config](https://github.com/CNMan/dnscrypt-proxy-config) -
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+
+*   [dakkidaze/one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
+
+*   [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
+
+*   [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 
 ## PHP
 
@@ -1391,8 +1483,6 @@
 
 *   [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 
-*   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
-
 ## JavaScript
 
 ​
@@ -1560,96 +1650,6 @@
 *   [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
 
 *   [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-
-## Shell
-
-​
-
-*   [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
-
-*   [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) - A collection of settings to make Claude Code more useful.
-
-*   [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
-
-*   [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
-
-*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-
-*   [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
-
-*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-
-*   [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
-
-*   [Bruceforce/vaultwarden-backup](https://github.com/Bruceforce/vaultwarden-backup) - This is a mirror of https://gitlab.com/1O/vaultwarden-backup
-
-*   [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 应用商店 固件(Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)
-
-*   [410154425/Message\_Forwarding](https://github.com/410154425/Message_Forwarding) - 消转模块magisk模块，通过微信或钉钉官方API接口将指定应用(短信、来电、其它APP)的消息通知转发到个人微信或钉钉。top大佬(酷安)
-
-*   [410154425/QuantitativeStopCharging\_switch\_magisk](https://github.com/410154425/QuantitativeStopCharging_switch_magisk) - QSC定量停充\_独立开关版magisk模块，到达指定电量、指定温度自动停止充电、自动恢复充电。top大佬(酷安)
-
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-*   [Magisk-Modules-Alt-Repo/FluentEmojiMagisk](https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft.
-
-*   [yongxin-tech/Bash-Simple-Code-Obfuscator](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator) - This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
-
-*   [VR-25/djs](https://github.com/VR-25/djs) - Daily Job Scheduler
-
-*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
-
-*   [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
-
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-
-*   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
-
-*   [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
-
-*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-
-*   [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
-
-*   [yihanwu1024/badcert](https://github.com/yihanwu1024/badcert) - A collection of certificates that sign unwanted software.
-
-*   [yc9559/qti-mem-opt](https://github.com/yc9559/qti-mem-opt) - Memory management optimaization for Qualcomm platform
-
-*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
-
-*   [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
-
-*   [user1121114685/koolproxyR](https://github.com/user1121114685/koolproxyR) -
-
-*   [CNMan/dnscrypt-proxy-config](https://github.com/CNMan/dnscrypt-proxy-config) -
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-
-*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-
-*   [dakkidaze/one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
-
-*   [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
-
-*   [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 
 ## Dart
 
@@ -2735,7 +2735,7 @@
 
 ​
 
-*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
+*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 
