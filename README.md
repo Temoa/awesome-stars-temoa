@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Shell](#shell)
 *   [PHP](#php)
 *   [C++](#c)
@@ -32,7 +33,6 @@
 *   [Roff](#roff)
 *   [QML](#qml)
 *   [Rust](#rust)
-*   [Swift](#swift)
 *   [C](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CoffeeScript](#coffeescript)
@@ -54,6 +54,20 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Swift
+
+​
+
+*   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+
+*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
+
+*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
+
+*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
+
+*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
 
 ## Shell
 
@@ -1481,8 +1495,6 @@
 
 *   [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 
-*   [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
-
 ## JavaScript
 
 ​
@@ -2788,18 +2800,6 @@
 *   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-## Swift
-
-​
-
-*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
-
-*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
-
-*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
-
-*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
 
 ## C
 
