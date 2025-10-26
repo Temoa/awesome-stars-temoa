@@ -213,7 +213,7 @@
 
 *   [splendo/kaluga](https://github.com/splendo/kaluga) - Collection of multiplatform kotlin components, mainly using coroutines and flow
 
-*   [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator) - Use Firefox Translation Models for on-device translation on Android
+*   [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
 
 *   [Loop312/compose-keyhandler](https://github.com/Loop312/compose-keyhandler) - A key handler library for compose multiplatform/KMP
 
