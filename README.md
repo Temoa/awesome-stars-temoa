@@ -2613,7 +2613,7 @@
 
 *   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 
@@ -2665,7 +2665,7 @@
 
 ​
 
-*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your dynamic lyrics display tool built with WinUI 3 and Win2D - works with local playback and other music players | 使用 WinUI 3 和 Win2D 打造的动态歌词显示工具 - 支持本地播放及其他音乐播放器
+*   [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) - Your dynamic lyrics display tool built with WinUI 3 and Win2D - works with in-app playback and other music players | 使用 WinUI 3 和 Win2D 打造的动态歌词显示工具 - 支持软件内播放及其他音乐播放器
 
 *   [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
 
