@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
@@ -40,7 +41,6 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [HLSL](#hlsl)
 *   [Dockerfile](#dockerfile)
-*   [Lua](#lua)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [AutoIt](#autoit)
 *   [Blade](#blade)
@@ -54,6 +54,16 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Lua
+
+​
+
+*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 
 ## miscellaneous
 
@@ -204,8 +214,6 @@
 *   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 
 *   [AllenVork/Technology](https://github.com/AllenVork/Technology) - This repository is to record the technologies that I learned
-
-*   [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 
 ## Kotlin
 
@@ -1033,7 +1041,7 @@
 
 *   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86\_64 servers, websocket server/client, support 12 programming languages
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
 
 *   [win32ss/supermium](https://github.com/win32ss/supermium) - Chromium fork for Windows XP/2003 and up
 
@@ -2904,14 +2912,6 @@
 *   [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-## Lua
-
-​
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 
 ## Adblock Filter List
 
