@@ -12,9 +12,9 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
-*   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [Shell](#shell)
 *   [PHP](#php)
@@ -55,169 +55,11 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
-## Lua
-
-​
-
-*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
-
-## miscellaneous
-
-​
-
-*   [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
-
-*   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
-
-*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2025），欢迎投稿。Ad🔗🈲🙅❌
-
-*   [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - Flutter Rules for Windsurf, Cursor, and Other AI-Powered IDEs
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
-*   [steam3d/MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows) - Add little magic to your Airpods
-
-*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-
-*   [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
-
-*   [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
-
-*   [durablenapkin/scamblocklist](https://github.com/durablenapkin/scamblocklist) - A blocklist to protect users against untrustworthy sites.
-
-*   [TheSetox/kmp-sample-diagrams](https://github.com/TheSetox/kmp-sample-diagrams) - Sample diagram when using Kotlin Multiplatform.
-
-*   [AndroidSDKSources/android-sdk-sources-list](https://github.com/AndroidSDKSources/android-sdk-sources-list) - Android SDK sources list.
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [JiangJuHong/FlutterVideoPlayerLibrary-Desc](https://github.com/JiangJuHong/FlutterVideoPlayerLibrary-Desc) - Flutter视频播放库，基于VideoPlayer，支持：倍速播放、清晰度切换、手势控制、全屏模式。
-
-*   [elliana-wt/Pixel-Launcher-Icons](https://github.com/elliana-wt/Pixel-Launcher-Icons) - Pixel Launcher icons completion plan. / Pixel 启动器图标补全计划。
-
-*   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-
-*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
-
-*   [Moderpach/Extinguish\_package](https://github.com/Moderpach/Extinguish_package) - Extinguish Release
-
-*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
-
-*   [moegi-design/jetbrains-theme](https://github.com/moegi-design/jetbrains-theme) - An elegant theme for JetBrains IDEs.
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-
-*   [2BAB/KOGE](https://github.com/2BAB/KOGE) - Notebook for Kotlin-oriented Gradle Essential.
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
-
-*   [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
-
-*   [hadiyarajesh/awesome-compose](https://github.com/hadiyarajesh/awesome-compose) - Curated collection of repositories containing awesome UI using Jetpack Compose
-
-*   [JnuSimba/AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - some learning notes about Android Security
-
-*   [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-
-*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-
-*   [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) - :fire: A awesome  android expert interview questions and answers（continuous updating ...）
-
-*   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
-
-*   [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-
-*   [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) -
-
-*   [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
-
-*   [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
-
-*   [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
-
-*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
-
-*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
-
-*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-
-*   [MicrosoftDocs/cross-device](https://github.com/MicrosoftDocs/cross-device) -
-
-*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [android-in-china/Compatibility](https://github.com/android-in-china/Compatibility) - 用于反馈和跟踪国内 Android 设备/ROM 兼容性问题的公益项目
-
-*   [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack\_o\_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
-
-*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-
-*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [luckybilly/AndroidComponentizeLibs](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源android组件化开发方案
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [karntrehan/Android-IO18](https://github.com/karntrehan/Android-IO18) - A summary of all the important Android related launches, talks, discussions at the Google I/O 2018
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
-
-*   [allenwong/MakeIconsWithSketch](https://github.com/allenwong/MakeIconsWithSketch) - Simple tutorials about how to make icons with Sketch.
-
-*   [Mike-bel/awesome-android](https://github.com/Mike-bel/awesome-android) - A better way to collect the awesome repositories on GitHub for android developers.
-
-*   [ryanhoo/make-icons](https://github.com/ryanhoo/make-icons) - A demonstration for practicing Sketch skills by following the tutorial #makeicons step by step.
-
-*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
-
-*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
-
-*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
-
-*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-
-*   [AllenVork/Technology](https://github.com/AllenVork/Technology) - This repository is to record the technologies that I learned
-
 ## Kotlin
 
 ​
+
+*   [icerockdev/moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting for mobile (android & ios) Kotlin Multiplatform development
 
 *   [splendo/kaluga](https://github.com/splendo/kaluga) - Collection of multiplatform kotlin components, mainly using coroutines and flow
 
@@ -904,6 +746,166 @@
 *   [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
 
 *   [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
+
+## Lua
+
+​
+
+*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
+
+## miscellaneous
+
+​
+
+*   [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Minimalist color scheme for Sublime Text 3
+
+*   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
+
+*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2025），欢迎投稿。Ad🔗🈲🙅❌
+
+*   [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) - Flutter Rules for Windsurf, Cursor, and Other AI-Powered IDEs
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+
+*   [steam3d/MagicPods-Windows](https://github.com/steam3d/MagicPods-Windows) - Add little magic to your Airpods
+
+*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+*   [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
+
+*   [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
+
+*   [durablenapkin/scamblocklist](https://github.com/durablenapkin/scamblocklist) - A blocklist to protect users against untrustworthy sites.
+
+*   [TheSetox/kmp-sample-diagrams](https://github.com/TheSetox/kmp-sample-diagrams) - Sample diagram when using Kotlin Multiplatform.
+
+*   [AndroidSDKSources/android-sdk-sources-list](https://github.com/AndroidSDKSources/android-sdk-sources-list) - Android SDK sources list.
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [JiangJuHong/FlutterVideoPlayerLibrary-Desc](https://github.com/JiangJuHong/FlutterVideoPlayerLibrary-Desc) - Flutter视频播放库，基于VideoPlayer，支持：倍速播放、清晰度切换、手势控制、全屏模式。
+
+*   [elliana-wt/Pixel-Launcher-Icons](https://github.com/elliana-wt/Pixel-Launcher-Icons) - Pixel Launcher icons completion plan. / Pixel 启动器图标补全计划。
+
+*   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+
+*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+
+*   [Moderpach/Extinguish\_package](https://github.com/Moderpach/Extinguish_package) - Extinguish Release
+
+*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
+
+*   [moegi-design/jetbrains-theme](https://github.com/moegi-design/jetbrains-theme) - An elegant theme for JetBrains IDEs.
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+
+*   [2BAB/KOGE](https://github.com/2BAB/KOGE) - Notebook for Kotlin-oriented Gradle Essential.
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
+
+*   [android/ndk](https://github.com/android/ndk) - The Android Native Development Kit
+
+*   [hadiyarajesh/awesome-compose](https://github.com/hadiyarajesh/awesome-compose) - Curated collection of repositories containing awesome UI using Jetpack Compose
+
+*   [JnuSimba/AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - some learning notes about Android Security
+
+*   [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+
+*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+
+*   [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) - :fire: A awesome  android expert interview questions and answers（continuous updating ...）
+
+*   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
+
+*   [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
+*   [tutugreen/Huorong-Rules](https://github.com/tutugreen/Huorong-Rules) -
+
+*   [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
+
+*   [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
+
+*   [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
+
+*   [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
+
+*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
+
+*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
+
+*   [MicrosoftDocs/cross-device](https://github.com/MicrosoftDocs/cross-device) -
+
+*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [android-in-china/Compatibility](https://github.com/android-in-china/Compatibility) - 用于反馈和跟踪国内 Android 设备/ROM 兼容性问题的公益项目
+
+*   [cdoco/common-regex](https://github.com/cdoco/common-regex) - :jack\_o\_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
+
+*   [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
+
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+
+*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [luckybilly/AndroidComponentizeLibs](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源android组件化开发方案
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [karntrehan/Android-IO18](https://github.com/karntrehan/Android-IO18) - A summary of all the important Android related launches, talks, discussions at the Google I/O 2018
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
+
+*   [allenwong/MakeIconsWithSketch](https://github.com/allenwong/MakeIconsWithSketch) - Simple tutorials about how to make icons with Sketch.
+
+*   [Mike-bel/awesome-android](https://github.com/Mike-bel/awesome-android) - A better way to collect the awesome repositories on GitHub for android developers.
+
+*   [ryanhoo/make-icons](https://github.com/ryanhoo/make-icons) - A demonstration for practicing Sketch skills by following the tutorial #makeicons step by step.
+
+*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
+
+*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
+
+*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [AllenVork/Technology](https://github.com/AllenVork/Technology) - This repository is to record the technologies that I learned
 
 ## Swift
 
@@ -2574,8 +2576,6 @@
 *   [Even201314/NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android) -
 
 *   [gaolonglong/GankGirl](https://github.com/gaolonglong/GankGirl) - RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
-
-*   [Meetic/Dragueur](https://github.com/Meetic/Dragueur) - Dragueur can move any view with one finger ;)
 
 ## CSS
 
