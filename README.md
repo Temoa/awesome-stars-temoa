@@ -1150,8 +1150,6 @@
 
 *   [cellwebb/gac](https://github.com/cellwebb/gac) - Intelligent LLM-powered git commit message generator that understands your code!
 
-*   [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 *   [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
@@ -1509,6 +1507,8 @@
 ​
 
 *   [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
+
+*   [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 
 *   [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) - 📝 File hashing and checking shell extension
 
