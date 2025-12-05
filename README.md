@@ -583,7 +583,7 @@
 
 *   [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -1545,7 +1545,7 @@
 
 *   [didi/dimina](https://github.com/didi/dimina) - 星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram
 
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 
 *   [Jamesun921/cam-run](https://github.com/Jamesun921/cam-run) - A running game based on webcam, controlling the game character in an infinite scene by detecting user movements.With AI Companion providing real-time movement guidance and personalized feedback. Main technologies: Three.js, MediaPipe Pose一个基于网络摄像头的跑步游戏，通过检测用户的动作来控制游戏角色在无限场景中奔跑。AI陪跑功能，提供实时动作指导和个性化反馈。主要技术：Three.js，MediaPipe Pose
 
@@ -1921,7 +1921,7 @@
 
 *   [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) - Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
 
-*   [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+*   [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for \*.smali code files.
 
 *   [alcros33/MHW-Costume-Armor](https://github.com/alcros33/MHW-Costume-Armor) - GUI Program to customize layered Armor in the game Monster Hunter World.
 
