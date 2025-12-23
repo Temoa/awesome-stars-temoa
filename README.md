@@ -1117,8 +1117,6 @@
 
 *   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
-*   [gregcockroft/AndroidMath](https://github.com/gregcockroft/AndroidMath) - Render beautiful LaTeX Math Equations in an Android View
-
 *   [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) - 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
 
 *   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
@@ -1394,6 +1392,8 @@
 *   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 
 *   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
+
+*   [gregcockroft/AndroidMath](https://github.com/gregcockroft/AndroidMath) - Render beautiful LaTeX Math Equations in an Android View
 
 *   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
