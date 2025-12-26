@@ -457,6 +457,8 @@
 
 *   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配
 
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
+
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 *   [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -698,8 +700,6 @@
 *   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
 
 *   [qczone/switch2idea](https://github.com/qczone/switch2idea) - A Cursor extension enabling smooth switching between Cursor and IDEA, with automatic cursor position sync and convenient shortcuts. Supports multiple JetBrains IDEs and enhances development workflow efficiency.
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
 
 *   [idootop/MagicMirror](https://github.com/idootop/MagicMirror) - 🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你
 
