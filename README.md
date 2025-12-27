@@ -61,6 +61,8 @@
 
 ​
 
+*   [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+
 *   [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
@@ -230,6 +232,8 @@
 *   [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
 
 *   [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
+
+*   [cctanfujun/kotlin-web-site-cn](https://github.com/cctanfujun/kotlin-web-site-cn) - 中文Kotlin编程语言网站，制作中，欢迎加入(Chinese Kotlin website)，本库已经废弃，同步翻译站请移步 https://github.com/hltj/kotlin-web-site-cn
 
 ## Python
 
@@ -443,6 +447,10 @@
 
 *   [m13253/BiliDan](https://github.com/m13253/BiliDan) - Play videos on Bilibili.com with MPV and Danmaku2ASS
 
+*   [protream/iquery](https://github.com/protream/iquery) - Various information query via command line.
+
+*   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
+
 ## Go
 
 ​
@@ -510,6 +518,8 @@
 *   [bililive-go/bililive-go](https://github.com/bililive-go/bililive-go) - 一个直播录制工具
 
 *   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+
+*   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
 
 ## Vue
 
@@ -625,8 +635,6 @@
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-
 *   [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -670,6 +678,8 @@
 *   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
@@ -846,6 +856,8 @@
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
 *   [Semibold/Weibo-Picture-Store](https://github.com/Semibold/Weibo-Picture-Store) - 🖼 新浪微博图床 Chrome/Firefox 扩展，支持同步到微相册
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## Kotlin
 
@@ -1541,6 +1553,20 @@
 
 *   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
 
+*   [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
+
+*   [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
+
+*   [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+
+*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+
+*   [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
+
+*   [SalomonBrys/Kotson](https://github.com/SalomonBrys/Kotson) - Kotlin bindings for JSON manipulation via Gson
+
+*   [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development
+
 ## C
 
 ​
@@ -1594,6 +1620,8 @@
 *   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
 
 *   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+
+*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## Dart
 
@@ -1891,6 +1919,34 @@
 
 *   [ryanhoo/make-icons](https://github.com/ryanhoo/make-icons) - A demonstration for practicing Sketch skills by following the tutorial #makeicons step by step.
 
+*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
+
+*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
+
+*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [AllenVork/Technology](https://github.com/AllenVork/Technology) - This repository is to record the technologies that I learned
+
+*   [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+
+*   [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
+
+*   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
+
+*   [LittleFriendsGroup/BottomNavigation](https://github.com/LittleFriendsGroup/BottomNavigation) - 底部导航栏（Bottom navigation）设计规范指南
+
+*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
+
+*   [snowdream/115-Java-Interview-Questions-and-Answers](https://github.com/snowdream/115-Java-Interview-Questions-and-Answers) - 115 Java Interview Questions and Answers – The ULTIMATE List
+
+*   [owenlongbo/android-developer-blog-cn](https://github.com/owenlongbo/android-developer-blog-cn) - 定期翻译Android官方博客
+
+*   [freedombird9/code-easy-to-delete](https://github.com/freedombird9/code-easy-to-delete) -
+
 ## Astro
 
 ​
@@ -1920,6 +1976,8 @@
 *   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 
 *   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
+
+*   [CatchChat/Yep](https://github.com/CatchChat/Yep) - Meet Genius
 
 ## Shell
 
@@ -2023,6 +2081,8 @@
 
 *   [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
 ## C++
 
 ​
@@ -2120,6 +2180,8 @@
 *   [mozilla/firefox-translations-models](https://github.com/mozilla/firefox-translations-models) - CPU-optimized Neural Machine Translation models for Firefox Translations
 
 *   [jitingcn/TS3-Translation\_zh-CN](https://github.com/jitingcn/TS3-Translation_zh-CN) - TeamSpeak 3 客户端 简体中文 翻译源文件
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## PowerShell
 
@@ -2827,6 +2889,134 @@
 
 *   [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 
+*   [lipangit/JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) - MediaPlayer exoplayer ijkplayer ffmpeg
+
+*   [WangDaYeeeeee/Mysplash](https://github.com/WangDaYeeeeee/Mysplash) - An Unsplash Client
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+
+*   [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
+
+*   [orhanobut/hawk](https://github.com/orhanobut/hawk) - ✔️ Secure, simple key-value storage for Android
+
+*   [bilibili/MagicaSakura](https://github.com/bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.
+
+*   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
+
+*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
+
+*   [xybCoder/gank](https://github.com/xybCoder/gank) -  gank.io unofficial client - RxJava2、Retrofit2 & MVP技术干货
+
+*   [aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - A memory efficient Android image transformation library providing cropping above Face Detection (Face Centering) for Picasso.
+
+*   [oxoooo/pull-back-layout](https://github.com/oxoooo/pull-back-layout) - Pull down to finish an Activity.
+
+*   [zzhoujay/RichText](https://github.com/zzhoujay/RichText) - Android平台下的富文本解析器，支持Html和Markdown
+
+*   [PleaseCallMeCoder/PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls) - A personal App based on gank.io.
+
+*   [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - chrome browser of android version from chromium open project
+
+*   [Jude95/FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) - 适应Statusbar与NavigationBar的各种Layout
+
+*   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+
+*   [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) - Android library providing simple way to control divider items (ItemDecoration) of RecyclerView
+
+*   [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
+
+*   [tomergoldst/tooltips](https://github.com/tomergoldst/tooltips) - Simple to use library for android, enabling to add a tooltip near any view with ease
+
+*   [Devlight/NavigationTabBar](https://github.com/Devlight/NavigationTabBar) - Navigation tab bar with colorful interactions.
+
+*   [dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) - A circular android ProgressBar library which extends View,  and the usage same as ProgressBar,  It has solid,line and solid\_line three styles. Besides, progress value can be freely customized.
+
+*   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
+
+*   [Even201314/NumberMorphView4Android](https://github.com/Even201314/NumberMorphView4Android) -
+
+*   [gaolonglong/GankGirl](https://github.com/gaolonglong/GankGirl) - RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
+
+*   [Meetic/Dragueur](https://github.com/Meetic/Dragueur) - Dragueur can move any view with one finger ;)
+
+*   [Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - Some loading GIF .
+
+*   [danielzeller/Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - A library that gives depth to Views.
+
+*   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
+
+*   [dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too.
+
+*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+
+*   [Devlight/ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) - Present your progress bars in arc mode with information and total control.
+
+*   [DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) - AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。接下来会在简书上为每个Module写对应的文章，并持续更新。
+
+*   [Yalantis/Horizon](https://github.com/Yalantis/Horizon) - Horizon - Simple visual equaliser for Android
+
+*   [rengwuxian/RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - RxJava 2 和 Retrofit 结合使用的几个最常见使用方式举例
+
+*   [kaedea/android-mvp-pattern](https://github.com/kaedea/android-mvp-pattern) - An android simple but clear sample project for MVP pattern, including mvp usage with eventbus. @Deprecated, try google official solution: https://developer.android.com/topic/libraries/architecture/
+
+*   [kaleai/LogDelegate](https://github.com/kaleai/LogDelegate) - Simple, pretty and powerful logger for android
+
+*   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
+
+*   [mmin18/FlexLayout](https://github.com/mmin18/FlexLayout) - A powerful Android layout view that use java expression in layout params to describe relative positions.
+
+*   [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+*   [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
+
+*   [Yalantis/uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
+
+*   [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
+
+*   [castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) - A small Android library allowing you to have a smooth and customizable horizontal or circular indeterminate ProgressBar
+
+*   [TellH/Android\_PullToRefreshLibrary\_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究
+
+*   [liangpengfei/SearchView](https://github.com/liangpengfei/SearchView) - This a view that waiting for network connection to resolve with cool animation .
+
+*   [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+
+*   [dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - Android Circular Progress Button
+
+*   [D-clock/AndroidSystemUiTraining](https://github.com/D-clock/AndroidSystemUiTraining) - Android System UI Training Code
+
+*   [Shinelw/ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - This is beautiful color arc progress bar.
+
+*   [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
+
+*   [zaaach/CityPicker](https://github.com/zaaach/CityPicker) - :fire::fire::fire:城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
+
+*   [Panl/Gank.io](https://github.com/Panl/Gank.io) - gank.io client RxJava、Retrofit & MVP
+
+*   [koush/AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.
+
+*   [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material Design ProgressBar with consistent appearance
+
+*   [Freelander/Android\_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
+
+*   [kaleai/ShareLoginLib](https://github.com/kaleai/ShareLoginLib) - 第三方登录、分享封装库，几行代码即可完成集成，无需配置混淆。
+
+*   [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - a simple cache for android and java
+
+*   [xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather) - :partly\_sunny: \[@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App
+
+*   [maoruibin/GankDagger2](https://github.com/maoruibin/GankDagger2) - When Meizi meet MVP + Dagger2 + Retrofit2
+
+*   [Diffey/RxZhihuPager](https://github.com/Diffey/RxZhihuPager) - 知乎日报客户端，Rxjava + Retrofit实践
+
+*   [sungerk/CircularMenu](https://github.com/sungerk/CircularMenu) -
+
+*   [liaohuqiu/abot-lucky-money](https://github.com/liaohuqiu/abot-lucky-money) -
+
+*   [kaleai/DBinding](https://github.com/kaleai/DBinding) - 巧妙、灵活的databinding改造库
+
 ## Perl
 
 ​
@@ -2981,6 +3171,10 @@
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
+*   [coding/Coding-Android](https://github.com/coding/Coding-Android) - Coding Android 客户端源代码
+
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+
 ## GDScript
 
 ​
@@ -3005,6 +3199,8 @@
 
 *   [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) - A gradle plugin that merge dependencies into the final aar file works with AGP 3.+
 
+*   [chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin) - 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。
+
 ## Markdown
 
 ​
@@ -3022,6 +3218,10 @@
 ​
 
 *   [ming1016/RSSReader](https://github.com/ming1016/RSSReader) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
+
+*   [gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime.
+
+*   [renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer) - Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)
 
 ## Lex
 
