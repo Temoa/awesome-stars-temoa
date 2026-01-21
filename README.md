@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Rust](#rust)
@@ -28,7 +29,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Astro](#astro)
 *   [Lua](#lua)
-*   [Swift](#swift)
 *   [Shell](#shell)
 *   [PHP](#php)
 *   [Ruby](#ruby)
@@ -56,6 +56,22 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## Swift
+
+​
+
+*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+*   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+
+*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
+
+*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
+
+*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
+
+*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
 
 ## TypeScript
 
@@ -2111,20 +2127,6 @@
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 
-## Swift
-
-​
-
-*   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
-
-*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
-
-*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
-
-*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
-
 ## Shell
 
 ​
@@ -3048,8 +3050,6 @@
 *   [kaleai/ShareLoginLib](https://github.com/kaleai/ShareLoginLib) - 第三方登录、分享封装库，几行代码即可完成集成，无需配置混淆。
 
 *   [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - a simple cache for android and java
-
-*   [xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather) - :partly\_sunny: \[@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App
 
 ## Perl
 
