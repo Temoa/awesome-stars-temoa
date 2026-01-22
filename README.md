@@ -2847,7 +2847,7 @@
 
 *   [sujithkanna/SmileyRating](https://github.com/sujithkanna/SmileyRating) - SmileyRating is a simple rating bar for android. It displays animated smileys as rating icon.
 
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+*   [karimknaebel/Phonograph](https://github.com/karimknaebel/Phonograph) - A material designed music player for Android
 
 *   [zhanghai/MaterialRatingBar](https://github.com/zhanghai/MaterialRatingBar) - Material Design RatingBar with better appearance
 
