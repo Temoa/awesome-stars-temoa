@@ -12,8 +12,8 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Swift](#swift)
 *   [C++](#c)
 *   [Rust](#rust)
 *   [PowerShell](#powershell)
@@ -58,25 +58,11 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
-## Swift
-
-​
-
-*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
-
-*   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
-
-*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
-
-*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
-
-*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
-
 ## TypeScript
 
 ​
+
+*   [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) -
 
 *   [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
 
@@ -272,6 +258,22 @@
 
 *   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
+## Swift
+
+​
+
+*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+*   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+
+*   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
+
+*   [softartdev/Kronos-Multiplatform](https://github.com/softartdev/Kronos-Multiplatform) - Kotlin Multiplatform SNTP library
+
+*   [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
+
+*   [yeziahehe/Gank](https://github.com/yeziahehe/Gank) - Gank.io iOS App.
+
 ## C++
 
 ​
@@ -380,7 +382,7 @@
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
@@ -467,8 +469,6 @@
 ​
 
 *   [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
-
-*   [medz/oref](https://github.com/medz/oref) - A high-performance Flutter state management tool, Oref is one of the fastest Flutter signals and state management solutions.
 
 *   [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 
@@ -1355,6 +1355,8 @@
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 *   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[正在开发 Sidebar 高级功能，敬请期待]
+
+*   [medz/oref](https://github.com/medz/oref) - A high-performance Flutter state management tool, Oref is one of the fastest Flutter signals and state management solutions.
 
 *   [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
 
@@ -3048,15 +3050,13 @@
 
 *   [kaleai/ShareLoginLib](https://github.com/kaleai/ShareLoginLib) - 第三方登录、分享封装库，几行代码即可完成集成，无需配置混淆。
 
-*   [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - a simple cache for android and java
-
 ## Perl
 
 ​
 
 *   [shanleiguang/vYinn](https://github.com/shanleiguang/vYinn) - 中文古籍印章製作工具 Chinese Ancient Seals Design Tool
 
-*   [o0HalfLife0o/list](https://github.com/o0HalfLife0o/list) -
+*   [j4Uq/list](https://github.com/j4Uq/list) -
 
 ## Vue
 
