@@ -470,6 +470,8 @@
 
 *   [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
 
+*   [medz/oref](https://github.com/medz/oref) - A high-performance Flutter state management tool, Oref is one of the fastest Flutter signals and state management solutions.
+
 *   [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 
 *   [isar-community/isar-community](https://github.com/isar-community/isar-community) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
@@ -1355,8 +1357,6 @@
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 *   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly\[正在开发 Sidebar 高级功能，敬请期待]
-
-*   [medz/oref](https://github.com/medz/oref) - A high-performance Flutter state management tool, Oref is one of the fastest Flutter signals and state management solutions.
 
 *   [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
 
