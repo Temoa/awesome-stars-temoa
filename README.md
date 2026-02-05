@@ -62,6 +62,8 @@
 
 ​
 
+*   [valentinilk/compose-shimmer](https://github.com/valentinilk/compose-shimmer) - A simple shimmer library for Jetpack Compose.
+
 *   [SmartToolFactory/Compose-Image](https://github.com/SmartToolFactory/Compose-Image) - 🚀🏞💪 Collection of Images, Modifiers, utility functions for Jetpack Compose to expand and enrich displaying, manipulating, scaling, resizing, zooming, and getting cropped ImageBitmap based on selection area
 
 *   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
@@ -3059,8 +3061,6 @@
 *   [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 
 *   [dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) - Android Circular Progress Button
-
-*   [D-clock/AndroidSystemUiTraining](https://github.com/D-clock/AndroidSystemUiTraining) - Android System UI Training Code
 
 ## Perl
 
