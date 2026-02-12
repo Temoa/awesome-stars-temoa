@@ -566,8 +566,6 @@
 
 *   [Mortd3kay/liquid-glass-android](https://github.com/Mortd3kay/liquid-glass-android) - ✨ Glass morphism library for Jetpack Compose with AGSL shaders (Android 13+). Supports blur, distortion, shadows, and more.
 
-*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
-
 *   [piashcse/kmp-movie](https://github.com/piashcse/kmp-movie) - KMP Movie 📱 app for Android, iOS, Desktop and Web built with Compose Multiplatform, Coroutine, Flow and ViewModel based on MVVM architecture recommended by Google.
 
 *   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
@@ -1328,7 +1326,7 @@
 
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
-*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly \[拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
+*   [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  \[网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
 
 *   [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
 
@@ -2281,6 +2279,8 @@
 *   [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 
 *   [getActivity/DeviceCompat](https://github.com/getActivity/DeviceCompat) - 解决 Android 适配的最后一公里
+
+*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
 
 *   [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music) - 🎧☁️ Your Private Music Service
 
