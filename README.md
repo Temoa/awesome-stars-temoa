@@ -304,7 +304,7 @@
 
 *   [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
 
-*   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - Minimal Bitwarden-compatible server on Cloudflare Workers for personal use
+*   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - 运行在 Cloudflare Workers 上的 Bitwarden 第三方服务端——A Bitwarden third-party server running on Cloudflare Workers
 
 *   [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) -
 
@@ -325,6 +325,8 @@
 *   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
@@ -1696,8 +1698,6 @@
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-
 *   [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -2280,7 +2280,7 @@
 
 *   [getActivity/DeviceCompat](https://github.com/getActivity/DeviceCompat) - 解决 Android 适配的最后一公里
 
-*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+*   [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 
 *   [chenqimiao/qm-music](https://github.com/chenqimiao/qm-music) - 🎧☁️ Your Private Music Service
 
