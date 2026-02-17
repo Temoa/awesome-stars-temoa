@@ -306,7 +306,7 @@
 
 *   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - 运行在 Cloudflare Workers 上的 Bitwarden 第三方服务端——A Bitwarden third-party server running on Cloudflare Workers
 
-*   [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) -
+*   [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more
 
 *   [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
 
