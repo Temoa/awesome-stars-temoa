@@ -1440,7 +1440,7 @@
 
 *   [wacky6/hikaru](https://github.com/wacky6/hikaru) - Bilibili Live 录屏姬  🌟 Never miss a single Bilibili Live!
 
-*   [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+*   [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 
 *   [feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
 
@@ -2128,7 +2128,7 @@
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 860 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 895 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
