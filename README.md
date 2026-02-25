@@ -526,7 +526,7 @@
 
 *   [xororz/local-dream](https://github.com/xororz/local-dream) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
 
-*   [joelkanyi/kompose-country-code-picker](https://github.com/joelkanyi/kompose-country-code-picker) - Kompose Country Code Picker is a Compose Multiplatform library based on Material 3 (M3) that provides a country code picker for Android, iOS, JVM, JS, and WasmJS
+*   [joelkanyi/kompose-country-code-picker](https://github.com/joelkanyi/kompose-country-code-picker) - A Compose Multiplatform library based on Material 3 (M3) that provides a country code picker for Android, iOS, JVM, JS, and WasmJS
 
 *   [icerockdev/moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting for mobile (android & ios) Kotlin Multiplatform development
 
