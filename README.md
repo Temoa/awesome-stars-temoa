@@ -12,14 +12,15 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
-*   [C#](#c)
-*   [C++](#c-1)
+*   [C#](#c-1)
+*   [C++](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
 *   [PowerShell](#powershell)
@@ -27,7 +28,6 @@
 *   [Dart](#dart)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
-*   [C](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Astro](#astro)
 *   [Lua](#lua)
@@ -57,6 +57,66 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## C
+
+​
+
+*   [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+
+*   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘
+
+*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
+
+*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
+
+*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
+
+*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+
+*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
+
+*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
+
+*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
+
+*   [gregcockroft/AndroidMath](https://github.com/gregcockroft/AndroidMath) - Render beautiful LaTeX Math Equations in an Android View
+
+*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
+
+*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
+
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
+
+*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+
+*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
+
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
+
+*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
+
+*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+
+*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
 
 ## Python
 
@@ -325,8 +385,6 @@
 *   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
@@ -1218,8 +1276,6 @@
 
 *   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
-*   [JakeWharton/kotterknife](https://github.com/JakeWharton/kotterknife) - View "injection" library for Android.
-
 ## Shell
 
 ​
@@ -1698,6 +1754,8 @@
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
 *   [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -2017,62 +2075,6 @@
 *   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 
 *   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
-
-## C
-
-​
-
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘
-
-*   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-
-*   [TestPlanB/mooner](https://github.com/TestPlanB/mooner) - a library for android app handle crash
-
-*   [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter\_ffmpeg and react-native-ffmpeg.
-
-*   [stefansundin/altdrag](https://github.com/stefansundin/altdrag) - :file\_folder: Easily drag windows when pressing the alt key. (Windows)
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid) - FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议
-
-*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
-
-*   [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
-
-*   [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
-
-*   [gregcockroft/AndroidMath](https://github.com/gregcockroft/AndroidMath) - Render beautiful LaTeX Math Equations in an Android View
-
-*   [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [AnJoiner/FFmpegCommand](https://github.com/AnJoiner/FFmpegCommand) - FFmpegCommand适用于Android的FFmpeg命令库，实现了对音视频相关的处理，能够快速的处理音视频，大概功能包括：音视频剪切，音视频转码，音视频解码原始数据，音视频编码，视频转图片或gif，视频添加水印，多画面拼接，音频混音，视频亮度和对比度，音频淡入和淡出效果等
-
-*   [ChenLittlePing/LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
-
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
-
-*   [bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
-
-*   [Stateford/Display-Lock](https://github.com/Stateford/Display-Lock) - Locks cursor to specified window and/or converts windows to borderless fullscreen, and prevents the cursor from spilling into another monitor
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-
-*   [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) - 利用FFmpeg视频录制微信小视频与其压缩处理
-
-*   [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
-
-*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
 
 ## miscellaneous
 
@@ -3059,8 +3061,6 @@
 *   [TellH/Android\_PullToRefreshLibrary\_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究
 
 *   [ponyfe/SearchView](https://github.com/ponyfe/SearchView) - This a view that waiting for network connection to resolve with cool animation .
-
-*   [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 
 ## Perl
 
