@@ -252,7 +252,7 @@
 
 *   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
-*   [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。
+*   [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
 
 *   [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 
@@ -544,7 +544,7 @@
 
 *   [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成时间轴导航、文件夹管理、提示词库及聊天导出等众多功能。
 
-*   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - A Bitwarden third-party server running on Cloudflare Workers——运行在 Cloudflare Workers 上的 Bitwarden 第三方服务端
+*   [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - A third-party Bitwarden server running on Cloudflare Workers
 
 *   [oil-oil/wolfcha](https://github.com/oil-oil/wolfcha) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more
 
@@ -565,6 +565,8 @@
 *   [SkalskiP/make-sense](https://github.com/SkalskiP/make-sense) - Free to use online tool for labelling photos. https://makesense.ai
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
@@ -1933,8 +1935,6 @@
 *   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 *   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [Cactusinhand/filter-repo-rs](https://github.com/Cactusinhand/filter-repo-rs) - 🦀 A high-performance Rust implementation of git-filter-repo for efficiently rewriting Git repository history. Remove sensitive data, shrink repos, and restructure projects with streaming pipeline architecture.
 
