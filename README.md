@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [Python](#python)
@@ -48,7 +49,6 @@
 *   [AutoIt](#autoit)
 *   [Blade](#blade)
 *   [GDScript](#gdscript)
-*   [SCSS](#scss)
 *   [EJS](#ejs)
 *   [Groovy](#groovy)
 *   [Go Template](#go-template)
@@ -57,6 +57,14 @@
 *   [Objective-C](#objective-c)
 *   [Lex](#lex)
 *   [Thanks](#thanks)
+
+## SCSS
+
+​
+
+*   [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - A sleek and modern Obsidian theme for desktop and mobile.
+
+*   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 ## Vue
 
@@ -82,7 +90,7 @@
 
 ​
 
-*   [sjjian/openhare](https://github.com/sjjian/openhare) - This is a desktop SQL query tool.
+*   [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 
 *   [duobaseio/forui](https://github.com/duobaseio/forui) - Duobase's Flutter UI library
 
@@ -159,8 +167,6 @@
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 
 *   [fluttercandies/flutter\_asset\_generator](https://github.com/fluttercandies/flutter_asset_generator) - Generate an R file for mapping all assets. Supports preview of image.
-
-*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
 
 *   [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.
 
@@ -1950,6 +1956,8 @@
 
 *   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 
+*   [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
+
 *   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 
 *   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -2295,8 +2303,6 @@
 *   [mozilla/firefox-translations-models](https://github.com/mozilla/firefox-translations-models) - CPU-optimized Neural Machine Translation models for Firefox Translations
 
 *   [jitingcn/TS3-Translation\_zh-CN](https://github.com/jitingcn/TS3-Translation_zh-CN) - TeamSpeak 3 客户端 简体中文 翻译源文件
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## Java
 
@@ -3179,12 +3185,6 @@
 ​
 
 *   [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
-
-## SCSS
-
-​
-
-*   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 
 ## EJS
 
