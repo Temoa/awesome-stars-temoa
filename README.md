@@ -342,7 +342,7 @@
 
 *   [vestrel00/contacts-android](https://github.com/vestrel00/contacts-android) - Android Contacts API Library written in Kotlin with Java interoperability. No more ContentProviders and cursors. Say goodbye to ContactsContract. Build your own contacts app!
 
-*   [bubelov/news](https://github.com/bubelov/news) - Feed Reader and Podcast Player for Android
+*   [bubelov/vesti](https://github.com/bubelov/vesti) - Feed reader and podcast player for Android
 
 *   [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 
