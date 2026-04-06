@@ -1998,7 +1998,7 @@
 
 *   [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 
-*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - A tiny (995KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%)💘Don't be shy, join here: https://discord.com/invite/W3tW2gtp6g
+*   [vladelaina/Catime](https://github.com/vladelaina/Catime) - 💌A tiny (995KB) but mighty timer in pure C — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g
 
 *   [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 
