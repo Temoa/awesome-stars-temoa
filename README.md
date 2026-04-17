@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -19,7 +20,6 @@
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [Go](#go)
-*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Objective-C](#objective-c)
 *   [SCSS](#scss)
@@ -58,9 +58,729 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
+## Kotlin
+
+​
+
+*   [obirije/LUI](https://github.com/obirije/LUI) - Your minimalistic AI assistant on an android luncher that actually do stuffs
+
+*   [dokar3/sheets](https://github.com/dokar3/sheets) - Another feature-rich bottom sheet for Compose Multiplatform.
+
+*   [vishal2376/animations](https://github.com/vishal2376/animations) - 30 Animations Challenge using Jetpack compose
+
+*   [vishal2376/belleza](https://github.com/vishal2376/belleza) - Beautiful and customizable animation library for Jetpack Compose
+
+*   [SimonBumiller/oneui-compose](https://github.com/SimonBumiller/oneui-compose) - Enables Jetpack Compose developers the ability to incorporate Samsung's OneUI design-system into their applications, to match the visuals of prebuilt Samsung apps.
+
+*   [jvziyaoyao/scale](https://github.com/jvziyaoyao/scale) - 🖼 An image viewer for Android and Compose Multiplatform with transition animations and support for large images. 😄 专门为Android和Compose Multiplatform开发的图片浏览库，支持过渡变换和超大图片的显示。
+
+*   [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) - A Jetbrains IDE IntelliJ plugin aimed to provide coding agents the ability to leverage intelliJ's indexing of the codebase
+
+*   [valentinilk/compose-shimmer](https://github.com/valentinilk/compose-shimmer) - A simple shimmer library for Jetpack Compose.
+
+*   [SmartToolFactory/Compose-Image](https://github.com/SmartToolFactory/Compose-Image) - 🚀🏞💪 Collection of Images, Modifiers, utility functions for Jetpack Compose to expand and enrich displaying, manipulating, scaling, resizing, zooming, and getting cropped ImageBitmap based on selection area
+
+*   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
+
+*   [skydoves/FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet) - 🐬 Advanced Compose Multiplatform bottom sheet for segmented sizing, non-modal type, and allows interaction behind the bottom sheet similar to Google Maps.
+
+*   [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - note: this is a mirror of https://codeberg.org/dryerlint/dejpeg - all future releases will be published there
+
+*   [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
+
+*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+
+*   [xororz/local-dream](https://github.com/xororz/local-dream) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
+
+*   [joelkanyi/kompose-country-code-picker](https://github.com/joelkanyi/kompose-country-code-picker) - A Compose Multiplatform library based on Material 3 (M3) that provides a country code picker for Android, iOS, JVM, JS, and WasmJS
+
+*   [icerockdev/moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting for mobile (android & ios) Kotlin Multiplatform development
+
+*   [splendo/kaluga](https://github.com/splendo/kaluga) - Collection of multiplatform kotlin components, mainly using coroutines and flow
+
+*   [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
+
+*   [Loop312/compose-keyhandler](https://github.com/Loop312/compose-keyhandler) - A key handler library for compose multiplatform/KMP
+
+*   [terrakok/Compose-Multiplatform-Wizard](https://github.com/terrakok/Compose-Multiplatform-Wizard) - Compose Multiplatform Wizard
+
+*   [mrjoechen/ShowcaseApp](https://github.com/mrjoechen/ShowcaseApp) - Showcase is an Multiplatform application for displaying pictures.
+
+*   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
+
+*   [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+
+*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+
+*   [davidepianca98/KMQTT](https://github.com/davidepianca98/KMQTT) - Kotlin Multiplatform MQTT client & embeddable and standalone broker
+
+*   [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit) - An easy-to-use, high-performance dex deobfuscation library.
+
+*   [godaddy/compose-color-picker](https://github.com/godaddy/compose-color-picker) - Jetpack Compose Android Color Picker 🎨
+
+*   [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+
+*   [MadFlasheroo7/Compose-Animations](https://github.com/MadFlasheroo7/Compose-Animations) - A Repo To showcase Collection of animations in jetpack compose
+
+*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+
+*   [Steve-Mr/EmojiFace](https://github.com/Steve-Mr/EmojiFace) - Identify faces in an image and replace them with emojis.
+
+*   [jens-muenker/uCrop-n-Edit](https://github.com/jens-muenker/uCrop-n-Edit) - Image Cropping + Editing Library for Android
+
+*   [Mortd3kay/liquid-glass-android](https://github.com/Mortd3kay/liquid-glass-android) - ✨ Glass morphism library for Jetpack Compose with AGSL shaders (Android 13+). Supports blur, distortion, shadows, and more.
+
+*   [piashcse/kmp-movie](https://github.com/piashcse/kmp-movie) - KMP Movie 📱 app for Android, iOS, Desktop and Web built with Compose Multiplatform, Coroutine, Flow and ViewModel based on MVVM architecture recommended by Google.
+
+*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+
+*   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+
+*   [saket/telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
+
+*   [jordond/compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation
+
+*   [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native, WasmJs)) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
+
+*   [ismai117/KScan](https://github.com/ismai117/KScan) - Compose Multiplatform Barcode Scanning
+
+*   [Omico/OhMyJVM](https://github.com/Omico/OhMyJVM) - A JDK version manager for Windows written in Kotlin Native
+
+*   [Omico/CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor. Currently, become an implementation of Google's recommended Android app architecture.
+
+*   [pratikksahu/JetPDFVue](https://github.com/pratikksahu/JetPDFVue) - PDF reader Android library based on Jetpack Compose
+
+*   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
+
+*   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Monitor network connectivity in Kotlin Multiplatform apps
+
+*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+
+*   [chrisbanes/haze](https://github.com/chrisbanes/haze) - Background blurring for Compose Multiplatform / Jetpack Compose
+
+*   [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum) - Delve into the rich collection of masterpieces.
+
+*   [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
+
+*   [hiennguyen92/flutter\_callkit\_incoming](https://github.com/hiennguyen92/flutter_callkit_incoming) - Flutter Callkit Incoming
+
+*   [qczone/switch2cursor](https://github.com/qczone/switch2cursor) - A JetBrains IDE plugin that enables smooth switching between JetBrains IDE and Cursor, with automatic cursor position sync. Features keyboard shortcuts, context menu integration, and tools menu access. Supports all JetBrains IDEs.
+
+*   [tamimattafi/krop](https://github.com/tamimattafi/krop) - Kotlin Multiplatform library for Image Cropping with Compose Multiplatform.
+
+*   [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table) - An implementation of the Material Design data table for Compose.
+
+*   [rroohit/ImageCropView](https://github.com/rroohit/ImageCropView) - Jetpack-Compose Image Crop View library.
+
+*   [kmod-midori/CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
+
+*   [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - Build terminal UI in Kotlin using Jetpack Compose
+
+*   [mejdi14/Android-AGSL-Shader-Playground](https://github.com/mejdi14/Android-AGSL-Shader-Playground) - Android AGSL Shader effect library
+
+*   [kevincianfarini/alchemist](https://github.com/kevincianfarini/alchemist) - Type safe management and arithmetic of physical units. Inspired by kotlin.time.Duration.
+
+*   [LineageOS/android\_packages\_apps\_Twelve](https://github.com/LineageOS/android_packages_apps_Twelve) -
+
+*   [usuiat/Zoomable](https://github.com/usuiat/Zoomable) - Compose multiplatform library that enables the content to be zoomable by gestures
+
+*   [joelkanyi/sain](https://github.com/joelkanyi/sain) - \[サイン] A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
+
+*   [skydoves/colorpicker-compose](https://github.com/skydoves/colorpicker-compose) - 🎨 Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
+
+*   [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).
+
+*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
+
+*   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.
+
+*   [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ✨ An android Library to enhance UIs, supporting a wide range of common use-cases with Dialogs, Popups, and Bottom Sheets. ✨
+
+*   [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - A library that packages AndroidX Paging for Kotlin/Multiplatform.
+
+*   [Kashif-E/CameraK](https://github.com/Kashif-E/CameraK) - A camera library for Compose Multiplatform
+
+*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+
+*   [panpf/zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is an gesture zoom viewing of images library specially designed for Compose Multiplatform and Android View. Supported scale, pan, locate, rotation, and super-large image subsampling.
+
+*   [Breens-Mbaka/Jetpack-Compose-Tables](https://github.com/Breens-Mbaka/Jetpack-Compose-Tables) - 🐝 A Compose UI data table library which allows developers to seamless integrate visually appealing and customizable tables to their Android apps or IOS apps.
+
+*   [hoc081098/solivagant](https://github.com/hoc081098/solivagant) - 🔆 Compose Multiplatform Navigation library -  🌸 Pragmatic, type safety navigation for Compose Multiplatform. Based on Freeletics Khonshu Navigation. ♥️ ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...
+
+*   [litao0621/nifty-slider](https://github.com/litao0621/nifty-slider) - :star: Sliders allow users to make selections from a range of values. :star:
+
+*   [SmartToolFactory/Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations
+
+*   [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) - 🎨 Generate a dynamic Material3 color scheme from a seed color
+
+*   [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+
+*   [MoyuruAizawa/Cropify](https://github.com/MoyuruAizawa/Cropify) - Image Cropper for Android Jetpack Compose.
+
+*   [xihan123/SignHook](https://github.com/xihan123/SignHook) - 这是一个简单的签名校验通杀模块
+
+*   [hoc081098/kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM.  Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications. Components are lifecycle-aware on Android. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
+
+*   [darkokoa/compose-datetime-wheel-picker](https://github.com/darkokoa/compose-datetime-wheel-picker) - Wheel Date & Time Picker in Compose Multiplatform
+
+*   [jordond/drag-select-compose](https://github.com/jordond/drag-select-compose) - ⚡ Google Photos style drag-to-select multi-selection to a LazyGrid for Compose multiplatform
+
+*   [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino) - Compose Multiplatform UI components for iOS (Cupertino Widgets)
+
+*   [vinceglb/FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP
+
+*   [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
+
+*   [ComposeGears/Tiamat](https://github.com/ComposeGears/Tiamat) - Simple Compose multiplatform navigation library
+
+*   [sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App](https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App) - Kmp Compose Multiplatform Ecommerce App for Android, iOS and Desktop: Shared Logic and Ui
+
+*   [sskEvan/NCMusicDesktop](https://github.com/sskEvan/NCMusicDesktop) - Compose Desktop仿写网易云桌面应用
+
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+*   [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
+
+*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+
+*   [adrielcafe/bonsai](https://github.com/adrielcafe/bonsai) - :deciduous\_tree: A multiplatform tree view for Jetpack Compose
+
+*   [deepmedia/MavenDeployer](https://github.com/deepmedia/MavenDeployer) - Release libraries to Maven Central (Nexus/OSSRH or Central Portal), GitHub Packages and local directories with a unified Gradle DSL. Includes automatic releases using Sonatype APIs.
+
+*   [freeletics/FlowRedux](https://github.com/freeletics/FlowRedux) - Kotlin Multiplatform Statemachine library with nice DSL based on Flow from Kotlin Coroutine's.
+
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+
+*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
+
+*   [AnkioTomas/bluetooth](https://github.com/AnkioTomas/bluetooth) -
+
+*   [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
+
+*   [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
+
+*   [greyovo/PicQuery](https://github.com/greyovo/PicQuery) - 🔍 Search local images with natural language on Android, powered by OpenAI's CLIP model.  /  在 Android 上用自然语言搜索本地图片 (基于 OpenAI 的 CLIP 模型)
+
+*   [dreamncn/ThemeEngine](https://github.com/dreamncn/ThemeEngine) - Material Design 3 Theme Engine for Android
+
+*   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+
+*   [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android) -
+
+*   [xuankaicat/kmnkt](https://github.com/xuankaicat/kmnkt) - 基于Kotlin Multiplatform的跨平台socket通信统一接口，在对Kotlin有较好的支持的同时兼容在JAVA中调用。目前支持Android目标与JVM目标，支持UDP/TCP/MQTT协议。
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [jenly1314/UltraSwipeRefresh](https://github.com/jenly1314/UltraSwipeRefresh) -  :surfer: 一个可带来极致体验的Compose刷新组件；支持下拉刷新和上拉加载，可完美替代官方的SwipeRefresh；功能更丰富，扩展性更强。
+
+*   [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
+
+*   [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+
+*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+
+*   [akexorcist/RoundCornerProgressBar](https://github.com/akexorcist/RoundCornerProgressBar) - \[Android] Round Corner Progress Bar Library for Android
+
+*   [CleverPumpkin/CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A beautiful material calendar with endless scroll, range selection and a lot more!
+
+*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
+
+*   [ctripcorp/mmkv-kotlin](https://github.com/ctripcorp/mmkv-kotlin) - A Kotlin Multiplatform porting for MMKV.
+
+*   [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
+
+*   [pbreault/adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+
+*   [angcyo/DslAdapter](https://github.com/angcyo/DslAdapter) - :fire: Android Kotlin时代的Adapter, Dsl 的形式使用 RecyclerView.Adapter, 支持折叠展开, 树结构,悬停,情感图状态切换, 加载更多, 多类型Item,侧滑菜单等
+
+*   [ltttttttttttt/ComposeViews](https://github.com/ltttttttttttt/ComposeViews) - Compose Multiplatform views, in to Android, Web, Desktop, iOS: Pager, Banner, Indicator, Refresh Layout, Flow Layout, Menu Floating Action Button, Pull To Refresh, Chain Scrollable Component, Scrollable App Bar(Nested Scroll View),Date Selector(Time Selector Date Picker), Swipe To Dismiss, Image viewer, ZoomLayout, Star Bar and more
+
+*   [adrielcafe/lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Compose Multiplatform!
+
+*   [mori-atsushi/insetsx](https://github.com/mori-atsushi/insetsx) - WindowInsets utility for compose multiplatform
+
+*   [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Markdown.
+
+*   [DylanCaiCoding/DataStoreKTX](https://github.com/DylanCaiCoding/DataStoreKTX) - The best DataStore utils to ensure type safety. (最好用的 DataStore 工具，可以确保类型安全)
+
+*   [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+
+*   [xxfast/KStore](https://github.com/xxfast/KStore) - A tiny Kotlin multiplatform library that assists in saving and restoring objects to and from disk using kotlinx.coroutines, kotlinx.serialisation and kotlinx.io
+
+*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+
+*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+
+*   [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper) - A library to make Xposed modules development easily.
+
+*   [KlassenKonstantin/ComposePhysicsLayout](https://github.com/KlassenKonstantin/ComposePhysicsLayout) - A custom Compose layout backed by a physics engine
+
+*   [izhangzhihao/unmeta](https://github.com/izhangzhihao/unmeta) - remove all Kotlin Metadata and DebugMetadata annotations from .class files
+
+*   [rubensousa/DpadRecyclerView](https://github.com/rubensousa/DpadRecyclerView) - A RecyclerView built for Android TV with Compose in mind and as a replacement for Leanback's BaseGridView.
+
+*   [hi-dhl/SyncKit](https://github.com/hi-dhl/SyncKit) - 将本地的项目同步到远程设备，本地写代码，远程编译，将编译的结果同步到本地
+
+*   [CanHub/Android-Image-Cropper](https://github.com/CanHub/Android-Image-Cropper) - Image Cropping Library for Android, optimised for Camera / Gallery.
+
+*   [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
+
+*   [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library.
+
+*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+
+*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+
+*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
+
+*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [idisfkj/android-startup](https://github.com/idisfkj/android-startup) - 🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to streamline startup sequences and explicitly set the order of initialization.
+
+*   [vestrel00/contacts-android](https://github.com/vestrel00/contacts-android) - Android Contacts API Library written in Kotlin with Java interoperability. No more ContentProviders and cursors. Say goodbye to ContactsContract. Build your own contacts app!
+
+*   [bubelov/vesti](https://github.com/bubelov/vesti) - Web feed reader for Android
+
+*   [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
+
+*   [loper7/DateTimePicker](https://github.com/loper7/DateTimePicker) - ⭐🎉一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI。
+
+*   [trycatchx/RocketX](https://github.com/trycatchx/RocketX) - 🔥🔥 android 端编译加速插件🚀 动态识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。
+
+*   [YarikSOffice/lingver](https://github.com/YarikSOffice/lingver) - Manage your application locale and language.
+
+*   [Ferfalk/SimpleSearchView](https://github.com/Ferfalk/SimpleSearchView) - A simple SearchView for Android based on Material Design
+
+*   [chrisbanes/snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
+
+*   [PatilShreyas/Capturable](https://github.com/PatilShreyas/Capturable) - 🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️
+
+*   [SimonMarquis/InternalAppStore](https://github.com/SimonMarquis/InternalAppStore) - 📦 Manage your own internal Android App Store.
+
+*   [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+
+*   [jraska/github-client](https://github.com/jraska/github-client) - Experimental architecture app with example usage intended to be a showcase, test and skeleton app.
+
+*   [spirytusz/GsonBooster](https://github.com/spirytusz/GsonBooster) - Kotlin-compatible and high performance gson typeAdapter compile phase generator
+
+*   [KwaiAppTeam/AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku) - 一款利用游戏引擎理念打造的原生弹幕库
+
+*   [square/papa](https://github.com/square/papa) - PAPA: Performance of Android Production Applications
+
+*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
+
+*   [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
+
+*   [biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus) - EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。
+
+*   [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) -  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
+
+*   [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
+
+*   [Dhaval2404/ImagePicker](https://github.com/Dhaval2404/ImagePicker) - 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+
+*   [GerardBradshaw/MixUp](https://github.com/GerardBradshaw/MixUp) - An Android app for creating photo collages. This app demonstrates NavigationUI, Espresso testing, Robolectric testing, custom views, low-level UI manipulation, and more.
+
+*   [microsoft/OMagnifier](https://github.com/microsoft/OMagnifier) - A performance monitor SDK for Android application
+
+*   [skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes) - ❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, Room, Repository, Koin)  architecture.
+
+*   [ellisonchan/NewAppWidget](https://github.com/ellisonchan/NewAppWidget) -
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [Kotlin/kmp-basic-sample](https://github.com/Kotlin/kmp-basic-sample) - Example of Kotlin multiplatform project
+
+*   [yuyashuai/FrameAnimation](https://github.com/yuyashuai/FrameAnimation) - High-Performance Frame Animation Library For Android
+
+*   [tytydraco/Buoy](https://github.com/tytydraco/Buoy) - An extension to the built in Android Battery Saver
+
+*   [trynoice/android-app](https://github.com/trynoice/android-app) - The Android app for Noice.
+
+*   [RikkaApps/WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
+
+*   [prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
+
+*   [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
+
+*   [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [saket/InboxRecyclerView](https://github.com/saket/InboxRecyclerView) - Build expandable descendant navigation, inspired by Google Inbox
+
+*   [kitsunyan/foxy-droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client
+
+*   [grzegorzojdana/SpacingItemDecoration](https://github.com/grzegorzojdana/SpacingItemDecoration) -  ItemDecoration for RecyclerView that allows you to set spacing between and around list items in flexible way.
+
+*   [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose
+
+*   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
+
+*   [TakuSemba/MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
+
+*   [Shouheng88/Compressor](https://github.com/Shouheng88/Compressor) - An easy to use image compress library for Android.
+
+*   [hi-dhl/Binding](https://github.com/hi-dhl/Binding) - Simple API implement DataBinding and ViewBinding.  简单的 API 实现 DataBinding 和 ViewBinding，欢迎 star
+
+*   [fornewid/neumorphism](https://github.com/fornewid/neumorphism) - Try to Neumorphism in Android (Just experimental!! 🧪)
+
+*   [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
+
+*   [guolindev/PermissionX](https://github.com/guolindev/PermissionX) - An open source Android library that makes handling runtime permissions extremely easy.
+
+*   [iwhys/sdk-editor-plugin](https://github.com/iwhys/sdk-editor-plugin) - This is a gradle plugin for android to edit class in SDK.
+
+*   [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+
+*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
+
+*   [MatteoBattilana/WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app
+
+*   [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
+
+*   [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
+
+*   [gdutxiaoxu/AnchorTask](https://github.com/gdutxiaoxu/AnchorTask) - 锚点任务，可以用来解决多线程加载任务依赖的问题。常见的，比如 Android 启动优化，通常会进行多线程异步加载
+
+*   [anggrayudi/SimpleStorage](https://github.com/anggrayudi/SimpleStorage) - 💾 Simplify Android Storage Access Framework for file management across API levels.
+
+*   [xuyisheng/TextMatrix](https://github.com/xuyisheng/TextMatrix) - TextMatrix
+
+*   [vitaviva/fragivity](https://github.com/vitaviva/fragivity) - Use Fragment like Activity
+
+*   [square/curtains](https://github.com/square/curtains) - Lift the curtain on Android Windows!
+
+*   [YvesCheung/UInspector](https://github.com/YvesCheung/UInspector) - A UI inspector to traverse a view hierarchy on Android
+
+*   [ReactiveCircus/app-versioning](https://github.com/ReactiveCircus/app-versioning) - A Gradle Plugin for lazily generating Android app's versionCode & versionName from Git tags.
+
+*   [wayfair-archive/panel-layout](https://github.com/wayfair-archive/panel-layout) - Panel Layout is a UI library for Android that allows you to display a floating and resizable panel that can also snap to the edges.
+
+*   [deepmedia/Grease](https://github.com/deepmedia/Grease) - Fat AARs for Android, to distribute multiple library modules in a single file with no dependencies, with relocation support.
+
+*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+
+*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
+
+*   [Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+
+*   [Gurupreet/ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop) - Spotify Demo Desktop app using Jetpack compose
+
+*   [nikit19/ScreenshotDetector](https://github.com/nikit19/ScreenshotDetector) - A demo app to show how to detect screenshots taken by the user while using the app
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
+
+*   [SmartToolFactory/Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials) - 🍭🚀💗  Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
+
+*   [saket/press](https://github.com/saket/press) - Cross-platform markdown editor written in Kotlin Multiplatform (work in progress)
+
+*   [skydoves/Bundler](https://github.com/skydoves/Bundler) - 🎁 Android Intent & Bundle extensions that insert and retrieve values elegantly.
+
+*   [iambaljeet/GmailCompose](https://github.com/iambaljeet/GmailCompose) - GmailCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android.
+
+*   [ImangazalievM/material-prefs](https://github.com/ImangazalievM/material-prefs) - ⚙ A beautiful and extensible API for bulding preferences screen
+
+*   [muhrifqii/ParseRSS](https://github.com/muhrifqii/ParseRSS) - A cup of library to Parse RSS for android. Also available as a ConverterFactory for Retrofit & Fuel
+
+*   [yunshuipiao/Potato](https://github.com/yunshuipiao/Potato) - Read the fucking source code for the Android  interview
+
+*   [saket/cascade](https://github.com/saket/cascade) - Nested popup menus with smooth height animations for Android
+
+*   [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
+
+*   [bilibili/BRouter](https://github.com/bilibili/BRouter) -
+
+*   [hakobast/DropdownTextView](https://github.com/hakobast/DropdownTextView) - Simple drop-down(expandable) TextView for Android
+
+*   [hi-dhl/ComposingBuilds-vs-buildSrc](https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc) -  Composing builds 和 buildSrc 优势劣势对比，仓库提供了 buildSrc 和 Composing builds 两个构建脚本，下文有使用方法，如果对你有帮助，请在右上角 star 一下，感谢
+
+*   [ajalt/colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation
+
+*   [ZenitechSoftware/Krate](https://github.com/ZenitechSoftware/Krate) - A SharedPreferences wrapper powered by Kotlin delegates
+
+*   [lopspower/Biometric](https://github.com/lopspower/Biometric) - The easiest way is to use the new version of Biometric under AndroidX 🔒
+
+*   [codoon/ThreadTracker](https://github.com/codoon/ThreadTracker) - thread tracing for android
+
+*   [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
+
+*   [Aghajari/ZoomHelper](https://github.com/Aghajari/ZoomHelper) - ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom
+
+*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+
+*   [cesarferreira/tempo](https://github.com/cesarferreira/tempo) - ⌚Kotlin intuitive Date extensions.
+
+*   [Perfomer/blitz](https://github.com/Perfomer/blitz) - Android Library: Set self-updating string with relative time in TextView (e.g. 5 minutes ago)
+
+*   [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+
+*   [fede87/StatusBarAlert](https://github.com/fede87/StatusBarAlert) - Telegram X inspired android status bar alert view
+
+*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+
+*   [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) - 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
+
+*   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
+
+*   [MichaelRocks/paranoid](https://github.com/MichaelRocks/paranoid) - String obfuscator for Android applications.
+
+*   [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
+
+*   [Devlight/CornerCutLinearLayout](https://github.com/Devlight/CornerCutLinearLayout) - Linear Layout that allow corner (parent and children) cuts, complex shadow and divider.
+
+*   [cashapp/contour](https://github.com/cashapp/contour) - Layouts with lambdas 😎
+
+*   [wuyr/GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier) - 一款Android Studio插件，帮助你快速添加依赖库和查询历史版本
+
+*   [STAR-ZERO/NavProguardGenerator](https://github.com/STAR-ZERO/NavProguardGenerator) - Auto generate proguard rule file for Jetpack Navigation Component and apply the file to configuration.
+
+*   [st235/SamuraiView](https://github.com/st235/SamuraiView) - Simple showcase library. Made Samurai great again! ⚔️
+
+*   [st235/ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) - A new way to implement navigation in your app 🏎
+
+*   [Dhaval2404/ColorPicker](https://github.com/Dhaval2404/ColorPicker) - 🎨 Color Picker Library for Android
+
+*   [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
+
+*   [akexorcist/SnapTimePicker](https://github.com/akexorcist/SnapTimePicker) - \[Android] Another Material Time Picker
+
+*   [zhpanvip/viewpagerindicator](https://github.com/zhpanvip/viewpagerindicator) - 🔥  Worked with ViewPager and ViewPager2,support multiple slider styles and multiple slide mode.This repo was split from BannerViewPager-
+
+*   [rubensousa/Decorator](https://github.com/rubensousa/Decorator) - Decorator is an Android library that helps creating composable margins and dividers in RecyclerViews
+
+*   [HamidrezaAmz/MagicalExoPlayer](https://github.com/HamidrezaAmz/MagicalExoPlayer) - The Easiest Way To Play/Stream Video And Audio Using Google ExoPlayer In Your Android Application
+
+*   [MindorksOpenSource/ConcatAdapter-Android-Example](https://github.com/MindorksOpenSource/ConcatAdapter-Android-Example) - In this project, we have demonstrated how to use Concat Adapter in Android
+
+*   [MindorksOpenSource/Uber-Car-Animation-Android](https://github.com/MindorksOpenSource/Uber-Car-Animation-Android) -  An example project to demonstrate how to Add Uber Like Car Animation in Android App
+
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+
+*   [B3nedikt/restring](https://github.com/B3nedikt/restring) - Restring is a android library to replace string resources  dynamically
+
+*   [skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout) - 🌠 Transform between two Views, Activities, and Fragments, or a View to a Fragment with container transform animations for Android.
+
+*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
+
+*   [adibfara/ComposeClock](https://github.com/adibfara/ComposeClock) - Particle clock created with Jetpack Compose framework
+
+*   [yshrsmz/KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent) - Android Library to handle software keyboard visibility change event.
+
+*   [Droppers/AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) - A customizable and easy to use BottomBar navigation view with sleek animations, with support for ViewPager, ViewPager2, NavController, and badges.
+
+*   [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
+
+*   [lopspower/CircularProgressBar](https://github.com/lopspower/CircularProgressBar) - Create circular ProgressBar in Android ⭕
+
+*   [TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+
+*   [bitvale/Switcher](https://github.com/bitvale/Switcher) - Android implementation of switch animation from Oleg Frolov
+
+*   [JakeWharton/wormhole](https://github.com/JakeWharton/wormhole) - A time-traveling bytecode rewriter which adds future APIs to android.jar
+
+*   [skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions) - 🦁  A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, Flow, Room, Repository, Koin) architecture.
+
+*   [PatilShreyas/LiveStream-kt](https://github.com/PatilShreyas/LiveStream-kt) - LiveStream is a simple class which makes communication easy among different modules of your application.
+
+*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+
+*   [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
+
+*   [Spikeysanju/ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) - 🎢 Zoom Recycler Layout Manager For Android Kotlin
+
+*   [bardss/PaintableVectorView](https://github.com/bardss/PaintableVectorView) - 🎨 PaintableVectorView enables to change color of paths/groups in Vector Drawable (SVG) 🎨
+
+*   [Maxr1998/ModernAndroidPreferences](https://github.com/Maxr1998/ModernAndroidPreferences) - Android Preferences defined through Kotlin DSL, shown in a RecyclerView
+
+*   [gotev/android-cookie-store](https://github.com/gotev/android-cookie-store) - Android InMemory and persistent Cookie Store for HttpURLConnection and OkHttp, with extensions to easily sync cookies in Android WebViews.
+
+*   [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
+
+*   [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
+
+*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android/KMP localization plugin. supports multiple languages and multiple translators.
+
+*   [nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter) - Android app to showcase complex UI/Animations with and without MotionLayout
+
+*   [MalekKamel/FormValidator](https://github.com/MalekKamel/FormValidator) - A declarative Form Validation for Android, simple, clean, and customizable.
+
+*   [L4Digital/FastScroll](https://github.com/L4Digital/FastScroll) - A ListView-like FastScroller for Android’s RecyclerView.
+
+*   [florent37/ApplicationProvider](https://github.com/florent37/ApplicationProvider) - Retrieve the android application and the current activity from anywhere
+
+*   [PaulWoitaschek/Slimber](https://github.com/PaulWoitaschek/Slimber) - Built upon Timber. Without performance penality.
+
+*   [SusionSuc/AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid) - Android 进阶
+
+*   [JakeWharton/diffuse](https://github.com/JakeWharton/diffuse) - Diffuse is a tool for diffing APKs, AABs, AARs, and JARs
+
+*   [Chrisvin/RubberPicker](https://github.com/Chrisvin/RubberPicker) - Android Rubber Picker Library
+
+*   [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
+
+*   [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
+
+*   [zhengcx/MethodTraceMan](https://github.com/zhengcx/MethodTraceMan) - 用于快速找到高耗时方法，定位解决Android App卡顿问题。通过gradle plugin+ASM实现可配置范围的方法插桩来统计所有方法的耗时，并提供友好的界面展示，支持耗时筛选、线程筛选、方法名筛选等。(A Tool for Discovering High Time-consuming Methods for Android App)
+
+*   [PureWriter/ObscureDefaultLifecycleObserver](https://github.com/PureWriter/ObscureDefaultLifecycleObserver) - Let subclasses of default LifecycleObserver can be completely obfuscated
+
+*   [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android !
+
+*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
+
+*   [7hens/android-x2j](https://github.com/7hens/android-x2j) - ☕ write XML, run Java.
+
+*   [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+
+*   [hcbpassos/waterfall-toolbar](https://github.com/hcbpassos/waterfall-toolbar) -
+
+*   [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) - A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
+
+*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
+
+*   [majorkik/SparkLineLayout](https://github.com/majorkik/SparkLineLayout) - Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
+
+*   [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
+
+*   [InflationX/ViewPump](https://github.com/InflationX/ViewPump) - View Inflation you can intercept.
+
+*   [transferwise/sequence-layout](https://github.com/transferwise/sequence-layout) - A vertical sequence UI component for Android
+
+*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
+
+*   [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
+
+*   [lopspower/CircleView](https://github.com/lopspower/CircleView) - Create circular view in android (change color, border & shadow) ⚫
+
+*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+*   [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
+
+*   [VincentMasselis/RxBluetoothKotlin](https://github.com/VincentMasselis/RxBluetoothKotlin) - Bluetooth low energy reactive framework for Android written in Kotlin
+
+*   [wuyr/LitePager](https://github.com/wuyr/LitePager) - LitePager，一个轻量级的ViewPager，仿新版网易云歌单广场
+
+*   [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
+
+*   [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
+
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+
+*   [VincentMasselis/RxUIKotlin](https://github.com/VincentMasselis/RxUIKotlin) - Kotlin designed reactive extensions for the Android UI
+
+*   [naman14/TimberX](https://github.com/naman14/TimberX) - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
+
+*   [gatheringhallstudios/MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) -
+
+*   [WGwangguan/SeparatedEditText](https://github.com/WGwangguan/SeparatedEditText) - 仿支付宝密码输入框、微信密码输入框，美团外卖验证码输入框等。有实心，空心以及下划线形式。可控制文本是否显示。
+
+*   [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
+
+*   [florent37/Multiplatform-Preferences](https://github.com/florent37/Multiplatform-Preferences) - Kotlin Multi Platform Preferences, for android an ios : SharedPreferences & NSUserDefault
+
+*   [armcha/ElasticView](https://github.com/armcha/ElasticView) - Elastic view is a regular CardView, which can flex from user touches
+
+*   [heimashi/kotlin\_tips](https://github.com/heimashi/kotlin_tips) - \[DEPRECATED] 用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
+
+*   [CoderLengary/WanAndroidTodo](https://github.com/CoderLengary/WanAndroidTodo) -
+
+*   [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
+
+*   [Daio-io/dresscode](https://github.com/Daio-io/dresscode) - 👔 Tiny lightweight Kotlin Android library to change theme at runtime.
+
+*   [Nevolution/decorator-wechat](https://github.com/Nevolution/decorator-wechat) - WeChat Modernized (Nevolution Decorator)
+
+*   [werbhelius/MoreType](https://github.com/werbhelius/MoreType) - new method to build data in RecyclerView with Kotlin!
+
+*   [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) - Android studio plugin for preview drawables
+
+*   [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
+
+*   [YuganshT79/Smiley-Rating](https://github.com/YuganshT79/Smiley-Rating) - A custom android Rating view with Interactive Smiles :smile:
+
+*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
+
+*   [uni-cstar/HaloPermission](https://github.com/uni-cstar/HaloPermission) - An Android permission library developed by Kotlin language with higher extensibility and compatibility.
+
+*   [alexstyl/RadiusTransition](https://github.com/alexstyl/RadiusTransition) - Transition between a circle to a square.  ⚪️→ ⬜️
+
+*   [Karn/notify](https://github.com/Karn/notify) - Simplified notification construction and delivery for Android.
+
+*   [Kyash/rx-keyboard-detector](https://github.com/Kyash/rx-keyboard-detector) - Light-weight Android library that helps detecting keyboard opened/closed status by using RxJava2 & Kotlin
+
+*   [brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia) - An Android ExoPlayer wrapper to simplify Audio and Video implementations
+
+*   [florent37/Shrine-MaterialDesign2](https://github.com/florent37/Shrine-MaterialDesign2) - implementation of Material Design 2 Shrine project
+
+*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
+
+*   [afollestad/aesthetic](https://github.com/afollestad/aesthetic) - \[DEPRECATED]
+
+*   [RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo.
+
+*   [Ramotion/fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion
+
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+
+*   [Hamadakram/Mural](https://github.com/Hamadakram/Mural) - A lightweight image loading library in Kotlin
+
+*   [EspoirX/StarrySky](https://github.com/EspoirX/StarrySky) - 🔥A Powerful and Streamline MusicLibrary(一个丰富的音乐播放封装库,支持多种音频格式,完美解决你的问题。)
+
+*   [ArchitShah248/CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker) - Library to pick date range
+
+*   [TonnyL/Charles](https://github.com/TonnyL/Charles) - \[WIP]✨ Charles is a local multi-media selector for Android
+
+*   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+
+*   [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
+
+*   [TonnyL/Mango](https://github.com/TonnyL/Mango) - 🏀 An Android app for dribbble.com
+
+*   [loopeer/shadow](https://github.com/loopeer/shadow) - Deprecated because of the performance not fine. Android custom shadow view, can replace your CardView
+
+*   [sumimakito/AwesomeQRCode](https://github.com/sumimakito/AwesomeQRCode) - An awesome QR code generator for Android.
+
+*   [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. 📸
+
+*   [ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload) - A multi-threaded download tool written with RxJava and Kotlin
+
+*   [TonnyL/Light](https://github.com/TonnyL/Light) - 🍭 The usual Snackbar, but elegant
+
+*   [TonnyL/PaperPlane](https://github.com/TonnyL/PaperPlane) - 📚 PaperPlane - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment.
+
+*   [Mauker1/MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - Android Search View based on Material design guidelines.
+
+*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
+
+*   [garretyoder/Colorful](https://github.com/garretyoder/Colorful) - Android runtime theme library
+
+*   [jaredrummler/HtmlDsl](https://github.com/jaredrummler/HtmlDsl) - Build valid HTML for Android TextView
+
+*   [JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
+
+*   [salRoid/Filmy](https://github.com/salRoid/Filmy) - :movie\_camera: Material designed awesome movie app which is powered by tmdb.
+
+*   [anastr/SpeedView](https://github.com/anastr/SpeedView) - Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:
+
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+
+*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+
+*   [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
+
+*   [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
+
 ## Python
 
 ​
+
+*   [funstory-ai/aifw](https://github.com/funstory-ai/aifw) - Lightweight LLM firewall: masks PII, routes calls, leaves zero trace.
 
 *   [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) - MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
 
@@ -90,7 +810,7 @@
 
 *   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-*   [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+*   [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 
 *   [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
@@ -917,724 +1637,6 @@
 *   [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 
 *   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
-
-## Kotlin
-
-​
-
-*   [dokar3/sheets](https://github.com/dokar3/sheets) - Another feature-rich bottom sheet for Compose Multiplatform.
-
-*   [vishal2376/animations](https://github.com/vishal2376/animations) - 30 Animations Challenge using Jetpack compose
-
-*   [vishal2376/belleza](https://github.com/vishal2376/belleza) - Beautiful and customizable animation library for Jetpack Compose
-
-*   [SimonBumiller/oneui-compose](https://github.com/SimonBumiller/oneui-compose) - Enables Jetpack Compose developers the ability to incorporate Samsung's OneUI design-system into their applications, to match the visuals of prebuilt Samsung apps.
-
-*   [jvziyaoyao/scale](https://github.com/jvziyaoyao/scale) - 🖼 An image viewer for Android and Compose Multiplatform with transition animations and support for large images. 😄 专门为Android和Compose Multiplatform开发的图片浏览库，支持过渡变换和超大图片的显示。
-
-*   [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) - A Jetbrains IDE IntelliJ plugin aimed to provide coding agents the ability to leverage intelliJ's indexing of the codebase
-
-*   [valentinilk/compose-shimmer](https://github.com/valentinilk/compose-shimmer) - A simple shimmer library for Jetpack Compose.
-
-*   [SmartToolFactory/Compose-Image](https://github.com/SmartToolFactory/Compose-Image) - 🚀🏞💪 Collection of Images, Modifiers, utility functions for Jetpack Compose to expand and enrich displaying, manipulating, scaling, resizing, zooming, and getting cropped ImageBitmap based on selection area
-
-*   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
-
-*   [skydoves/FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet) - 🐬 Advanced Compose Multiplatform bottom sheet for segmented sizing, non-modal type, and allows interaction behind the bottom sheet similar to Google Maps.
-
-*   [jeeneo/dejpeg](https://github.com/jeeneo/dejpeg) - note: this is a mirror of https://codeberg.org/dryerlint/dejpeg - all future releases will be published there
-
-*   [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
-
-*   [gurecn/YuyanIme](https://github.com/gurecn/YuyanIme) - 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
-
-*   [xororz/local-dream](https://github.com/xororz/local-dream) - Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
-
-*   [joelkanyi/kompose-country-code-picker](https://github.com/joelkanyi/kompose-country-code-picker) - A Compose Multiplatform library based on Material 3 (M3) that provides a country code picker for Android, iOS, JVM, JS, and WasmJS
-
-*   [icerockdev/moko-media](https://github.com/icerockdev/moko-media) - Media selection & presenting for mobile (android & ios) Kotlin Multiplatform development
-
-*   [splendo/kaluga](https://github.com/splendo/kaluga) - Collection of multiplatform kotlin components, mainly using coroutines and flow
-
-*   [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
-
-*   [Loop312/compose-keyhandler](https://github.com/Loop312/compose-keyhandler) - A key handler library for compose multiplatform/KMP
-
-*   [terrakok/Compose-Multiplatform-Wizard](https://github.com/terrakok/Compose-Multiplatform-Wizard) - Compose Multiplatform Wizard
-
-*   [mrjoechen/ShowcaseApp](https://github.com/mrjoechen/ShowcaseApp) - Showcase is an Multiplatform application for displaying pictures.
-
-*   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
-
-*   [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
-
-*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-
-*   [davidepianca98/KMQTT](https://github.com/davidepianca98/KMQTT) - Kotlin Multiplatform MQTT client & embeddable and standalone broker
-
-*   [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit) - An easy-to-use, high-performance dex deobfuscation library.
-
-*   [godaddy/compose-color-picker](https://github.com/godaddy/compose-color-picker) - Jetpack Compose Android Color Picker 🎨
-
-*   [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
-
-*   [MadFlasheroo7/Compose-Animations](https://github.com/MadFlasheroo7/Compose-Animations) - A Repo To showcase Collection of animations in jetpack compose
-
-*   [aaa1115910/bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
-
-*   [Steve-Mr/EmojiFace](https://github.com/Steve-Mr/EmojiFace) - Identify faces in an image and replace them with emojis.
-
-*   [jens-muenker/uCrop-n-Edit](https://github.com/jens-muenker/uCrop-n-Edit) - Image Cropping + Editing Library for Android
-
-*   [Mortd3kay/liquid-glass-android](https://github.com/Mortd3kay/liquid-glass-android) - ✨ Glass morphism library for Jetpack Compose with AGSL shaders (Android 13+). Supports blur, distortion, shadows, and more.
-
-*   [piashcse/kmp-movie](https://github.com/piashcse/kmp-movie) - KMP Movie 📱 app for Android, iOS, Desktop and Web built with Compose Multiplatform, Coroutine, Flow and ViewModel based on MVVM architecture recommended by Google.
-
-*   [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-
-*   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-
-*   [saket/telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
-
-*   [jordond/compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation
-
-*   [Foso/Ktorfit](https://github.com/Foso/Ktorfit) - HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native, WasmJs)) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
-
-*   [ismai117/KScan](https://github.com/ismai117/KScan) - Compose Multiplatform Barcode Scanning
-
-*   [Omico/OhMyJVM](https://github.com/Omico/OhMyJVM) - A JDK version manager for Windows written in Kotlin Native
-
-*   [Omico/OhMyJVM](https://github.com/Omico/OhMyJVM) - A JDK version manager for Windows written in Kotlin Native
-
-*   [Omico/CurrentActivity](https://github.com/Omico/CurrentActivity) - A current activity monitor. Currently, become an implementation of Google's recommended Android app architecture.
-
-*   [pratikksahu/JetPDFVue](https://github.com/pratikksahu/JetPDFVue) - PDF reader Android library based on Jetpack Compose
-
-*   [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
-
-*   [jordond/connectivity](https://github.com/jordond/connectivity) - 🛜 Monitor network connectivity in Kotlin Multiplatform apps
-
-*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
-
-*   [chrisbanes/haze](https://github.com/chrisbanes/haze) - Background blurring for Compose Multiplatform / Jetpack Compose
-
-*   [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum) - Delve into the rich collection of masterpieces.
-
-*   [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
-
-*   [hiennguyen92/flutter\_callkit\_incoming](https://github.com/hiennguyen92/flutter_callkit_incoming) - Flutter Callkit Incoming
-
-*   [qczone/switch2cursor](https://github.com/qczone/switch2cursor) - A JetBrains IDE plugin that enables smooth switching between JetBrains IDE and Cursor, with automatic cursor position sync. Features keyboard shortcuts, context menu integration, and tools menu access. Supports all JetBrains IDEs.
-
-*   [tamimattafi/krop](https://github.com/tamimattafi/krop) - Kotlin Multiplatform library for Image Cropping with Compose Multiplatform.
-
-*   [sproctor/compose-data-table](https://github.com/sproctor/compose-data-table) - An implementation of the Material Design data table for Compose.
-
-*   [rroohit/ImageCropView](https://github.com/rroohit/ImageCropView) - Jetpack-Compose Image Crop View library.
-
-*   [kmod-midori/CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
-
-*   [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) - Build terminal UI in Kotlin using Jetpack Compose
-
-*   [mejdi14/Android-AGSL-Shader-Playground](https://github.com/mejdi14/Android-AGSL-Shader-Playground) - Android AGSL Shader effect library
-
-*   [kevincianfarini/alchemist](https://github.com/kevincianfarini/alchemist) - Type safe management and arithmetic of physical units. Inspired by kotlin.time.Duration.
-
-*   [LineageOS/android\_packages\_apps\_Twelve](https://github.com/LineageOS/android_packages_apps_Twelve) -
-
-*   [usuiat/Zoomable](https://github.com/usuiat/Zoomable) - Compose multiplatform library that enables the content to be zoomable by gestures
-
-*   [joelkanyi/sain](https://github.com/joelkanyi/sain) - \[サイン] A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
-
-*   [skydoves/colorpicker-compose](https://github.com/skydoves/colorpicker-compose) - 🎨 Kotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.
-
-*   [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).
-
-*   [composablehorizons/compose-unstyled](https://github.com/composablehorizons/compose-unstyled) - The missing Design System layer for Compose UI
-
-*   [JetBrains/compose-hot-reload](https://github.com/JetBrains/compose-hot-reload) - Compose Hot Reload: Make changes to your UI code in a Compose Multiplatform application, and see the results in real time. No restarts required. Compose Hot Reload runs your application on the JetBrains Runtime and intelligently reloads your code whenever it is changed.
-
-*   [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ✨ An android Library to enhance UIs, supporting a wide range of common use-cases with Dialogs, Popups, and Bottom Sheets. ✨
-
-*   [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging) - A library that packages AndroidX Paging for Kotlin/Multiplatform.
-
-*   [Kashif-E/CameraK](https://github.com/Kashif-E/CameraK) - A camera library for Compose Multiplatform
-
-*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-
-*   [panpf/zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is an gesture zoom viewing of images library specially designed for Compose Multiplatform and Android View. Supported scale, pan, locate, rotation, and super-large image subsampling.
-
-*   [Breens-Mbaka/Jetpack-Compose-Tables](https://github.com/Breens-Mbaka/Jetpack-Compose-Tables) - 🐝 A Compose UI data table library which allows developers to seamless integrate visually appealing and customizable tables to their Android apps or IOS apps.
-
-*   [hoc081098/solivagant](https://github.com/hoc081098/solivagant) - 🔆 Compose Multiplatform Navigation library -  🌸 Pragmatic, type safety navigation for Compose Multiplatform. Based on Freeletics Khonshu Navigation. ♥️ ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...
-
-*   [litao0621/nifty-slider](https://github.com/litao0621/nifty-slider) - :star: Sliders allow users to make selections from a range of values. :star:
-
-*   [SmartToolFactory/Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations
-
-*   [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) - 🎨 Generate a dynamic Material3 color scheme from a seed color
-
-*   [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
-
-*   [MoyuruAizawa/Cropify](https://github.com/MoyuruAizawa/Cropify) - Image Cropper for Android Jetpack Compose.
-
-*   [xihan123/SignHook](https://github.com/xihan123/SignHook) - 这是一个简单的签名校验通杀模块
-
-*   [hoc081098/kmp-viewmodel](https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM.  Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications. Components are lifecycle-aware on Android. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
-
-*   [darkokoa/compose-datetime-wheel-picker](https://github.com/darkokoa/compose-datetime-wheel-picker) - Wheel Date & Time Picker in Compose Multiplatform
-
-*   [jordond/drag-select-compose](https://github.com/jordond/drag-select-compose) - ⚡ Google Photos style drag-to-select multi-selection to a LazyGrid for Compose multiplatform
-
-*   [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino) - Compose Multiplatform UI components for iOS (Cupertino Widgets)
-
-*   [vinceglb/FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP
-
-*   [svenjacobs/reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web
-
-*   [ComposeGears/Tiamat](https://github.com/ComposeGears/Tiamat) - Simple Compose multiplatform navigation library
-
-*   [sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App](https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App) - Kmp Compose Multiplatform Ecommerce App for Android, iOS and Desktop: Shared Logic and Ui
-
-*   [sskEvan/NCMusicDesktop](https://github.com/sskEvan/NCMusicDesktop) - Compose Desktop仿写网易云桌面应用
-
-*   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-*   [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
-
-*   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-
-*   [adrielcafe/bonsai](https://github.com/adrielcafe/bonsai) - :deciduous\_tree: A multiplatform tree view for Jetpack Compose
-
-*   [deepmedia/MavenDeployer](https://github.com/deepmedia/MavenDeployer) - Release libraries to Maven Central (Nexus/OSSRH or Central Portal), GitHub Packages and local directories with a unified Gradle DSL. Includes automatic releases using Sonatype APIs.
-
-*   [freeletics/FlowRedux](https://github.com/freeletics/FlowRedux) - Kotlin Multiplatform Statemachine library with nice DSL based on Flow from Kotlin Coroutine's.
-
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-
-*   [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-
-*   [AnkioTomas/bluetooth](https://github.com/AnkioTomas/bluetooth) -
-
-*   [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
-
-*   [Radiokot/photoprism-android-client](https://github.com/Radiokot/photoprism-android-client) - 📸 A convenient Android gallery for your PhotoPrism library with plenty of useful features
-
-*   [greyovo/PicQuery](https://github.com/greyovo/PicQuery) - 🔍 Search local images with natural language on Android, powered by OpenAI's CLIP model.  /  在 Android 上用自然语言搜索本地图片 (基于 OpenAI 的 CLIP 模型)
-
-*   [dreamncn/ThemeEngine](https://github.com/dreamncn/ThemeEngine) - Material Design 3 Theme Engine for Android
-
-*   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
-
-*   [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android) -
-
-*   [xuankaicat/kmnkt](https://github.com/xuankaicat/kmnkt) - 基于Kotlin Multiplatform的跨平台socket通信统一接口，在对Kotlin有较好的支持的同时兼容在JAVA中调用。目前支持Android目标与JVM目标，支持UDP/TCP/MQTT协议。
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [jenly1314/UltraSwipeRefresh](https://github.com/jenly1314/UltraSwipeRefresh) -  :surfer: 一个可带来极致体验的Compose刷新组件；支持下拉刷新和上拉加载，可完美替代官方的SwipeRefresh；功能更丰富，扩展性更强。
-
-*   [fei-ke/HMSPush](https://github.com/fei-ke/HMSPush) - 让非华为设备支持 HMS 推送，同时避免唤醒目标应用
-
-*   [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
-
-*   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-
-*   [akexorcist/RoundCornerProgressBar](https://github.com/akexorcist/RoundCornerProgressBar) - \[Android] Round Corner Progress Bar Library for Android
-
-*   [CleverPumpkin/CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A beautiful material calendar with endless scroll, range selection and a lot more!
-
-*   [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
-
-*   [ctripcorp/mmkv-kotlin](https://github.com/ctripcorp/mmkv-kotlin) - A Kotlin Multiplatform porting for MMKV.
-
-*   [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) - Fluent Design UI library for Compose Multiplatform
-
-*   [pbreault/adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
-
-*   [angcyo/DslAdapter](https://github.com/angcyo/DslAdapter) - :fire: Android Kotlin时代的Adapter, Dsl 的形式使用 RecyclerView.Adapter, 支持折叠展开, 树结构,悬停,情感图状态切换, 加载更多, 多类型Item,侧滑菜单等
-
-*   [ltttttttttttt/ComposeViews](https://github.com/ltttttttttttt/ComposeViews) - Compose Multiplatform views, in to Android, Web, Desktop, iOS: Pager, Banner, Indicator, Refresh Layout, Flow Layout, Menu Floating Action Button, Pull To Refresh, Chain Scrollable Component, Scrollable App Bar(Nested Scroll View),Date Selector(Time Selector Date Picker), Swipe To Dismiss, Image viewer, ZoomLayout, Star Bar and more
-
-*   [adrielcafe/lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Compose Multiplatform!
-
-*   [mori-atsushi/insetsx](https://github.com/mori-atsushi/insetsx) - WindowInsets utility for compose multiplatform
-
-*   [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Markdown.
-
-*   [DylanCaiCoding/DataStoreKTX](https://github.com/DylanCaiCoding/DataStoreKTX) - The best DataStore utils to ensure type safety. (最好用的 DataStore 工具，可以确保类型安全)
-
-*   [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
-
-*   [xxfast/KStore](https://github.com/xxfast/KStore) - A tiny Kotlin multiplatform library that assists in saving and restoring objects to and from disk using kotlinx.coroutines, kotlinx.serialisation and kotlinx.io
-
-*   [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-
-*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-
-*   [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper) - A library to make Xposed modules development easily.
-
-*   [KlassenKonstantin/ComposePhysicsLayout](https://github.com/KlassenKonstantin/ComposePhysicsLayout) - A custom Compose layout backed by a physics engine
-
-*   [izhangzhihao/unmeta](https://github.com/izhangzhihao/unmeta) - remove all Kotlin Metadata and DebugMetadata annotations from .class files
-
-*   [rubensousa/DpadRecyclerView](https://github.com/rubensousa/DpadRecyclerView) - A RecyclerView built for Android TV with Compose in mind and as a replacement for Leanback's BaseGridView.
-
-*   [hi-dhl/SyncKit](https://github.com/hi-dhl/SyncKit) - 将本地的项目同步到远程设备，本地写代码，远程编译，将编译的结果同步到本地
-
-*   [CanHub/Android-Image-Cropper](https://github.com/CanHub/Android-Image-Cropper) - Image Cropping Library for Android, optimised for Camera / Gallery.
-
-*   [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
-
-*   [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A powerful and extensible multiplatform chart library.
-
-*   [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-
-*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-
-*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-
-*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [idisfkj/android-startup](https://github.com/idisfkj/android-startup) - 🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to streamline startup sequences and explicitly set the order of initialization.
-
-*   [vestrel00/contacts-android](https://github.com/vestrel00/contacts-android) - Android Contacts API Library written in Kotlin with Java interoperability. No more ContentProviders and cursors. Say goodbye to ContactsContract. Build your own contacts app!
-
-*   [bubelov/vesti](https://github.com/bubelov/vesti) - Web feed reader for Android
-
-*   [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
-
-*   [loper7/DateTimePicker](https://github.com/loper7/DateTimePicker) - ⭐🎉一个高颜值日期时间选择器；极简API，内置弹窗，支持农历日期显示，适配深色模式，可动态配置样式及主题，选择器支持完全自定义UI。
-
-*   [trycatchx/RocketX](https://github.com/trycatchx/RocketX) - 🔥🔥 android 端编译加速插件🚀 动态识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。
-
-*   [YarikSOffice/lingver](https://github.com/YarikSOffice/lingver) - Manage your application locale and language.
-
-*   [Ferfalk/SimpleSearchView](https://github.com/Ferfalk/SimpleSearchView) - A simple SearchView for Android based on Material Design
-
-*   [chrisbanes/snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
-
-*   [PatilShreyas/Capturable](https://github.com/PatilShreyas/Capturable) - 🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️
-
-*   [SimonMarquis/InternalAppStore](https://github.com/SimonMarquis/InternalAppStore) - 📦 Manage your own internal Android App Store.
-
-*   [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
-
-*   [jraska/github-client](https://github.com/jraska/github-client) - Experimental architecture app with example usage intended to be a showcase, test and skeleton app.
-
-*   [spirytusz/GsonBooster](https://github.com/spirytusz/GsonBooster) - Kotlin-compatible and high performance gson typeAdapter compile phase generator
-
-*   [KwaiAppTeam/AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku) - 一款利用游戏引擎理念打造的原生弹幕库
-
-*   [square/papa](https://github.com/square/papa) - PAPA: Performance of Android Production Applications
-
-*   [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
-
-*   [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
-
-*   [biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus) - EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。
-
-*   [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) -  ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
-
-*   [vinaygaba/Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
-
-*   [Dhaval2404/ImagePicker](https://github.com/Dhaval2404/ImagePicker) - 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
-
-*   [GerardBradshaw/MixUp](https://github.com/GerardBradshaw/MixUp) - An Android app for creating photo collages. This app demonstrates NavigationUI, Espresso testing, Robolectric testing, custom views, low-level UI manipulation, and more.
-
-*   [microsoft/OMagnifier](https://github.com/microsoft/OMagnifier) - A performance monitor SDK for Android application
-
-*   [skydoves/MarvelHeroes](https://github.com/skydoves/MarvelHeroes) - ❤️ A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, Room, Repository, Koin)  architecture.
-
-*   [ellisonchan/NewAppWidget](https://github.com/ellisonchan/NewAppWidget) -
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [Kotlin/kmp-basic-sample](https://github.com/Kotlin/kmp-basic-sample) - Example of Kotlin multiplatform project
-
-*   [yuyashuai/FrameAnimation](https://github.com/yuyashuai/FrameAnimation) - High-Performance Frame Animation Library For Android
-
-*   [tytydraco/Buoy](https://github.com/tytydraco/Buoy) - An extension to the built in Android Battery Saver
-
-*   [trynoice/android-app](https://github.com/trynoice/android-app) - The Android app for Noice.
-
-*   [RikkaApps/WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
-
-*   [prafullmishra/JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
-
-*   [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
-
-*   [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [saket/InboxRecyclerView](https://github.com/saket/InboxRecyclerView) - Build expandable descendant navigation, inspired by Google Inbox
-
-*   [kitsunyan/foxy-droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client
-
-*   [grzegorzojdana/SpacingItemDecoration](https://github.com/grzegorzojdana/SpacingItemDecoration) -  ItemDecoration for RecyclerView that allows you to set spacing between and around list items in flexible way.
-
-*   [Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials :rocket:  https://foso.github.io/compose
-
-*   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
-
-*   [TakuSemba/MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
-
-*   [Shouheng88/Compressor](https://github.com/Shouheng88/Compressor) - An easy to use image compress library for Android.
-
-*   [hi-dhl/Binding](https://github.com/hi-dhl/Binding) - Simple API implement DataBinding and ViewBinding.  简单的 API 实现 DataBinding 和 ViewBinding，欢迎 star
-
-*   [fornewid/neumorphism](https://github.com/fornewid/neumorphism) - Try to Neumorphism in Android (Just experimental!! 🧪)
-
-*   [google/modernstorage](https://github.com/google/modernstorage) - ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions
-
-*   [guolindev/PermissionX](https://github.com/guolindev/PermissionX) - An open source Android library that makes handling runtime permissions extremely easy.
-
-*   [iwhys/sdk-editor-plugin](https://github.com/iwhys/sdk-editor-plugin) - This is a gradle plugin for android to edit class in SDK.
-
-*   [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-
-*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
-
-*   [MatteoBattilana/WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app
-
-*   [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
-
-*   [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
-
-*   [gdutxiaoxu/AnchorTask](https://github.com/gdutxiaoxu/AnchorTask) - 锚点任务，可以用来解决多线程加载任务依赖的问题。常见的，比如 Android 启动优化，通常会进行多线程异步加载
-
-*   [anggrayudi/SimpleStorage](https://github.com/anggrayudi/SimpleStorage) - 💾 Simplify Android Storage Access Framework for file management across API levels.
-
-*   [xuyisheng/TextMatrix](https://github.com/xuyisheng/TextMatrix) - TextMatrix
-
-*   [vitaviva/fragivity](https://github.com/vitaviva/fragivity) - Use Fragment like Activity
-
-*   [square/curtains](https://github.com/square/curtains) - Lift the curtain on Android Windows!
-
-*   [YvesCheung/UInspector](https://github.com/YvesCheung/UInspector) - A UI inspector to traverse a view hierarchy on Android
-
-*   [ReactiveCircus/app-versioning](https://github.com/ReactiveCircus/app-versioning) - A Gradle Plugin for lazily generating Android app's versionCode & versionName from Git tags.
-
-*   [wayfair-archive/panel-layout](https://github.com/wayfair-archive/panel-layout) - Panel Layout is a UI library for Android that allows you to display a floating and resizable panel that can also snap to the edges.
-
-*   [deepmedia/Grease](https://github.com/deepmedia/Grease) - Fat AARs for Android, to distribute multiple library modules in a single file with no dependencies, with relocation support.
-
-*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
-
-*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
-
-*   [Gurupreet/ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
-
-*   [Gurupreet/ComposeSpotifyDesktop](https://github.com/Gurupreet/ComposeSpotifyDesktop) - Spotify Demo Desktop app using Jetpack compose
-
-*   [nikit19/ScreenshotDetector](https://github.com/nikit19/ScreenshotDetector) - A demo app to show how to detect screenshots taken by the user while using the app
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-
-*   [SmartToolFactory/Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials) - 🍭🚀💗  Tutorials about animations with Animators, Animated Vector Drawables, Shared Transitions, and more
-
-*   [saket/press](https://github.com/saket/press) - Cross-platform markdown editor written in Kotlin Multiplatform (work in progress)
-
-*   [skydoves/Bundler](https://github.com/skydoves/Bundler) - 🎁 Android Intent & Bundle extensions that insert and retrieve values elegantly.
-
-*   [iambaljeet/GmailCompose](https://github.com/iambaljeet/GmailCompose) - GmailCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android.
-
-*   [ImangazalievM/material-prefs](https://github.com/ImangazalievM/material-prefs) - ⚙ A beautiful and extensible API for bulding preferences screen
-
-*   [muhrifqii/ParseRSS](https://github.com/muhrifqii/ParseRSS) - A cup of library to Parse RSS for android. Also available as a ConverterFactory for Retrofit & Fuel
-
-*   [yunshuipiao/Potato](https://github.com/yunshuipiao/Potato) - Read the fucking source code for the Android  interview
-
-*   [saket/cascade](https://github.com/saket/cascade) - Nested popup menus with smooth height animations for Android
-
-*   [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
-
-*   [bilibili/BRouter](https://github.com/bilibili/BRouter) -
-
-*   [hakobast/DropdownTextView](https://github.com/hakobast/DropdownTextView) - Simple drop-down(expandable) TextView for Android
-
-*   [hi-dhl/ComposingBuilds-vs-buildSrc](https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc) -  Composing builds 和 buildSrc 优势劣势对比，仓库提供了 buildSrc 和 Composing builds 两个构建脚本，下文有使用方法，如果对你有帮助，请在右上角 star 一下，感谢
-
-*   [ajalt/colormath](https://github.com/ajalt/colormath) - Multiplatform Kotlin color conversion and manipulation
-
-*   [ZenitechSoftware/Krate](https://github.com/ZenitechSoftware/Krate) - A SharedPreferences wrapper powered by Kotlin delegates
-
-*   [lopspower/Biometric](https://github.com/lopspower/Biometric) - The easiest way is to use the new version of Biometric under AndroidX 🔒
-
-*   [codoon/ThreadTracker](https://github.com/codoon/ThreadTracker) - thread tracing for android
-
-*   [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
-
-*   [Aghajari/ZoomHelper](https://github.com/Aghajari/ZoomHelper) - ZoomHelper will make any view to be zoomable just like Instagram pinch-to-zoom
-
-*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-
-*   [cesarferreira/tempo](https://github.com/cesarferreira/tempo) - ⌚Kotlin intuitive Date extensions.
-
-*   [Perfomer/blitz](https://github.com/Perfomer/blitz) - Android Library: Set self-updating string with relative time in TextView (e.g. 5 minutes ago)
-
-*   [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
-
-*   [fede87/StatusBarAlert](https://github.com/fede87/StatusBarAlert) - Telegram X inspired android status bar alert view
-
-*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-
-*   [hi-dhl/AndroidX-Jetpack-Practice](https://github.com/hi-dhl/AndroidX-Jetpack-Practice) - 本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢
-
-*   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-
-*   [MichaelRocks/paranoid](https://github.com/MichaelRocks/paranoid) - String obfuscator for Android applications.
-
-*   [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
-
-*   [Devlight/CornerCutLinearLayout](https://github.com/Devlight/CornerCutLinearLayout) - Linear Layout that allow corner (parent and children) cuts, complex shadow and divider.
-
-*   [cashapp/contour](https://github.com/cashapp/contour) - Layouts with lambdas 😎
-
-*   [wuyr/GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier) - 一款Android Studio插件，帮助你快速添加依赖库和查询历史版本
-
-*   [STAR-ZERO/NavProguardGenerator](https://github.com/STAR-ZERO/NavProguardGenerator) - Auto generate proguard rule file for Jetpack Navigation Component and apply the file to configuration.
-
-*   [st235/SamuraiView](https://github.com/st235/SamuraiView) - Simple showcase library. Made Samurai great again! ⚔️
-
-*   [st235/ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) - A new way to implement navigation in your app 🏎
-
-*   [Dhaval2404/ColorPicker](https://github.com/Dhaval2404/ColorPicker) - 🎨 Color Picker Library for Android
-
-*   [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
-
-*   [akexorcist/SnapTimePicker](https://github.com/akexorcist/SnapTimePicker) - \[Android] Another Material Time Picker
-
-*   [zhpanvip/viewpagerindicator](https://github.com/zhpanvip/viewpagerindicator) - 🔥  Worked with ViewPager and ViewPager2,support multiple slider styles and multiple slide mode.This repo was split from BannerViewPager-
-
-*   [rubensousa/Decorator](https://github.com/rubensousa/Decorator) - Decorator is an Android library that helps creating composable margins and dividers in RecyclerViews
-
-*   [HamidrezaAmz/MagicalExoPlayer](https://github.com/HamidrezaAmz/MagicalExoPlayer) - The Easiest Way To Play/Stream Video And Audio Using Google ExoPlayer In Your Android Application
-
-*   [MindorksOpenSource/ConcatAdapter-Android-Example](https://github.com/MindorksOpenSource/ConcatAdapter-Android-Example) - In this project, we have demonstrated how to use Concat Adapter in Android
-
-*   [MindorksOpenSource/Uber-Car-Animation-Android](https://github.com/MindorksOpenSource/Uber-Car-Animation-Android) -  An example project to demonstrate how to Add Uber Like Car Animation in Android App
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-*   [B3nedikt/restring](https://github.com/B3nedikt/restring) - Restring is a android library to replace string resources  dynamically
-
-*   [skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout) - 🌠 Transform between two Views, Activities, and Fragments, or a View to a Fragment with container transform animations for Android.
-
-*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
-
-*   [adibfara/ComposeClock](https://github.com/adibfara/ComposeClock) - Particle clock created with Jetpack Compose framework
-
-*   [yshrsmz/KeyboardVisibilityEvent](https://github.com/yshrsmz/KeyboardVisibilityEvent) - Android Library to handle software keyboard visibility change event.
-
-*   [Droppers/AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) - A customizable and easy to use BottomBar navigation view with sleek animations, with support for ViewPager, ViewPager2, NavController, and badges.
-
-*   [material-components/material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
-
-*   [lopspower/CircularProgressBar](https://github.com/lopspower/CircularProgressBar) - Create circular ProgressBar in Android ⭕
-
-*   [TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
-
-*   [bitvale/Switcher](https://github.com/bitvale/Switcher) - Android implementation of switch animation from Oleg Frolov
-
-*   [JakeWharton/wormhole](https://github.com/JakeWharton/wormhole) - A time-traveling bytecode rewriter which adds future APIs to android.jar
-
-*   [skydoves/DisneyMotions](https://github.com/skydoves/DisneyMotions) - 🦁  A Disney app using transformation motions based on MVVM (ViewModel, Coroutines, Flow, Room, Repository, Koin) architecture.
-
-*   [PatilShreyas/LiveStream-kt](https://github.com/PatilShreyas/LiveStream-kt) - LiveStream is a simple class which makes communication easy among different modules of your application.
-
-*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-
-*   [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
-
-*   [Spikeysanju/ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) - 🎢 Zoom Recycler Layout Manager For Android Kotlin
-
-*   [bardss/PaintableVectorView](https://github.com/bardss/PaintableVectorView) - 🎨 PaintableVectorView enables to change color of paths/groups in Vector Drawable (SVG) 🎨
-
-*   [Maxr1998/ModernAndroidPreferences](https://github.com/Maxr1998/ModernAndroidPreferences) - Android Preferences defined through Kotlin DSL, shown in a RecyclerView
-
-*   [gotev/android-cookie-store](https://github.com/gotev/android-cookie-store) - Android InMemory and persistent Cookie Store for HttpURLConnection and OkHttp, with extensions to easily sync cookies in Android WebViews.
-
-*   [gotev/android-upload-service](https://github.com/gotev/android-upload-service) - Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
-
-*   [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
-
-*   [Airsaid/AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) - :earth\_asia:  Android/KMP localization plugin. supports multiple languages and multiple translators.
-
-*   [nikhilpanju/FabFilter](https://github.com/nikhilpanju/FabFilter) - Android app to showcase complex UI/Animations with and without MotionLayout
-
-*   [MalekKamel/FormValidator](https://github.com/MalekKamel/FormValidator) - A declarative Form Validation for Android, simple, clean, and customizable.
-
-*   [L4Digital/FastScroll](https://github.com/L4Digital/FastScroll) - A ListView-like FastScroller for Android’s RecyclerView.
-
-*   [florent37/ApplicationProvider](https://github.com/florent37/ApplicationProvider) - Retrieve the android application and the current activity from anywhere
-
-*   [PaulWoitaschek/Slimber](https://github.com/PaulWoitaschek/Slimber) - Built upon Timber. Without performance penality.
-
-*   [SusionSuc/AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid) - Android 进阶
-
-*   [JakeWharton/diffuse](https://github.com/JakeWharton/diffuse) - Diffuse is a tool for diffing APKs, AABs, AARs, and JARs
-
-*   [Chrisvin/RubberPicker](https://github.com/Chrisvin/RubberPicker) - Android Rubber Picker Library
-
-*   [ibrahimsn98/SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) - A lightweight Android material bottom navigation bar library
-
-*   [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
-
-*   [zhengcx/MethodTraceMan](https://github.com/zhengcx/MethodTraceMan) - 用于快速找到高耗时方法，定位解决Android App卡顿问题。通过gradle plugin+ASM实现可配置范围的方法插桩来统计所有方法的耗时，并提供友好的界面展示，支持耗时筛选、线程筛选、方法名筛选等。(A Tool for Discovering High Time-consuming Methods for Android App)
-
-*   [PureWriter/ObscureDefaultLifecycleObserver](https://github.com/PureWriter/ObscureDefaultLifecycleObserver) - Let subclasses of default LifecycleObserver can be completely obfuscated
-
-*   [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android !
-
-*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-
-*   [7hens/android-x2j](https://github.com/7hens/android-x2j) - ☕ write XML, run Java.
-
-*   [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
-
-*   [hcbpassos/waterfall-toolbar](https://github.com/hcbpassos/waterfall-toolbar) -
-
-*   [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) - A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
-
-*   [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
-
-*   [majorkik/SparkLineLayout](https://github.com/majorkik/SparkLineLayout) - Simple and lightweight library for drawing sparklines / graphs. Support markers and gradients.
-
-*   [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
-
-*   [InflationX/ViewPump](https://github.com/InflationX/ViewPump) - View Inflation you can intercept.
-
-*   [transferwise/sequence-layout](https://github.com/transferwise/sequence-layout) - A vertical sequence UI component for Android
-
-*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
-
-*   [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-
-*   [lopspower/CircleView](https://github.com/lopspower/CircleView) - Create circular view in android (change color, border & shadow) ⚫
-
-*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-
-*   [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
-
-*   [VincentMasselis/RxBluetoothKotlin](https://github.com/VincentMasselis/RxBluetoothKotlin) - Bluetooth low energy reactive framework for Android written in Kotlin
-
-*   [wuyr/LitePager](https://github.com/wuyr/LitePager) - LitePager，一个轻量级的ViewPager，仿新版网易云歌单广场
-
-*   [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
-
-*   [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
-
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
-*   [VincentMasselis/RxUIKotlin](https://github.com/VincentMasselis/RxUIKotlin) - Kotlin designed reactive extensions for the Android UI
-
-*   [naman14/TimberX](https://github.com/naman14/TimberX) - Material theme music player that works across all form factors (phones, wear, auto, cast, assistant) and uses latest tools (Kotlin, Architecture components, Room, Databinding)
-
-*   [gatheringhallstudios/MHWorldDatabase](https://github.com/gatheringhallstudios/MHWorldDatabase) -
-
-*   [WGwangguan/SeparatedEditText](https://github.com/WGwangguan/SeparatedEditText) - 仿支付宝密码输入框、微信密码输入框，美团外卖验证码输入框等。有实心，空心以及下划线形式。可控制文本是否显示。
-
-*   [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
-
-*   [florent37/Multiplatform-Preferences](https://github.com/florent37/Multiplatform-Preferences) - Kotlin Multi Platform Preferences, for android an ios : SharedPreferences & NSUserDefault
-
-*   [armcha/ElasticView](https://github.com/armcha/ElasticView) - Elastic view is a regular CardView, which can flex from user touches
-
-*   [heimashi/kotlin\_tips](https://github.com/heimashi/kotlin_tips) - \[DEPRECATED] 用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
-
-*   [CoderLengary/WanAndroidTodo](https://github.com/CoderLengary/WanAndroidTodo) -
-
-*   [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
-
-*   [Daio-io/dresscode](https://github.com/Daio-io/dresscode) - 👔 Tiny lightweight Kotlin Android library to change theme at runtime.
-
-*   [Nevolution/decorator-wechat](https://github.com/Nevolution/decorator-wechat) - WeChat Modernized (Nevolution Decorator)
-
-*   [werbhelius/MoreType](https://github.com/werbhelius/MoreType) - new method to build data in RecyclerView with Kotlin!
-
-*   [mistamek/Android-drawable-preview-plugin](https://github.com/mistamek/Android-drawable-preview-plugin) - Android studio plugin for preview drawables
-
-*   [ingbyr/vdm](https://github.com/ingbyr/vdm) - GUI for command-line video downloader (youtube-dl annie)
-
-*   [YuganshT79/Smiley-Rating](https://github.com/YuganshT79/Smiley-Rating) - A custom android Rating view with Interactive Smiles :smile:
-
-*   [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
-
-*   [uni-cstar/HaloPermission](https://github.com/uni-cstar/HaloPermission) - An Android permission library developed by Kotlin language with higher extensibility and compatibility.
-
-*   [alexstyl/RadiusTransition](https://github.com/alexstyl/RadiusTransition) - Transition between a circle to a square.  ⚪️→ ⬜️
-
-*   [Karn/notify](https://github.com/Karn/notify) - Simplified notification construction and delivery for Android.
-
-*   [Kyash/rx-keyboard-detector](https://github.com/Kyash/rx-keyboard-detector) - Light-weight Android library that helps detecting keyboard opened/closed status by using RxJava2 & Kotlin
-
-*   [brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia) - An Android ExoPlayer wrapper to simplify Audio and Video implementations
-
-*   [florent37/Shrine-MaterialDesign2](https://github.com/florent37/Shrine-MaterialDesign2) - implementation of Material Design 2 Shrine project
-
-*   [lapism/search](https://github.com/lapism/search) - Material You Search component for Android, SearchView
-
-*   [afollestad/aesthetic](https://github.com/afollestad/aesthetic) - \[DEPRECATED]
-
-*   [RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo.
-
-*   [Ramotion/fluid-slider-android](https://github.com/Ramotion/fluid-slider-android) - :octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Android library made by @Ramotion
-
-*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-
-*   [Hamadakram/Mural](https://github.com/Hamadakram/Mural) - A lightweight image loading library in Kotlin
-
-*   [EspoirX/StarrySky](https://github.com/EspoirX/StarrySky) - 🔥A Powerful and Streamline MusicLibrary(一个丰富的音乐播放封装库,支持多种音频格式,完美解决你的问题。)
-
-*   [ArchitShah248/CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker) - Library to pick date range
-
-*   [TonnyL/Charles](https://github.com/TonnyL/Charles) - \[WIP]✨ Charles is a local multi-media selector for Android
-
-*   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
-
-*   [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!
-
-*   [TonnyL/Mango](https://github.com/TonnyL/Mango) - 🏀 An Android app for dribbble.com
-
-*   [loopeer/shadow](https://github.com/loopeer/shadow) - Deprecated because of the performance not fine. Android custom shadow view, can replace your CardView
-
-*   [sumimakito/AwesomeQRCode](https://github.com/sumimakito/AwesomeQRCode) - An awesome QR code generator for Android.
-
-*   [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly. 📸
-
-*   [ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload) - A multi-threaded download tool written with RxJava and Kotlin
-
-*   [TonnyL/Light](https://github.com/TonnyL/Light) - 🍭 The usual Snackbar, but elegant
-
-*   [TonnyL/PaperPlane](https://github.com/TonnyL/PaperPlane) - 📚 PaperPlane - An Android reading app, including articles from Zhihu Daily, Guokr Handpick and Douban Moment.
-
-*   [Mauker1/MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - Android Search View based on Material design guidelines.
-
-*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
-
-*   [garretyoder/Colorful](https://github.com/garretyoder/Colorful) - Android runtime theme library
-
-*   [jaredrummler/HtmlDsl](https://github.com/jaredrummler/HtmlDsl) - Build valid HTML for Android TextView
-
-*   [JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
-
-*   [salRoid/Filmy](https://github.com/salRoid/Filmy) - :movie\_camera: Material designed awesome movie app which is powered by tmdb.
-
-*   [anastr/SpeedView](https://github.com/anastr/SpeedView) - Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
-*   [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
-
-*   [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 
 ## JavaScript
 
@@ -3093,8 +3095,6 @@
 *   [Jude95/FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) - 适应Statusbar与NavigationBar的各种Layout
 
 *   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
-
-*   [yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) - Android library providing simple way to control divider items (ItemDecoration) of RecyclerView
 
 ## Perl
 
