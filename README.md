@@ -1022,7 +1022,7 @@
 
 *   [android/skills](https://github.com/android/skills) -
 
-*   [hamen/compose\_skill](https://github.com/hamen/compose_skill) -
+*   [hamen/compose\_skill](https://github.com/hamen/compose_skill) - A strict, evidence-based audit skill for Android Jetpack Compose repositories.
 
 *   [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 
@@ -1237,6 +1237,8 @@
 *   [liriliri/vivy](https://github.com/liriliri/vivy) - Stable diffusion desktop app
 
 *   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 
@@ -1841,8 +1843,6 @@
 *   [pacificsky/tuneboss](https://github.com/pacificsky/tuneboss) - A Spotify 'Now Playing' screen designed for portrait-mode mobile devices
 
 *   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 
