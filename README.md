@@ -62,6 +62,8 @@
 
 ​
 
+*   [DenserMeerkat/June](https://github.com/DenserMeerkat/June) - 📖 An open-source multimedia life capsule for expressive, private journaling. Capture your world with rich media and dynamic theming while maintaining 100% data ownership.
+
 *   [obirije/LUI](https://github.com/obirije/LUI) - Your minimalistic AI assistant on an android luncher that actually do stuffs
 
 *   [dokar3/sheets](https://github.com/dokar3/sheets) - Another feature-rich bottom sheet for Compose Multiplatform.
@@ -214,7 +216,7 @@
 
 *   [jordond/MaterialKolor](https://github.com/jordond/MaterialKolor) - 🎨 Generate a dynamic Material3 color scheme from a seed color
 
-*   [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+*   [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
 *   [MoyuruAizawa/Cropify](https://github.com/MoyuruAizawa/Cropify) - Image Cropper for Android Jetpack Compose.
 
@@ -3207,8 +3209,6 @@
 ​
 
 *   [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) - A gradle plugin that merge dependencies into the final aar file works with AGP 3.+
-
-*   [chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin) - 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。
 
 ## Go Template
 
