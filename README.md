@@ -62,7 +62,7 @@
 
 ​
 
-*   [DenserMeerkat/June](https://github.com/DenserMeerkat/June) - 📖 An open-source multimedia life capsule for expressive, private journaling. Capture your world with rich media and dynamic theming while maintaining 100% data ownership.
+*   [DenserMeerkat/June](https://github.com/DenserMeerkat/June) - 📖 An open-source multimedia journal for expressive, private journaling, with 100% data ownership.
 
 *   [obirije/LUI](https://github.com/obirije/LUI) - Your minimalistic AI assistant on an android luncher that actually do stuffs
 
@@ -1184,7 +1184,7 @@
 
 *   [Chorus-AIDLC/Chorus](https://github.com/Chorus-AIDLC/Chorus) - The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)
 
-*   [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) -  Run multiple AI coding agents across projects (Claude Code and Codex)
+*   [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
 *   [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 
