@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Objective-C](#objective-c)
@@ -26,7 +27,6 @@
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [C](#c-2)
@@ -58,9 +58,111 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
+## Shell
+
+​
+
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+
+*   [eleven-net-cn/llm-wiki-starter](https://github.com/eleven-net-cn/llm-wiki-starter) - Create an LLM Wiki knowledge base in one command — based on Andrej Karpathy's LLM Wiki pattern.
+
+*   [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+
+*   [aristorechina/wxWebHook](https://github.com/aristorechina/wxWebHook) - 本项目是一个轻量级的消息通知服务。通过封装微信官方接口，帮助开发者将关键信息快速推送至微信端。用户只需通过简单的 HTTP 请求或命令行调用即可将内容实时推送到自己的微信上，实现随时随地接收提醒。
+
+*   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+
+*   [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
+
+*   [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) - A collection of settings to make Claude Code more useful.
+
+*   [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
+
+*   [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
+
+*   [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
+
+*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+*   [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
+
+*   [Bruceforce/vaultwarden-backup](https://github.com/Bruceforce/vaultwarden-backup) - This is a mirror of https://gitlab.com/1O/vaultwarden-backup
+
+*   [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 应用商店 (Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)
+
+*   [410154425/Message\_Forwarding](https://github.com/410154425/Message_Forwarding) - 消转模块magisk模块，通过微信或钉钉官方API接口将指定应用(短信、来电、其它APP)的消息通知转发到个人微信或钉钉。top大佬(酷安)
+
+*   [410154425/QuantitativeStopCharging\_switch\_magisk](https://github.com/410154425/QuantitativeStopCharging_switch_magisk) - QSC定量停充\_独立开关版magisk模块，到达指定电量、指定温度自动停止充电、自动恢复充电。top大佬(酷安)
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [Magisk-Modules-Alt-Repo/FluentEmojiMagisk](https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft.
+
+*   [yongxin-tech/Bash-Simple-Code-Obfuscator](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator) - This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
+
+*   [VR-25/djs](https://github.com/VR-25/djs) - Daily Job Scheduler
+
+*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+
+*   [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
+
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+
+*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+
+*   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
+
+*   [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
+
+*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+
+*   [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
+
+*   [yihanwu1024/badcert](https://github.com/yihanwu1024/badcert) - A collection of certificates that sign unwanted software.
+
+*   [yc9559/qti-mem-opt](https://github.com/yc9559/qti-mem-opt) - Memory management optimaization for Qualcomm platform
+
+*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
+
+*   [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+
+*   [user1121114685/koolproxyR](https://github.com/user1121114685/koolproxyR) -
+
+*   [CNMan/dnscrypt-proxy-config](https://github.com/CNMan/dnscrypt-proxy-config) -
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+
+*   [dakkidaze/one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
+
+*   [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
+
+*   [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
+
 ## Python
 
 ​
+
+*   [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
 
 *   [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 
@@ -449,10 +551,6 @@
 *   [Mike-bel/awesome-android](https://github.com/Mike-bel/awesome-android) - A better way to collect the awesome repositories on GitHub for android developers.
 
 *   [ryanhoo/make-icons](https://github.com/ryanhoo/make-icons) - A demonstration for practicing Sketch skills by following the tutorial #makeicons step by step.
-
-*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
-
-*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
 
 ## Objective-C
 
@@ -2780,104 +2878,6 @@
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
-## Shell
-
-​
-
-*   [eleven-net-cn/llm-wiki-starter](https://github.com/eleven-net-cn/llm-wiki-starter) - Create an LLM Wiki knowledge base in one command — based on Andrej Karpathy's LLM Wiki pattern.
-
-*   [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
-
-*   [aristorechina/wxWebHook](https://github.com/aristorechina/wxWebHook) - 本项目是一个轻量级的消息通知服务。通过封装微信官方接口，帮助开发者将关键信息快速推送至微信端。用户只需通过简单的 HTTP 请求或命令行调用即可将内容实时推送到自己的微信上，实现随时随地接收提醒。
-
-*   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
-
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-
-*   [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
-
-*   [wasabeef/claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook) - A collection of settings to make Claude Code more useful.
-
-*   [vinceliuice/Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [pzcn/Perfect-Icons-Completion-Project](https://github.com/pzcn/Perfect-Icons-Completion-Project) - MIUI 完美图标补全计划
-
-*   [kentonv/lanparty](https://github.com/kentonv/lanparty) - Netboot a fleet of desktop machines from a single base image
-
-*   [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
-
-*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-
-*   [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden\_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
-
-*   [Bruceforce/vaultwarden-backup](https://github.com/Bruceforce/vaultwarden-backup) - This is a mirror of https://gitlab.com/1O/vaultwarden-backup
-
-*   [bigbugcc/OpenWrts](https://github.com/bigbugcc/OpenWrts) - OpenWRT 固件下载 应用商店 (Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)
-
-*   [410154425/Message\_Forwarding](https://github.com/410154425/Message_Forwarding) - 消转模块magisk模块，通过微信或钉钉官方API接口将指定应用(短信、来电、其它APP)的消息通知转发到个人微信或钉钉。top大佬(酷安)
-
-*   [410154425/QuantitativeStopCharging\_switch\_magisk](https://github.com/410154425/QuantitativeStopCharging_switch_magisk) - QSC定量停充\_独立开关版magisk模块，到达指定电量、指定温度自动停止充电、自动恢复充电。top大佬(酷安)
-
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-*   [Magisk-Modules-Alt-Repo/FluentEmojiMagisk](https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft.
-
-*   [yongxin-tech/Bash-Simple-Code-Obfuscator](https://github.com/yongxin-tech/Bash-Simple-Code-Obfuscator) - This tool help you to obfuscate codes simply, especially in situation that no useful obfuscator of programming language, like swift, flutter.
-
-*   [VR-25/djs](https://github.com/VR-25/djs) - Daily Job Scheduler
-
-*   [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
-
-*   [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
-
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-*   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-
-*   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
-
-*   [opencardev/crankshaft](https://github.com/opencardev/crankshaft) - Crankshaft: A turnkey GNU/Linux solution that transforms a Raspberry Pi to an Android Auto head unit.
-
-*   [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
-
-*   [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
-
-*   [yihanwu1024/badcert](https://github.com/yihanwu1024/badcert) - A collection of certificates that sign unwanted software.
-
-*   [yc9559/qti-mem-opt](https://github.com/yc9559/qti-mem-opt) - Memory management optimaization for Qualcomm platform
-
-*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
-
-*   [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
-
-*   [user1121114685/koolproxyR](https://github.com/user1121114685/koolproxyR) -
-
-*   [CNMan/dnscrypt-proxy-config](https://github.com/CNMan/dnscrypt-proxy-config) -
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-
-*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-
-*   [dakkidaze/one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
-
-*   [lanceseidman/PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device.
-
-*   [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
-
 ## Go
 
 ​
@@ -3072,7 +3072,7 @@
 
 ​
 
-*   [amzxyz/rime\_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
+*   [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
