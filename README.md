@@ -94,7 +94,7 @@
 
 ​
 
-*   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP. Just sync, approve, and resume your Codex,Pi, or Claude sessions anywhere.
+*   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude code sessions anywhere. 0-Intrusion mobile control via Telegram/WeChat.   No hooks, no skills, no MCP.
 
 *   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
