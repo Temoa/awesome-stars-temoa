@@ -68,7 +68,7 @@
 
 *   [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 
-*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 *   [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) -
 
@@ -294,9 +294,9 @@
 
 ​
 
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 
-*   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/WeChat.   No hooks, no skills, no MCP.
+*   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/Wechat/飞书.   No hooks, no skills, no MCP.
 
 *   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
@@ -1306,7 +1306,7 @@
 
 *   [HenryChiao/MIHOMO\_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
 
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
 *   [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
 
