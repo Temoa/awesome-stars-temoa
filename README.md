@@ -294,7 +294,7 @@
 
 ​
 
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 
 *   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/Wechat/飞书.   No hooks, no skills, no MCP.
 
@@ -2876,7 +2876,7 @@
 
 *   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
 
-*   [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
+*   [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 
 *   [didi/dimina](https://github.com/didi/dimina) - 星河小程序 - 滴滴开源小程序 / Dimina MiniProgram - DiDi's Open-Source MiniProgram
 
