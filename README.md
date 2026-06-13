@@ -12,6 +12,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Python](#python)
@@ -58,6 +59,12 @@
 *   [Lex](#lex)
 *   [Thanks](#thanks)
 
+## Zig
+
+​
+
+*   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+
 ## TypeScript
 
 ​
@@ -70,7 +77,7 @@
 
 *   [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 
-*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 *   [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse) -
 
@@ -718,7 +725,7 @@
 
 *   [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
-*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+*   [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 
 *   [tuchg/Lucarne](https://github.com/tuchg/Lucarne) - Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude code sessions anywhere. 0-Intrusion mobile control bridge via Telegram/微信/飞书.   No hooks, no skills, no MCP.
 
@@ -1383,8 +1390,6 @@
 *   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
 
 *   [LittleFriendsGroup/BottomNavigation](https://github.com/LittleFriendsGroup/BottomNavigation) - 底部导航栏（Bottom navigation）设计规范指南
-
-*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 
 ## Kotlin
 
