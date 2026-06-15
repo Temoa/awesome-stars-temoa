@@ -1623,7 +1623,7 @@
 
 *   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 
-*   [akexorcist/RoundCornerProgressBar](https://github.com/akexorcist/RoundCornerProgressBar) - \[Android] Round Corner Progress Bar Library for Android
+*   [akexorcist/round-corner-progress-bar](https://github.com/akexorcist/round-corner-progress-bar) - \[Android] Round Corner Progress Bar Library for Android
 
 *   [CleverPumpkin/CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A beautiful material calendar with endless scroll, range selection and a lot more!
 
