@@ -1531,6 +1531,8 @@
 
 *   [KYDronePilot/SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live weather satellite imagery for your desktop background
 
+*   [2BAB/KOGE](https://github.com/2BAB/KOGE) - Notebook for Kotlin-oriented Gradle Essential.
+
 *   [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -2029,15 +2031,13 @@
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 906 KB
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 906 KB
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
 *   [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
-
-*   [2BAB/KOGE](https://github.com/2BAB/KOGE) - Notebook for Kotlin-oriented Gradle Essential.
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
