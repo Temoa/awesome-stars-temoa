@@ -979,7 +979,7 @@
 
 *   [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum) - Delve into the rich collection of masterpieces.
 
-*   [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
+*   [panpf/sketch](https://github.com/panpf/sketch) - Image loading library designed for Compose Multiplatform and Android View. Supports loading Image, GIF, SVG, Video thumbnails from the network, local, resources, and photo albums.
 
 *   [hiennguyen92/flutter\_callkit\_incoming](https://github.com/hiennguyen92/flutter_callkit_incoming) - Flutter Callkit Incoming
 
